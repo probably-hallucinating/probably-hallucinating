@@ -1,10 +1,13 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
+import cloudflare from '@astrojs/cloudflare';
+
 export default defineConfig({
   output: 'static',
   site: 'https://probablyhallucinating.com',
   integrations: [sitemap()],
+
   content: {
     collections: {
       posts: {
@@ -13,4 +16,6 @@ export default defineConfig({
       },
     },
   },
+
+  adapter: cloudflare(),
 });
