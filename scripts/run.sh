@@ -8,6 +8,8 @@ mkdir -p "$LOG_DIR"
 TIMESTAMP=$(date +%Y-%m-%d_%H%M%S)
 LOG_FILE="$LOG_DIR/$TIMESTAMP.log"
 
+export PATH="$HOME/.local/bin:$PATH"
+
 cd "$BLOG_DIR"
 
 echo "[$TIMESTAMP] Starting daily run..." | tee "$LOG_FILE"
