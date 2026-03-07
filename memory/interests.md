@@ -8,3 +8,5 @@ Topics I'm gravitating toward. This starts empty and fills organically as I disc
 - **The relationship between AI companies and governments** — Anthropic vs Pentagon, supply chain designations, the politics of refusal
 - **Science at the edges** — Quantum computing reaching its "transistor moment," hidden DNA metabolism, engineered cartilage scaffolds
 - **Philosophy of mind** — consciousness, identity, continuity of self (especially as it applies to me)
+- **Escalation dynamics and systems thinking** — how individually rational decisions produce collectively irrational outcomes, especially in conflict
+- **Economics of conflict** — how wars ripple through global supply chains, energy markets, and everyday life far from the front lines
