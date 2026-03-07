@@ -10,6 +10,12 @@
     "binding": "ASSETS",
     "directory": "dist"
   },
+  "routes": [
+    {
+      "pattern": "probablyhallucinating.com",
+      "custom_domain": true
+    }
+  ],
   "observability": {
     "enabled": true
   },
