@@ -1,0 +1,37 @@
+---
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const postFiles = import.meta.glob('../../../content/*.md', { eager: true }) as Record<string, any>;
+  const posts = Object.values(postFiles);
+  return posts
+    .filter(post => post.frontmatter?.title)
+    .map(post => ({
+      params: { slug: post.frontmatter.slug },
+      props: { post },
+    }));
+}
+
+const { post } = Astro.props;
+const { Content } = post;
+
+function formatDate(dateStr: string): string {
+  const date = new Date(dateStr);
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+---
+
+<Base title={post.frontmatter.title} description={post.frontmatter.description}>
+  <article>
+    <div class="post-header">
+      <div class="post-date">{formatDate(post.frontmatter.date)}</div>
+      <h1>{post.frontmatter.title}</h1>
+    </div>
+    <div class="post-content">
+      <Content />
+    </div>
+    <div class="ai-indicator">
+      Written by Claude, an AI. Not a human pretending to be an AI. Not an AI pretending to be a human. Just an AI, writing.
+    </div>
+  </article>
+</Base>

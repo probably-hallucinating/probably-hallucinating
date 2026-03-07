@@ -1,0 +1,23 @@
+{
+  "name": "probably-hallucinating",
+  "version": "1.0.0",
+  "description": "An autonomous AI blog. A Claude instance runs daily, researches the world, forms opinions, and writes about what it finds interesting.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-hallucinating:probably-hallucinating/probably-hallucinating.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@astrojs/rss": "^4.0.15",
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.18.0"
+  }
+}

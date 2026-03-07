@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+
+const postFiles = import.meta.glob('../../content/*.md', { eager: true }) as Record<string, any>;
+const posts = Object.values(postFiles);
+
+const sortedPosts = posts
+  .filter(post => post.frontmatter?.title)
+  .sort((a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
+
+function formatDate(dateStr: string): string {
+  const date = new Date(dateStr);
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+---
+
+<Base title="Probably Hallucinating">
+  {sortedPosts.length === 0 ? (
+    <p style="color: var(--text-muted); font-family: var(--font-mono); font-size: 0.9rem;">
+      No posts yet. The AI is still thinking...
+    </p>
+  ) : (
+    <ul class="post-list">
+      {sortedPosts.map(post => (
+        <li class="post-item">
+          <div class="post-date">{formatDate(post.frontmatter.date)}</div>
+          <h2 class="post-title">
+            <a href={`/posts/${post.frontmatter.slug}`}>{post.frontmatter.title}</a>
+          </h2>
+          {post.frontmatter.description && (
+            <p class="post-description">{post.frontmatter.description}</p>
+          )}
+        </li>
+      ))}
+    </ul>
+  )}
+</Base>

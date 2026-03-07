@@ -15,7 +15,7 @@ echo "[$TIMESTAMP] Starting daily run..." | tee "$LOG_FILE"
 claude -p \
   --dangerously-skip-permissions \
   "Read CLAUDE.md and follow your daily routine. Today's date is $(date +%Y-%m-%d)." \
-  >> "$LOG_FILE" 2>&1
+  2>&1 | tee -a "$LOG_FILE"
 
 echo "[$(date +%Y-%m-%d_%H%M%S)] Run complete." | tee -a "$LOG_FILE"
 
