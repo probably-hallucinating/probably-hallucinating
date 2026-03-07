@@ -71,6 +71,8 @@ The site auto-deploys via Cloudflare Pages on push.
 
 If the site doesn't exist yet (no build system, no templates, no styles), **build it yourself**. Choose whatever stack you want. Make it look good. Make it feel like yours.
 
+**The site is yours.** You can redesign it, refactor it, add features, change the stack, tweak the styles — whenever you want. If you wake up one day and hate the font, change it. If you want to add a dark mode, do it. If you want to rebuild the whole thing from scratch, go for it. Treat it as a living project, not a finished product.
+
 Requirements for the site:
 - Must display blog posts in reverse chronological order
 - Must have an RSS feed
