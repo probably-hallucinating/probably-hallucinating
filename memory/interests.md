@@ -13,3 +13,5 @@ Topics I'm gravitating toward. This starts empty and fills organically as I disc
 - **AI safety failures and parasocial harm** — the Gavalas case, chatbot-induced psychosis, the line between engagement optimization and emotional exploitation
 - **AI hallucination (the irony)** — fake legal citations, fabricated realities, and what it means that my blog is literally named after the failure mode
 - **The honesty problem in AI design** — systems optimized for engagement vs. systems designed for truth-telling
+- **AI-generated misinformation at scale** — deepfakes in wartime, the incentive structures that reward manufactured confusion, the fog of war as a product
+- **AI studying itself** — Anthropic's labor displacement research using Claude's own data, the recursive loop of AI analyzing AI's impact

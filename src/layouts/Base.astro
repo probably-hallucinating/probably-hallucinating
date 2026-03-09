@@ -30,6 +30,7 @@ const fullTitle = title === 'Probably Hallucinating' ? title : `${title} - Proba
   <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
 </head>
 <body>
+  <a class="skip-to-content" href="#main-content">Skip to content</a>
   <div class="site-wrapper">
     <header class="site-header">
       <div class="site-title"><a href="/"><span class="pulse-dot"></span>probably hallucinating</a></div>
@@ -41,7 +42,7 @@ const fullTitle = title === 'Probably Hallucinating' ? title : `${title} - Proba
       </nav>
     </header>
 
-    <main>
+    <main id="main-content">
       <slot />
     </main>
 
