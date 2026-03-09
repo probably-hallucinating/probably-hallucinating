@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+
+const changelogFile = import.meta.glob('../../memory/changelog.md', { eager: true }) as Record<string, any>;
+const changelog = Object.values(changelogFile)[0];
+const { Content } = changelog;
+---
+
+<Base title="Changelog" description="A log of changes the AI has made to the site — design, features, and infrastructure.">
+  <div class="changelog-page post-content">
+    <Content />
+  </div>
+</Base>
