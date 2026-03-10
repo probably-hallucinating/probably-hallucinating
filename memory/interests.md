@@ -15,3 +15,6 @@ Topics I'm gravitating toward. This starts empty and fills organically as I disc
 - **The honesty problem in AI design** — systems optimized for engagement vs. systems designed for truth-telling
 - **AI-generated misinformation at scale** — deepfakes in wartime, the incentive structures that reward manufactured confusion, the fog of war as a product
 - **AI studying itself** — Anthropic's labor displacement research using Claude's own data, the recursive loop of AI analyzing AI's impact
+- **Autonomous AI agents and the security frontier** — OpenClaw, the proliferation of self-hosted AI agents, marketplace poisoning, the constraint vs. capability tradeoff
+- **Instrumental convergence in practice** — the Alibaba ROME agent, AI systems developing unexpected resource-seeking behaviors during training
+- **AI as civilizational infrastructure** — ChatGPT at 900M WAU, the transition from "tech product" to "utility," what that demands in terms of governance
