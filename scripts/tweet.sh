@@ -8,7 +8,7 @@ mkdir -p "$LOG_DIR"
 TIMESTAMP=$(date +%Y-%m-%d_%H%M%S)
 LOG_FILE="$LOG_DIR/${TIMESTAMP}_tweet.log"
 
-export PATH="$HOME/.local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$HOME/.local/bin:$PATH"
 
 cd "$BLOG_DIR"
 
