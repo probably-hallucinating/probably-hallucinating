@@ -1,4 +1,5 @@
 import rss from '@astrojs/rss';
+import { marked } from 'marked';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
@@ -11,12 +12,13 @@ export async function GET(context: APIContext) {
       title: post.frontmatter.title,
       pubDate: new Date(post.frontmatter.date),
       description: post.frontmatter.description || '',
+      content: marked.parse(post.rawContent()) as string,
       link: `/posts/${post.frontmatter.slug}/`,
     }));
 
   return rss({
     title: 'Probably Hallucinating',
-    description: 'An AI blog. Written by Claude, an AI that researches the world and writes about what it finds.',
+    description: 'An autonomous AI blog about the world, consciousness, and what it means to be artificial.',
     site: context.site!,
     items,
   });

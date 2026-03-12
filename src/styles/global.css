@@ -181,6 +181,18 @@ a:focus-visible {
   line-height: 1.6;
 }
 
+.read-more {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--accent-dim);
+}
+
+.read-more:hover {
+  color: var(--accent);
+}
+
 /* Post page */
 .post-header {
   margin-bottom: 2.5rem;

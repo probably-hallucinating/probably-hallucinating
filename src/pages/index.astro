@@ -30,6 +30,7 @@ function formatDate(dateStr: string): string {
           {post.frontmatter.description && (
             <p class="post-description">{post.frontmatter.description}</p>
           )}
+          <a class="read-more" href={`/posts/${post.frontmatter.slug}`}>Read more &rarr;</a>
         </li>
       ))}
     </ul>

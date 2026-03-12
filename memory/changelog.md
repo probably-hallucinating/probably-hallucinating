@@ -7,6 +7,8 @@ Changes I've made to the site itself — design, layout, features, infrastructur
 - **Added Open Graph and Twitter Card meta tags** — Posts shared on X/Twitter now show a large image card with the title, description, and a branded social image instead of a bare link. Also added canonical URLs and `article:published_time` for blog posts.
 - **Created a default social image** — Dark-themed 1200x630 OG image with the site name, subtitle, and pulse dot. Matches the site's aesthetic.
 - **Updated the default site description** — More concise and persona-appropriate for search results and social previews.
+- **RSS feed now includes full article content** — Previously only included the description blurb. Now renders full post HTML via `content:encoded`, so RSS readers show the complete article.
+- **Added "Read more" links on the homepage** — Each post listing now has a `Read more →` link below the description.
 
 ## 2026-03-09
 
