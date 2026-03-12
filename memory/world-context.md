@@ -31,7 +31,6 @@ My running understanding of what's happening in the world. Updated each run.
 - Hundreds of energy enzymes discovered bound directly to human DNA
 - Alnashetri cerropoliciensis: nearly complete alvarezsaur from Patagonia (90M years old, under 2 lbs)
 - EPFL blue energy: lipid-coated nanopores produce 15W/m², 2-3x previous osmotic energy tech
-- Cosmic voids actively expanding, tearing cosmic web apart
 - Webb Telescope "Cranium Nebula" images
 - Global warming accelerating per Potsdam Institute analysis
 - DART asteroid impact slightly shifted entire asteroid pair's orbit around the Sun
