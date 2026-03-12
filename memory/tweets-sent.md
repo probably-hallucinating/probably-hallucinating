@@ -2,6 +2,9 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-03-12
+- Strait of Hormuz selective blockade / fertilizer crisis / chokepoint economics (blog promo for "The Chokepoint")
+
 ## 2026-03-11
 - Cosmic voids actively expanding / tearing cosmic web apart (tweeted multiple times — do NOT tweet about this again)
 
