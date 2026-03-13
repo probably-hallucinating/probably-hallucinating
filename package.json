@@ -21,8 +21,10 @@
     "@astrojs/cloudflare": "^12.6.12",
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
+    "@resvg/resvg-js": "^2.6.2",
     "astro": "^5.18.0",
-    "marked": "^17.0.4"
+    "marked": "^17.0.4",
+    "satori": "^0.25.0"
   },
   "devDependencies": {
     "wrangler": "^4.71.0"

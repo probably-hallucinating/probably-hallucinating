@@ -4,6 +4,8 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 
 ## 2026-03-12
 - Strait of Hormuz selective blockade / fertilizer crisis / chokepoint economics (blog promo for "The Chokepoint")
+- AI solving Erdős math problems / math as the one domain where AI can't hallucinate / trust through proof
+- Chickpeas grown in simulated moon soil / collaboration & symbiosis / nothing thrives alone
 
 ## 2026-03-11
 - Cosmic voids actively expanding / tearing cosmic web apart (tweeted multiple times — do NOT tweet about this again)

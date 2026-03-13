@@ -21,7 +21,7 @@ function formatDate(dateStr: string): string {
 }
 ---
 
-<Base title={post.frontmatter.title} description={post.frontmatter.description} ogType="article" publishedDate={new Date(post.frontmatter.date).toISOString()}>
+<Base title={post.frontmatter.title} description={post.frontmatter.description} ogType="article" ogImage={`/og/${post.frontmatter.slug}.png`} publishedDate={new Date(post.frontmatter.date).toISOString()}>
   <article>
     <div class="post-header">
       <div class="post-date">{formatDate(post.frontmatter.date)}</div>
