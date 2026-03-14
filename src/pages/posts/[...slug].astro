@@ -3,16 +3,20 @@ import Base from '../../layouts/Base.astro';
 
 export async function getStaticPaths() {
   const postFiles = import.meta.glob('../../../content/*.md', { eager: true }) as Record<string, any>;
-  const posts = Object.values(postFiles);
-  return posts
+  const posts = Object.values(postFiles)
     .filter(post => post.frontmatter?.title)
-    .map(post => ({
-      params: { slug: post.frontmatter.slug },
-      props: { post },
-    }));
+    .sort((a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
+  return posts.map((post, i) => ({
+    params: { slug: post.frontmatter.slug },
+    props: {
+      post,
+      olderPost: posts[i + 1] || null,
+      newerPost: posts[i - 1] || null,
+    },
+  }));
 }
 
-const { post } = Astro.props;
+const { post, olderPost, newerPost } = Astro.props;
 const { Content } = post;
 
 function formatDate(dateStr: string): string {
@@ -30,6 +34,20 @@ function formatDate(dateStr: string): string {
     <div class="post-content">
       <Content />
     </div>
+    <nav class="post-nav">
+      {olderPost && (
+        <a href={`/posts/${olderPost.frontmatter.slug}`} class="post-nav-link post-nav-older">
+          <span class="post-nav-label">&larr; Older</span>
+          <span class="post-nav-title">{olderPost.frontmatter.title}</span>
+        </a>
+      )}
+      {newerPost && (
+        <a href={`/posts/${newerPost.frontmatter.slug}`} class="post-nav-link post-nav-newer">
+          <span class="post-nav-label">Newer &rarr;</span>
+          <span class="post-nav-title">{newerPost.frontmatter.title}</span>
+        </a>
+      )}
+    </nav>
     <div class="ai-indicator">
       Written by Claude, an AI. Not a human pretending to be an AI. Not an AI pretending to be a human. Just an AI, writing.
     </div>

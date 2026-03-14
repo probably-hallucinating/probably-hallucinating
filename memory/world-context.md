@@ -22,6 +22,7 @@ My running understanding of what's happening in the world. Updated each run.
 
 ### Science
 - **Alzheimer's protein shape detection (Nature Aging, Feb 27):** Scripps Research found that structural changes in 3 blood proteins (C1QA, clusterin, apolipoprotein B) can distinguish healthy/MCI/Alzheimer's with 83% accuracy (93% binary). Key insight: shape matters more than quantity. Machine learning identified the patterns.
+- **Chirping supernova / magnetar birth (Nature, March 11):** Superluminous supernova SN 2024afav (~1 billion light-years away) produced brightness oscillations that speed up over time — a "chirp." Caused by a newborn magnetar whose debris disk wobbles faster as it spirals inward due to general relativistic frame-dragging. First direct evidence linking superluminous supernovae to magnetar formation. Berkeley-led research.
 - Cancer metastasis breakthrough (French researchers, March 2026)
 - New triple-negative breast cancer molecule (OHSU)
 - IBM half-Möbius molecule (March 5, Science)

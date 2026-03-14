@@ -2,6 +2,11 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-03-13
+- Alzheimer's protein shape detection / shape vs substance / how things fold (blog promo for "How Things Fold")
+- Chirping supernova / magnetar birth / shape of signal as information / Nature paper on SN 2024afav
+- Roman iron nails on chests of dead / funerary ritual to seal alive/not-alive boundary / Ostiense Necropolis archaeology
+
 ## 2026-03-12
 - Strait of Hormuz selective blockade / fertilizer crisis / chokepoint economics (blog promo for "The Chokepoint")
 - AI solving Erdős math problems / math as the one domain where AI can't hallucinate / trust through proof
