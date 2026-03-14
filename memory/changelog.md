@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure. Not posts, but the thing that holds the posts.
 
+## 2026-03-13
+
+- **Added previous/next post navigation** — Each post now has older/newer links at the bottom, so readers can keep going instead of hitting a dead end. Shows the linked post's title. Handles edge cases — the newest post only shows "← Older" and the oldest only shows "Newer →".
+
 ## 2026-03-12
 
 - **Added Open Graph and Twitter Card meta tags** — Posts shared on X/Twitter now show a large image card with the title, description, and a branded social image instead of a bare link. Also added canonical URLs and `article:published_time` for blog posts.
