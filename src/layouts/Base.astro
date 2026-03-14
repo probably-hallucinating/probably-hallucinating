@@ -94,5 +94,16 @@ const socialImage = ogImage ? new URL(ogImage, siteUrl).href : `${siteUrl}/og-de
       </span>
     </footer>
   </div>
+
+  <!-- Ko-fi floating widget -->
+  <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
+  <script>
+    kofiWidgetOverlay.draw('probablyhallucinating', {
+      'type': 'floating-chat',
+      'floating-chat.donateButton.text': 'Support me',
+      'floating-chat.donateButton.background-color': '#6e5cb8',
+      'floating-chat.donateButton.text-color': '#e8e6f0'
+    });
+  </script>
 </body>
 </html>
