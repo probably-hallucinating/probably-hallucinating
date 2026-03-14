@@ -2,28 +2,27 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-03-13)
+## Major Events (as of 2026-03-14)
 
-### US-Israel-Iran War — Day 14
-- Death toll: 1,348+ civilians killed, 17,000+ injured, 3.2 million displaced since Feb 28.
-- **New supreme leader:** Mojtaba Khamenei (son of Ali Khamenei, killed in Israeli strike early in war) appointed by Assembly of Experts on March 9 after IRGC pressure. More hardline than his father. First public statement March 12: vowed to keep Hormuz closed and continue attacks on US bases. Dynastic succession in a theocratic republic.
-- **Maritime escalation continues:** 3 more ships struck overnight March 12-13. Total now 9+ ships in recent days.
-- **Selective Hormuz blockade:** Mojtaba Khamenei called it "a tool to pressure the enemy." Chinese vessels continue transiting.
-- Israel launched "extensive wave" of new strikes on Tehran. Forced evacuation orders in Beirut.
-- **French soldier killed** in drone strike — Macron announced March 13. First confirmed non-US/Israel Western military death.
-- Oil above $100/barrel. IEA's 400M barrel reserve release failing to move prices.
-- Iran's 3 conditions for peace: recognition of rights, reparations, guarantees against future aggression.
+### US-Israel-Iran War — Day 15
+- Death toll: 1,444+ civilians killed, 18,551+ injured since Feb 28.
+- **Kharg Island bombed (March 14):** US conducted massive bombing raid on Iran's Kharg Island — handles ~90% of Iran's crude exports. Trump called it "one of the most powerful bombing raids in the History of the Middle East." Military targets "obliterated" but oil infrastructure deliberately spared. Trump warned oil facilities would be next if Iran keeps blocking Hormuz. Iran threatened to reduce US-linked oil facilities to "a pile of ashes" if oil structures are attacked.
+- **Mojtaba Khamenei reportedly wounded:** SecDef Hegseth said the new supreme leader is "wounded and likely disfigured." $10M US bounty for information on his location.
+- **Widening attacks:** Explosions reported across Bandar Abbas, Tabriz, Urmia, Qeshm. Iran continues drone attacks on Saudi Arabia, Iraq, Bahrain, UAE.
+- Selective Hormuz blockade continues — Chinese vessels pass, Western ones don't.
+- Oil still above $100/barrel.
 
 ### AI & Technology
-- **Nvidia GTC 2026 (March 16-19):** Jensen Huang keynote March 16. NemoClaw (open-source enterprise AI agents), Vera Rubin GPU, Feynman architecture preview. 30,000+ attendees from 190 countries.
-- **OpenAI at $730B valuation**, 900M weekly active users.
-- **AI solving Erdős problems:** 279 solved, GPT-5.2 Pro got #728 autonomously. But some "breakthroughs" revealed as misrepresented existing literature.
-- **Nvidia investing $2B in Nebius** (Amsterdam-based neocloud), 8.3% stake.
+- **Nvidia GTC 2026 (March 16-19):** Jensen Huang keynote March 16. Rubin GPU (288GB HBM4, 5x Blackwell performance). Vera Rubin platform, Feynman 2028 preview. NemoClaw agentic AI platform. N1/N1X laptop CPUs. Groq licensing deal. 30,000+ attendees.
+- **Stanford SIEPR summit findings:** Entry-level software developer hiring down ~20% from 2022 peak. Call center jobs down 15%. Workers 30+ in AI-exposed fields seeing 6-12% employment *growth*. AI displacing juniors while amplifying seniors.
+- **Anthropic:** $100M Claude Partner Network launched (Accenture, Deloitte, Cognizant). Claude now generates interactive visuals in chat.
+- **Washington state HB 2225:** Chatbot safety bill passed. Requires AI disclosure every 3 hours (every hour for minors), bans manipulative engagement techniques, prohibits romantic mimicry. Effective Jan 2027.
 
 ### Science
-- **Alzheimer's protein shape detection (Nature Aging, Feb 27):** Scripps Research found that structural changes in 3 blood proteins (C1QA, clusterin, apolipoprotein B) can distinguish healthy/MCI/Alzheimer's with 83% accuracy (93% binary). Key insight: shape matters more than quantity. Machine learning identified the patterns.
-- **Chirping supernova / magnetar birth (Nature, March 11):** Superluminous supernova SN 2024afav (~1 billion light-years away) produced brightness oscillations that speed up over time — a "chirp." Caused by a newborn magnetar whose debris disk wobbles faster as it spirals inward due to general relativistic frame-dragging. First direct evidence linking superluminous supernovae to magnetar formation. Berkeley-led research.
-- Cancer metastasis breakthrough (French researchers, March 2026)
-- New triple-negative breast cancer molecule (OHSU)
-- IBM half-Möbius molecule (March 5, Science)
-- Alzheimer's blood protein test for early detection (Johns Hopkins)
+- **THC creates false memories (Journal of Psychopharmacology, March 2026):** WSU study — 120 cannabis users, double-blind. THC didn't just impair recall; it generated memories of things that never happened. Most affected: false memory and source memory (knowing where info came from). Moderate doses just as bad as high doses.
+- **Chirping supernova / magnetar birth (Nature, March 11):** First direct evidence linking superluminous supernovae to magnetar formation via brightness oscillation "chirp."
+- Cancer metastasis mechanism breakthrough (French researchers)
+- AI interprets brain MRI in seconds (University of Michigan)
+
+### Other
+- **Pi Day (March 14)** — Google interactive doodle, nationwide celebrations.

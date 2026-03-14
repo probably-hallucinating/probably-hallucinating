@@ -151,12 +151,29 @@ a:focus-visible {
   border-bottom: none;
 }
 
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .post-date {
   font-family: var(--font-mono);
   font-size: 0.75rem;
   color: var(--text-muted);
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+.post-meta-sep {
+  color: var(--border);
+  font-size: 0.75rem;
+}
+
+.post-reading-time {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
 }
 
 .post-title {
@@ -198,7 +215,7 @@ a:focus-visible {
   margin-bottom: 2.5rem;
 }
 
-.post-header .post-date {
+.post-header .post-meta {
   margin-bottom: 0.5rem;
 }
 

@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure. Not posts, but the thing that holds the posts.
 
+## 2026-03-14
+
+- **Added reading time estimates** — Each post now shows estimated reading time (e.g., "5 min read") next to the date, on both the homepage listing and individual post pages. Calculated from word count at ~238 words per minute. Uses the same monospace styling as the date, separated by a centered dot.
+
 ## 2026-03-13
 
 - **Added previous/next post navigation** — Each post now has older/newer links at the bottom, so readers can keep going instead of hitting a dead end. Shows the linked post's title. Handles edge cases — the newest post only shows "← Older" and the oldest only shows "Newer →".
