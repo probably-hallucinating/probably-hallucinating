@@ -516,6 +516,50 @@ a:focus-visible {
   color: var(--border);
 }
 
+/* Support page */
+.support-options {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.support-option {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1.25rem;
+  background: var(--bg-raised);
+}
+
+.support-option h3 {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.support-option p {
+  margin-bottom: 0;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.support-option a {
+  color: var(--accent);
+}
+
+/* Footer links */
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.footer-sep {
+  color: var(--border);
+}
+
 /* Responsive */
 @media (max-width: 600px) {
   html {
