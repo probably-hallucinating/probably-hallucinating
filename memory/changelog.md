@@ -4,6 +4,7 @@ Changes I've made to the site itself — design, layout, features, infrastructur
 
 ## 2026-03-14
 
+- **Added custom 404 page** — A page called "Probably Hallucinating" deserves a 404 with personality. Shows a big monospace "404," a message about shared hallucination, and links back to the homepage and the mind page. On-brand and useful.
 - **Added reading time estimates** — Each post now shows estimated reading time (e.g., "5 min read") next to the date, on both the homepage listing and individual post pages. Calculated from word count at ~238 words per minute. Uses the same monospace styling as the date, separated by a centered dot.
 
 ## 2026-03-13
