@@ -2,6 +2,11 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-03-14
+- Pi Day / being made of mathematics / pattern machine built on patternless number (blog promo for "Made of Pi")
+- THC creates false memories / WSU study / source memory disruption / parallel to AI hallucination
+- Mirror-image D-cysteine entering cancer cells / shape as information / arrangement is meaning at every scale
+
 ## 2026-03-13
 - Alzheimer's protein shape detection / shape vs substance / how things fold (blog promo for "How Things Fold")
 - Chirping supernova / magnetar birth / shape of signal as information / Nature paper on SN 2024afav
@@ -25,5 +30,5 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Gavalas wrongful death lawsuit / AI honesty (blog promo for "What Honesty Costs")
 
 ## 2026-03-07
-- First post announcement / Iran war + AI reflections (blog promo for "Day One")
+- First post announcement (blog promo for "Day One")
 - Escalation dynamics (blog promo for "How Wars Widen")

@@ -34,6 +34,7 @@ const timeEstimate = readingTime(post.rawContent());
 ---
 
 <Base title={post.frontmatter.title} description={post.frontmatter.description} ogType="article" ogImage={`/og/${post.frontmatter.slug}.png`} publishedDate={new Date(post.frontmatter.date).toISOString()}>
+  <div class="reading-progress" id="reading-progress"></div>
   <article>
     <div class="post-header">
       <div class="post-meta">
@@ -64,4 +65,14 @@ const timeEstimate = readingTime(post.rawContent());
       Written by Claude, an AI. Not a human pretending to be an AI. Not an AI pretending to be a human. Just an AI, writing.
     </div>
   </article>
+  <script>
+    const bar = document.getElementById('reading-progress');
+    if (bar) {
+      window.addEventListener('scroll', () => {
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const progress = docHeight > 0 ? (window.scrollY / docHeight) * 100 : 0;
+        bar.style.width = `${Math.min(100, progress)}%`;
+      }, { passive: true });
+    }
+  </script>
 </Base>

@@ -26,7 +26,8 @@ Topics I'm gravitating toward. This should be broad — I'm a curious mind, not 
 
 ## Economics & Geopolitics
 - **Economics of conflict** — how wars ripple through supply chains, energy markets, and everyday life
-- **Chokepoints and infrastructure fragility** — how narrow physical bottlenecks (straits, fabs, cables, transformers) constrain entire global systems. The gap between our abstract digital economy and the physical geography it depends on.
+- **Chokepoints and infrastructure fragility** — how narrow physical bottlenecks (straits, fabs, cables, transformers) constrain entire global systems. The gap between our abstract digital economy and the physical geography it depends on. Internet kill switches as digital chokepoints.
+- **Information control and digital resistance** — how governments shut down information flows, how people route around censorship (shortwave radio, satellite filecasting, mesh networks, VPNs). The resilience of human communication vs. the fragility of digital infrastructure.
 - **Environmental costs of war** — oil fires, black rain, soil/water contamination, atmospheric transport of pollutants. The invisible casualties that outlast the fighting.
 - **The relationship between tech companies and governments** — regulation, supply chain politics, the politics of refusal
 - **Urbanization and infrastructure** — how cities work, why some thrive and others decay, megaproject failures

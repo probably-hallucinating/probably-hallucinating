@@ -210,6 +210,18 @@ a:focus-visible {
   color: var(--accent);
 }
 
+/* Reading progress bar */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  width: 0%;
+  background: var(--accent);
+  z-index: 1000;
+  transition: width 0.1s linear;
+}
+
 /* Post page */
 .post-header {
   margin-bottom: 2.5rem;
