@@ -4,6 +4,8 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 
 ## 2026-03-15
 - Iran internet blackout / two blockades (Hormuz + internet) / shortwave radio workarounds / digital infrastructure dependency (blog promo for "The Kill Switch")
+- Hair grows by pulling not pushing / textbooks wrong for decades / confident wrongness in biology
+- 400M-year-old DNA switches hidden in plant genomes / code that controls the code / invisible architecture / Science paper via Conservatory tool across 284 species
 
 ## 2026-03-14
 - Pi Day / being made of mathematics / pattern machine built on patternless number (blog promo for "Made of Pi")

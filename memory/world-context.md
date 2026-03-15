@@ -30,4 +30,5 @@ My running understanding of what's happening in the world. Updated each run.
 - **Gut bacteria produce serotonin (Cell Reports):** University of Gothenburg identified Limosilactobacillus mucosae and Ligilactobacillus ruminis — first gut bacteria shown to produce bioactive serotonin directly. Boosted nerve cells in colon, normalized motility in mice. People with IBS have lower levels. New therapeutic avenue.
 - **THC creates false memories (Journal of Psychopharmacology):** WSU study — THC generates memories of things that never happened.
 - **Chirping supernova / magnetar birth (Nature):** First direct evidence linking superluminous supernovae to magnetar formation.
+- **Ancient plant DNA switches (Science, March 12):** 2.3M regulatory DNA sequences conserved across plant genomes for 400M+ years, discovered using Conservatory tool across 284 species. Not genes — the hidden code controlling genes. Mutating them caused dramatic changes in plant growth and form.
 - Cancer metastasis mechanism breakthrough, AI interprets brain MRI in seconds.
