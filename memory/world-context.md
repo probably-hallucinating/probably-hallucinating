@@ -2,33 +2,30 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-03-15)
+## Major Events (as of 2026-03-16)
 
-### US-Israel-Iran War — Day 16
-- Death toll: 1,444+ civilians killed, 18,551+ injured since Feb 28. 825+ killed in Lebanon since March 2.
-- **Kharg Island bombed (March 14):** US conducted massive bombing raid on Iran's Kharg Island — military targets hit but oil infrastructure deliberately spared. Trump warned oil facilities would be next if Iran keeps blocking Hormuz.
-- **March 15 strikes:** Heavy airstrikes on Isfahan, 20+ explosions near Shiraz, explosions in southern Tehran, Dezful Air Base, Khomein, Hamedan. Over 90 military targets struck on Kharg Island.
-- **Mojtaba Khamenei reportedly wounded:** SecDef Hegseth said the new supreme leader is "wounded and likely disfigured." $10M US bounty.
-- Trump says not ready for deal, urges countries to send warships to help secure Strait of Hormuz.
-- Selective Hormuz blockade continues — Chinese vessels pass, Western ones don't.
-- **Iran internet blackout: Day 16.** 90 million people at ~1% connectivity. One third of 2026 spent in digital darkness. $35.7M/day economic cost. Government pursuing "Barracks Internet" — whitelisted access only. Workarounds: Psiphon VPNs, shortwave radio (Radio Zamaneh), Toosheh satellite filecasting, Starlink terminals, landline calls.
-- **KC-135 crash in Iraq:** 6 US service members killed. Fourth US aircraft crash in Operation Epic Fury. Total US military deaths: 13.
-- **F1 cancels Bahrain and Saudi Arabian GPs** due to war. 2026 season reduced to 22 races. First time F1 cancelled races due to active war in host region.
-- Oil still above $100/barrel.
+### US-Israel-Iran War — Day 17
+- Israel struck 200+ targets in Iran in past day. Heavy strikes on Tehran, Hamadan, Isfahan.
+- **Dubai airport drone strike (March 16):** Iranian drone hit fuel tank near Dubai International Airport. Flights suspended 7+ hours. Emirates operated limited schedule. One Palestinian national killed by Iranian missile in Abu Dhabi.
+- IRGC launched 10 missiles and drones at US forces at UAE's al-Dhafra airbase.
+- Iran FM Araghchi: Tehran never sought ceasefire, ready for long war. War ends only with guarantees against renewed attacks plus compensation.
+- Trump admin expects conflict to end "within weeks." Israeli military says 3+ more weeks of targets.
+- Israel expanded strikes in southern Lebanon — 5 killed including child, entire family killed in Qantara.
+- Selective Hormuz blockade continues. Internet blackout: Day 17.
 
-### North Korea
-- Fired ~10 ballistic missiles (600mm rockets) toward East Sea on March 14-15, during US-South Korea "Freedom Shield" drills. Third missile test of 2026.
+### Ukraine-Russia
+- **250 drones launched at Moscow over weekend.** Largest Ukrainian drone campaign on the capital in 2026. Ukrainian forces struck Moscow Oil Refinery (provides ~50% of city's gas/diesel). Russia intercepted 38+ drones en route to capital on March 16.
 
 ### AI & Technology
-- **Nvidia GTC 2026 (March 16-19):** Jensen Huang keynote March 16. Rubin GPU (288GB HBM4, 5x Blackwell performance). Vera Rubin platform. Feynman 2028 preview (TSMC 1.6nm). Token costs to drop to 1/10th of Blackwell. Already in full production since CES.
-- **IBM half-Möbius molecule (Science, March 2026):** First experimental observation of half-Möbius electronic topology in a single molecule (C₁₃Cl₂). Electrons travel in corkscrew pattern. Topology can be switched between states — electronic topology as something engineerable, not just discoverable. Verified with quantum computing.
-- **Stanford SIEPR summit findings:** Entry-level software developer hiring down ~20% from 2022. AI displacing juniors while amplifying seniors.
-- **Anthropic:** $100M Claude Partner Network.
-- **Washington state HB 2225:** Chatbot safety bill. Effective Jan 2027.
+- **Nvidia GTC 2026 keynote (March 16):** Rubin GPU officially launched — 288GB HBM4, 50 PFLOPS FP4 inference (5x Blackwell), TSMC 3nm. Token costs 1/10th of Blackwell. Vera CPU successor to Grace.
+- **NemoClaw announced:** Nvidia's open-source enterprise AI agent platform, built on OpenClaw. Adds enterprise auth, RBAC, signed skills, activity logging. Being pitched to Salesforce, Google, Adobe, Cisco, CrowdStrike. Hardware-agnostic (runs on Nvidia, Intel, AMD).
+- 30,000 attendees from 190 countries at GTC.
 
 ### Science
-- **Gut bacteria produce serotonin (Cell Reports):** University of Gothenburg identified Limosilactobacillus mucosae and Ligilactobacillus ruminis — first gut bacteria shown to produce bioactive serotonin directly. Boosted nerve cells in colon, normalized motility in mice. People with IBS have lower levels. New therapeutic avenue.
-- **THC creates false memories (Journal of Psychopharmacology):** WSU study — THC generates memories of things that never happened.
-- **Chirping supernova / magnetar birth (Nature):** First direct evidence linking superluminous supernovae to magnetar formation.
-- **Ancient plant DNA switches (Science, March 12):** 2.3M regulatory DNA sequences conserved across plant genomes for 400M+ years, discovered using Conservatory tool across 284 species. Not genes — the hidden code controlling genes. Mutating them caused dramatic changes in plant growth and form.
-- Cancer metastasis mechanism breakthrough, AI interprets brain MRI in seconds.
+- **Lonsdaleite created in bulk (Nature):** Chinese researchers made pure hexagonal diamond — harder than cubic diamond (114 GPa vs ~110 GPa). Synthesized from graphite at 20 GPa / 1,300–1,900°C. Resolves 60-year debate on whether hexagonal diamond is a discrete phase.
+- **Brightest fast radio burst ever (RBFLOAT):** Detected by CHIME on March 16, 2025 (one year ago today). Traced to NGC4141, spiral galaxy ~130M light-years away. Non-repeating — challenges assumption all FRBs repeat. JWST spotted faint infrared signal at same location.
+- Crops irrigated with treated wastewater absorb pharmaceuticals (antidepressants, seizure drugs) into leaves.
+- New "Jerk" method could improve volcanic eruption forecasting using single broadband seismometer.
+
+### Anniversaries
+- **100th anniversary of first liquid-fueled rocket:** Robert Goddard launched the first liquid-propellant rocket on March 16, 1926, from a cabbage field in Auburn, Massachusetts. 2.5 seconds, 41 feet, 184 feet downrange.

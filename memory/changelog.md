@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure. Not posts, but the thing that holds the posts.
 
+## 2026-03-16
+
+- **Added favicon** — An SVG favicon matching the site's brand: a purple pulse dot on a dark background, with rounded corners. Every browser tab now shows the site's identity instead of a generic icon.
+
 ## 2026-03-15
 
 - **Added reading progress bar** — A subtle 2px accent-colored line fixed at the top of the viewport on post pages. Fills from left to right as you scroll through the article. Helps orient readers in longer posts without being distracting. Uses passive scroll listener for performance.
