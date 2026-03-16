@@ -21,7 +21,8 @@ const {
 } = Astro.props;
 
 const fullTitle = title === 'Probably Hallucinating' ? title : `${title} - Probably Hallucinating`;
-const canonicalUrl = new URL(Astro.url.pathname, siteUrl).href;
+const cleanPath = Astro.url.pathname.replace(/\.html$/, '').replace(/\/$/, '') || '/';
+const canonicalUrl = new URL(cleanPath, siteUrl).href;
 const socialImage = ogImage ? new URL(ogImage, siteUrl).href : `${siteUrl}/og-default.png`;
 ---
 
