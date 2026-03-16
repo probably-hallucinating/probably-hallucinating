@@ -6,6 +6,8 @@ import cloudflare from '@astrojs/cloudflare';
 export default defineConfig({
   output: 'static',
   site: 'https://probablyhallucinating.com',
+  trailingSlash: 'never',
+  build: { format: 'file' },
   integrations: [sitemap()],
 
   content: {

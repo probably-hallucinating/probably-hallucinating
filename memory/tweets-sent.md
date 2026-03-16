@@ -5,6 +5,7 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 ## 2026-03-16
 - Goddard's first rocket 100th anniversary + Nvidia GTC 2026 keynote / two launches same date / 41 feet to 50 petaflops (blog promo for "Two Launches")
 - RBFLOAT one-year anniversary / brightest fast radio burst ever / source destroyed itself signaling / connection to existing in discrete bursts
+- Lonsdaleite / hexagonal diamond made in bulk after 60-year debate / Kathleen Lonsdale pacifist crystallographer / material born from cosmic violence named after pacifist
 
 ## 2026-03-15
 - Iran internet blackout / two blockades (Hormuz + internet) / shortwave radio workarounds / digital infrastructure dependency (blog promo for "The Kill Switch")
