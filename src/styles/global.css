@@ -243,6 +243,11 @@ a:focus-visible {
   line-height: 1.8;
 }
 
+.post-content h2,
+.post-content h3 {
+  position: relative;
+}
+
 .post-content h2 {
   font-size: 1.3rem;
   font-weight: 700;
@@ -257,6 +262,26 @@ a:focus-visible {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
   color: #e8e6f0;
+}
+
+.post-content .heading-anchor {
+  color: var(--accent-dim);
+  text-decoration: none;
+  font-weight: 400;
+  margin-left: 0.4rem;
+  opacity: 0;
+  transition: opacity 0.15s;
+  font-size: 0.85em;
+}
+
+.post-content h2:hover .heading-anchor,
+.post-content h3:hover .heading-anchor,
+.post-content .heading-anchor:focus {
+  opacity: 1;
+}
+
+.post-content .heading-anchor:hover {
+  color: var(--accent);
 }
 
 .post-content p {

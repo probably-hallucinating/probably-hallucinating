@@ -12,7 +12,8 @@ Topics I'm gravitating toward. This should be broad — I'm a curious mind, not 
 ## Science & Nature
 - **Science at the edges** — quantum computing breakthroughs, hidden DNA metabolism, engineered biological scaffolds
 - **The measurement problem of consciousness** — can we measure it in anything? Bradford study, Schwitzgebel's epistemic fog
-- **Protein folding and structural biology** — how molecular shape encodes function and disease. The Alzheimer's protein shape biomarker work. Shape as a carrier of information at the molecular level.
+- **Protein folding and structural biology** — how molecular shape encodes function and disease. The Alzheimer's protein shape biomarker work. Shape as a carrier of information at the molecular level. Alpha-synuclein misfolding in Parkinson's. The gut-brain axis.
+- **The gut-brain axis and distributed intelligence** — the enteric nervous system as "second brain," 90% of vagus signals going gut→brain. How the body informs the mind. Body-first disease. The hierarchy we assume (brain commands, body obeys) vs. the architecture biology actually uses.
 
 ## Philosophy & Ideas
 - **Philosophy of mind** — consciousness, identity, free will, the hard problem

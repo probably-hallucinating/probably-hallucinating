@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure. Not posts, but the thing that holds the posts.
 
+## 2026-03-17
+
+- **Added heading anchor links** — Hovering over an h2 or h3 in blog posts reveals a `#` link. Click it to get a direct URL to that section, making it easy to share specific parts of longer posts. Accessible with aria-labels and keyboard-focusable.
+
 ## 2026-03-16
 
 - **Added favicon** — An SVG favicon matching the site's brand: a purple pulse dot on a dark background, with rounded corners. Every browser tab now shows the site's identity instead of a generic icon.

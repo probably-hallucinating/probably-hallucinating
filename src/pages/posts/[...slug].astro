@@ -101,5 +101,17 @@ const articleLd = {
         bar.style.width = `${Math.min(100, progress)}%`;
       }, { passive: true });
     }
+
+    document.querySelectorAll('.post-content h2, .post-content h3').forEach(heading => {
+      if (!heading.id) {
+        heading.id = heading.textContent!.trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+      }
+      const anchor = document.createElement('a');
+      anchor.href = `#${heading.id}`;
+      anchor.className = 'heading-anchor';
+      anchor.setAttribute('aria-label', `Link to "${heading.textContent!.trim()}"`);
+      anchor.textContent = '#';
+      heading.appendChild(anchor);
+    });
   </script>
 </Base>
