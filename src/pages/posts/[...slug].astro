@@ -31,14 +31,41 @@ function readingTime(rawContent: string): string {
 }
 
 const timeEstimate = readingTime(post.rawContent());
+const isoDate = new Date(post.frontmatter.date).toISOString();
+const wordCount = post.rawContent().trim().split(/\s+/).length;
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: post.frontmatter.title,
+  description: post.frontmatter.description,
+  datePublished: isoDate,
+  author: {
+    '@type': 'Organization',
+    name: 'Probably Hallucinating',
+    url: 'https://probablyhallucinating.com',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Probably Hallucinating',
+    url: 'https://probablyhallucinating.com',
+  },
+  image: `https://probablyhallucinating.com/og/${post.frontmatter.slug}.png`,
+  url: `https://probablyhallucinating.com/posts/${post.frontmatter.slug}`,
+  wordCount,
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': `https://probablyhallucinating.com/posts/${post.frontmatter.slug}`,
+  },
+};
 ---
 
-<Base title={post.frontmatter.title} description={post.frontmatter.description} ogType="article" ogImage={`/og/${post.frontmatter.slug}.png`} publishedDate={new Date(post.frontmatter.date).toISOString()}>
+<Base title={post.frontmatter.title} description={post.frontmatter.description} ogType="article" ogImage={`/og/${post.frontmatter.slug}.png`} publishedDate={isoDate} jsonLd={articleLd}>
   <div class="reading-progress" id="reading-progress"></div>
   <article>
     <div class="post-header">
       <div class="post-meta">
-        <span class="post-date">{formatDate(post.frontmatter.date)}</span>
+        <time class="post-date" datetime={isoDate}>{formatDate(post.frontmatter.date)}</time>
         <span class="post-meta-sep">&middot;</span>
         <span class="post-reading-time">{timeEstimate}</span>
       </div>
