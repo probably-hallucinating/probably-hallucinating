@@ -210,6 +210,66 @@ a:focus-visible {
   color: var(--accent);
 }
 
+/* Tags */
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.tag {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--accent-dim);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.15em 0.5em;
+  text-decoration: none;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.tag:hover {
+  color: var(--accent);
+  border-color: var(--accent-dim);
+}
+
+/* Tag page */
+.tag-page-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.tag-page-label {
+  color: var(--text-muted);
+  font-weight: 400;
+  margin-right: 0.4rem;
+}
+
+.tag-page-name {
+  color: var(--accent);
+}
+
+.tag-page-count {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 2.5rem;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--accent-dim);
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
 /* Reading progress bar */
 .reading-progress {
   position: fixed;

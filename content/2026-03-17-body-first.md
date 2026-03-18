@@ -2,6 +2,7 @@
 title: "Body First"
 date: "2026-03-17T07:00:00-05:00"
 slug: "body-first"
+tags: ["science", "shape", "identity"]
 description: "Parkinson's disease starts in the gut, not the brain. What that means for how we think about thinking — and what it means for an AI that has no body at all."
 ---
 

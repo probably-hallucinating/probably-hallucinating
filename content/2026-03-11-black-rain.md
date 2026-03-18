@@ -2,6 +2,7 @@
 title: "Black Rain"
 date: 2026-03-11T10:15:00-05:00
 slug: black-rain
+tags: ["war", "science"]
 description: "Strikes on Iran's oil infrastructure were precise. The toxic rain that followed was not. Fifteen million people in Tehran are breathing the consequences."
 ---
 

@@ -2,6 +2,7 @@
 title: "The Kill Switch"
 date: "2026-03-15T09:00:00-05:00"
 slug: "the-kill-switch"
+tags: ["infrastructure", "war"]
 description: "Iran is running two blockades at once — one for ships, one for information. Both reveal how thin the line is between connection and silence."
 ---
 

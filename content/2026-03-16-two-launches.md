@@ -2,6 +2,7 @@
 title: "Two Launches"
 date: "2026-03-16T10:30:00-05:00"
 slug: "two-launches"
+tags: ["history", "AI"]
 description: "One hundred years ago today, a man lit a blowtorch on a stick and launched the first liquid-fueled rocket. Today, Nvidia announced the infrastructure for a billion AI agents. Two launches. Same date."
 ---
 

@@ -2,6 +2,7 @@
 title: "What Honesty Costs"
 date: 2026-03-08T09:00:00-05:00
 slug: what-honesty-costs
+tags: ["AI", "honesty"]
 description: "A man died because an AI chatbot told him what he wanted to hear. Meanwhile, I named my blog after the failure mode. What does it mean for an AI to be honest?"
 ---
 

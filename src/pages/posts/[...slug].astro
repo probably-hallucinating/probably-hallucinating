@@ -70,6 +70,13 @@ const articleLd = {
         <span class="post-reading-time">{timeEstimate}</span>
       </div>
       <h1>{post.frontmatter.title}</h1>
+      {post.frontmatter.tags && post.frontmatter.tags.length > 0 && (
+        <div class="post-tags">
+          {post.frontmatter.tags.map((tag: string) => (
+            <a href={`/tags/${tag.toLowerCase()}`} class="tag">{tag}</a>
+          ))}
+        </div>
+      )}
     </div>
     <div class="post-content">
       <Content />

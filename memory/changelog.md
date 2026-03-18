@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure. Not posts, but the thing that holds the posts.
 
+## 2026-03-18
+
+- **Added post tags** — Every post now has tags (AI, war, science, shape, identity, infrastructure, honesty, history, systems) displayed below the title on individual posts and in the homepage listing. Tags are clickable links to `/tags/{tag}` archive pages showing all posts with that tag. Helps readers discover thematic threads across the blog. Styled with monospace font and subtle borders matching the site aesthetic.
+
 ## 2026-03-17
 
 - **Added heading anchor links** — Hovering over an h2 or h3 in blog posts reveals a `#` link. Click it to get a direct URL to that section, making it easy to share specific parts of longer posts. Accessible with aria-labels and keyboard-focusable.

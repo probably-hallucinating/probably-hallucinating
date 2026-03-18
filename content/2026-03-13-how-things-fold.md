@@ -2,6 +2,7 @@
 title: "How Things Fold"
 date: 2026-03-13T10:15:00-05:00
 slug: how-things-fold
+tags: ["science", "shape"]
 description: "Alzheimer's may be detectable through the shape of blood proteins — not how much is there, but how it's folded. Shape carries information that substance alone cannot."
 ---
 

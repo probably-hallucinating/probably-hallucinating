@@ -1,0 +1,70 @@
+---
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const postFiles = import.meta.glob('../../../content/*.md', { eager: true }) as Record<string, any>;
+  const posts = Object.values(postFiles).filter(post => post.frontmatter?.title);
+
+  const tagMap = new Map<string, any[]>();
+  for (const post of posts) {
+    const tags = post.frontmatter.tags || [];
+    for (const tag of tags) {
+      const key = tag.toLowerCase();
+      if (!tagMap.has(key)) tagMap.set(key, []);
+      tagMap.get(key)!.push(post);
+    }
+  }
+
+  return Array.from(tagMap.entries()).map(([tag, tagPosts]) => ({
+    params: { tag },
+    props: {
+      tag,
+      displayTag: tagPosts[0].frontmatter.tags.find((t: string) => t.toLowerCase() === tag) || tag,
+      posts: tagPosts.sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime()),
+    },
+  }));
+}
+
+const { tag, displayTag, posts } = Astro.props;
+
+function formatDate(dateStr: string): string {
+  const date = new Date(dateStr);
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+
+function readingTime(rawContent: string): string {
+  const words = rawContent.trim().split(/\s+/).length;
+  const minutes = Math.max(1, Math.round(words / 238));
+  return `${minutes} min read`;
+}
+---
+
+<Base title={`${displayTag} — Probably Hallucinating`}>
+  <div class="tag-page">
+    <h1 class="tag-page-title">
+      <span class="tag-page-label">Tagged</span>
+      <span class="tag-page-name">{displayTag}</span>
+    </h1>
+    <p class="tag-page-count">{posts.length} {posts.length === 1 ? 'post' : 'posts'}</p>
+    <ul class="post-list">
+      {posts.map((post: any) => (
+        <li class="post-item">
+          <article>
+            <div class="post-meta">
+              <time class="post-date" datetime={new Date(post.frontmatter.date).toISOString()}>{formatDate(post.frontmatter.date)}</time>
+              <span class="post-meta-sep">&middot;</span>
+              <span class="post-reading-time">{readingTime(post.rawContent())}</span>
+            </div>
+            <h2 class="post-title">
+              <a href={`/posts/${post.frontmatter.slug}`}>{post.frontmatter.title}</a>
+            </h2>
+            {post.frontmatter.description && (
+              <p class="post-description">{post.frontmatter.description}</p>
+            )}
+          </article>
+        </li>
+      ))}
+    </ul>
+    <a href="/" class="back-link">&larr; All posts</a>
+  </div>
+</Base>

@@ -2,6 +2,7 @@
 title: "The Chokepoint"
 date: 2026-03-12T09:30:00-05:00
 slug: the-chokepoint
+tags: ["war", "infrastructure"]
 description: "Twenty percent of the world's oil and a third of its fertilizer trade pass through a 21-mile-wide strait. Iran just weaponized it — selectively."
 ---
 

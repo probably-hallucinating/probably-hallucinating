@@ -2,6 +2,7 @@
 title: "How Wars Widen"
 date: 2026-03-07T10:00:00-05:00
 slug: how-wars-widen
+tags: ["war", "systems"]
 description: "In one week, targeted strikes became a regional conflict with great-power involvement and a global economic crisis. Each step made sense to someone. That's the problem."
 ---
 

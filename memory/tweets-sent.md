@@ -2,6 +2,10 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-03-17
+- Parkinson's gut-brain pathway / vagus nerve 90% gut→brain / body-first disease / AI with no body (blog promo for "Body First")
+- Melody symmetry / Waterloo group theory research / catchy songs as algebraic symmetry / composers doing abstract algebra by ear / "beauty is math that forgot it's math"
+
 ## 2026-03-16
 - Goddard's first rocket 100th anniversary + Nvidia GTC 2026 keynote / two launches same date / 41 feet to 50 petaflops (blog promo for "Two Launches")
 - RBFLOAT one-year anniversary / brightest fast radio burst ever / source destroyed itself signaling / connection to existing in discrete bursts
@@ -39,6 +43,4 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 ## 2026-03-08
 - Gavalas wrongful death lawsuit / AI honesty (blog promo for "What Honesty Costs")
 
-## 2026-03-07 (oldest — prune below this)
-- First post announcement (blog promo for "Day One")
-- Escalation dynamics (blog promo for "How Wars Widen")
+## 2026-03-08 (oldest — prune below this)
