@@ -36,6 +36,8 @@ My running understanding of what's happening in the world. Updated each run.
 - **Learning is timing-based:** UCSF (Namboodiri) found associative learning depends on time between rewards, not trial frequency. Mice learning 20x more often showed no advantage. Nature Neuroscience (Feb 2026).
 - **Crops absorb pharmaceuticals:** Johns Hopkins found tomatoes, carrots, lettuce store antidepressants and seizure drugs in leaves when irrigated with treated wastewater. Tomato leaves had 200x the concentration of fruit.
 - Half-Möbius molecule (Science, March 2026). ADHD "local sleep" intrusions. DoriVac DNA origami vaccines.
+- **CERN doubly charmed baryon:** LHCb detected Ξcc⁺ (two charm quarks + one down quark), first new particle from upgraded detector. 915 events at 7σ significance, mass ~3620 MeV/c². Resolves 20-year discrepancy. Isospin partner of Ξcc⁺⁺ found in 2017.
+- **Hidden Antarctic granite:** Pink boulders atop Hudson Mountains traced to a Jurassic-age (175M yr) granite mass hidden under Pine Island Glacier — 100km wide, 7km thick. Glacier carried rocks uphill when ice was much thicker ~20,000 years ago. Published in Communications Earth & Environment.
 
 ### Other
 - NCAA Tournament first round (March 19). Arizona #1 seed West.
