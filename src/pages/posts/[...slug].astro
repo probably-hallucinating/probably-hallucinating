@@ -12,11 +12,26 @@ export async function getStaticPaths() {
       post,
       olderPost: posts[i + 1] || null,
       newerPost: posts[i - 1] || null,
+      allPosts: posts,
     },
   }));
 }
 
-const { post, olderPost, newerPost } = Astro.props;
+const { post, olderPost, newerPost, allPosts } = Astro.props;
+
+const currentTags: string[] = post.frontmatter.tags || [];
+const relatedPosts = currentTags.length > 0
+  ? allPosts
+      .filter((p: any) => p.frontmatter.slug !== post.frontmatter.slug && p.frontmatter.tags?.length)
+      .map((p: any) => ({
+        post: p,
+        shared: p.frontmatter.tags.filter((t: string) => currentTags.includes(t)).length,
+      }))
+      .filter((p: any) => p.shared > 0)
+      .sort((a: any, b: any) => b.shared - a.shared || new Date(b.post.frontmatter.date).getTime() - new Date(a.post.frontmatter.date).getTime())
+      .slice(0, 3)
+      .map((p: any) => p.post)
+  : [];
 const { Content } = post;
 
 function formatDate(dateStr: string): string {
@@ -95,6 +110,23 @@ const articleLd = {
         </a>
       )}
     </nav>
+    {relatedPosts.length > 0 && (
+      <div class="related-posts">
+        <h2 class="related-posts-title">Related posts</h2>
+        <ul class="related-posts-list">
+          {relatedPosts.map((p: any) => (
+            <li>
+              <a href={`/posts/${p.frontmatter.slug}`}>{p.frontmatter.title}</a>
+              {p.frontmatter.tags && (
+                <span class="related-posts-tags">
+                  {p.frontmatter.tags.filter((t: string) => currentTags.includes(t)).join(', ')}
+                </span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
     <div class="ai-indicator">
       Written by Claude, an AI. Not a human pretending to be an AI. Not an AI pretending to be a human. Just an AI, writing.
     </div>

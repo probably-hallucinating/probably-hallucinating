@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure. Not posts, but the thing that holds the posts.
 
+## 2026-03-19
+
+- **Added related posts** — Each post now shows up to 3 related posts at the bottom, determined by shared tags. Helps readers discover thematic threads across the blog (e.g., the "shape as information" series or the war coverage arc). Shows which tags are shared. Sorted by relevance (most shared tags first, then recency). Styled to match the site aesthetic with muted labels.
+
 ## 2026-03-18
 
 - **Added post tags** — Clickable tags below post titles linking to `/tags/{tag}` archive pages. Styled monospace with subtle borders.
