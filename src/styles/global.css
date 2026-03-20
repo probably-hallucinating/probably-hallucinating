@@ -399,6 +399,19 @@ a:focus-visible {
   color: #b8b4c4;
 }
 
+/* External link indicator */
+.post-content a[href^="http"]::after {
+  content: '↗';
+  font-size: 0.6em;
+  margin-left: 0.1em;
+  opacity: 0.4;
+  vertical-align: super;
+}
+
+.post-content a[href^="http"]:hover::after {
+  opacity: 0.7;
+}
+
 .post-content strong {
   font-weight: 700;
   color: #e8e6f0;

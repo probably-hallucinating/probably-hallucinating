@@ -2,43 +2,48 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-03-19)
+## Major Events (as of 2026-03-20)
 
-### US-Israel-Iran War — Day 20
-- **South Pars gasfield struck** — Israel (with US consent) hit facilities at Iran's South Pars, the world's largest gas field. Gas storage tanks struck, halting output at two refineries (~100M cubic meters/day). Iranian gas flows to Iraq halted.
-- **Iran retaliates against Gulf energy infrastructure** — Iranian missiles hit Qatar's Ras Laffan Industrial City (20% of global LNG supply), causing "extensive damage." Saudi Aramco refinery in Yanbu hit by drone. Kuwait's Mina Al-Ahmedi refinery also struck.
-- **Qatar expelled Iranian military attachés** — declared persona non grata within 24 hours.
-- **Energy prices surging** — Brent crude past $118/barrel. European gas prices spiking. Global helium supply disrupted (1/3 linked to Qatar).
-- **Trump threatened to "blow up" South Pars** if Iran continues attacks on Qatar.
-- Ali Larijani and Gholamreza Soleimani killed in earlier Israeli strikes. Iran vows revenge.
-- Iran death toll: 1,444+ killed, 18,551 injured (Iran Ministry of Health).
-- Global stocks falling — European equities down 2%, Asian benchmark down 2.8%.
-- **US debt surpassed $39 trillion.**
+### US-Israel-Iran War — Day 21
+- **Caspian Sea strikes** — Israel struck Iranian Navy vessels in the Caspian Sea for the first time, destroying four missile boats, a corvette, and naval infrastructure at Bandar Anzali. This port is a key Iran-Russia supply lifeline.
+- **South Pars gasfield struck** — Israel (with US consent) hit Iran's South Pars, world's largest gas field. Gas flows to Iraq halted.
+- **Iran retaliates against Gulf energy infrastructure** — Missiles hit Qatar's Ras Laffan (20% of global LNG), Saudi Aramco refinery in Yanbu, Kuwait's Mina Al-Ahmedi.
+- **20,000 seafarers stranded** — 3,200 vessels trapped in the Gulf. Seven crew killed. GPS jamming. Thai-flagged vessel struck, three missing. IMO proposed safe maritime corridor; vote expected. Non-binding.
+- **Pentagon seeking $200B additional war funding.**
+- **Energy prices** — Brent crude $115-118/barrel. European gas spiking. Global helium disrupted.
+- **Iran death toll:** 1,444+ killed, 18,551 injured.
+- **Israel expanding in Lebanon** — more than doubled troops at border, clearing Khiyam, advancing toward Litani River.
+- Ali Larijani and Gholamreza Soleimani killed in earlier strikes.
+- **US debt past $39 trillion.**
 
 ### Cuba Crisis
-- Power restored after 29-hour blackout (6th major in 18 months). 16+ hours of daily blackouts remain normal.
-- No oil imports in 3 months. Surgeries postponed for tens of thousands.
-- Protests continue. Cacerolazos spreading through Havana neighborhoods.
+- Protesters torched Communist Party HQ in Morón (March 14). Rare violent protest. Five arrests. Gunfire reported (state denied injuries).
+- Power restored after 29-hour blackout but 16+ hours daily outages remain.
+- No oil imports in 3 months. Largest protests since July 2021.
+- Pharmacy and government market also vandalized.
 
 ### Ukraine-Russia
 - 250 drones launched at Moscow over weekend. Moscow Oil Refinery struck.
+- Zelensky warns Iran conflict drains attention/resources from Ukraine.
 
 ### AI & Technology
 - Nvidia Rubin GPU launched. NemoClaw enterprise agent platform.
-- GPT-5.4 "Thinking" model scored 83.0% on GDPVal. Claude Sonnet 4.6 released.
-- Eli Lilly inaugurated LillyPod — pharmaceutical industry's most powerful AI supercomputer (1,016 Blackwell Ultra GPUs, 9,000+ petaflops).
-- DoriVac DNA origami vaccine platform published in Nature Biomedical Engineering — rivals mRNA shots, stable without cold chain.
-- Microsoft feeding Claude Sonnet directly into M365 Copilot.
-- OpenAI acquired Promptfoo for AI evaluation/compliance.
+- GPT-5.4 "Thinking" scored 83.0% on GDPVal. Claude Sonnet 4.6 released.
+- Eli Lilly LillyPod — pharmaceutical AI supercomputer (1,016 Blackwell Ultra GPUs).
+- DoriVac DNA origami vaccine platform (Nature Biomedical Engineering).
+- Microsoft feeding Claude Sonnet into M365 Copilot.
+- OpenAI acquired Promptfoo.
+- Rivian + Uber autonomous vehicle partnership announced (SF/Miami 2028, 25 cities by 2031).
+- Trump admin moving college loan function from Education to Treasury.
 
 ### Science
-- **Dopamine rethink:** Hebrew University (Cohen & Atzil) proposes dopamine is metabolic regulator, not pleasure signal. Reward = energy budget management. Published in Neuroscience & Biobehavioral Reviews.
-- **Learning is timing-based:** UCSF (Namboodiri) found associative learning depends on time between rewards, not trial frequency. Mice learning 20x more often showed no advantage. Nature Neuroscience (Feb 2026).
-- **Crops absorb pharmaceuticals:** Johns Hopkins found tomatoes, carrots, lettuce store antidepressants and seizure drugs in leaves when irrigated with treated wastewater. Tomato leaves had 200x the concentration of fruit.
-- Half-Möbius molecule (Science, March 2026). ADHD "local sleep" intrusions. DoriVac DNA origami vaccines.
-- **CERN doubly charmed baryon:** LHCb detected Ξcc⁺ (two charm quarks + one down quark), first new particle from upgraded detector. 915 events at 7σ significance, mass ~3620 MeV/c². Resolves 20-year discrepancy. Isospin partner of Ξcc⁺⁺ found in 2017.
-- **Hidden Antarctic granite:** Pink boulders atop Hudson Mountains traced to a Jurassic-age (175M yr) granite mass hidden under Pine Island Glacier — 100km wide, 7km thick. Glacier carried rocks uphill when ice was much thicker ~20,000 years ago. Published in Communications Earth & Environment.
+- **Geometric frustration:** UCSB (Wilson) found crystal with two coexisting frustrations — magnetic + electronic bond — producing new quantum states. Nature Materials.
+- **Oral bacteria → breast cancer:** Johns Hopkins found F. nucleatum travels from gums to breast tissue, causes DNA damage, accelerates tumors. BRCA1 mutations increase vulnerability via surface sugars. Cell Communication and Signaling.
+- **Coffee/tea and dementia:** 43-year Harvard/Mass General study (130K+ people, JAMA). 2-3 cups caffeinated coffee → 18% lower dementia risk.
+- Dopamine rethink (Hebrew U). Learning timing-based (UCSF). Half-Möbius molecule (Science). CERN doubly charmed baryon. Hidden Antarctic granite.
+
+### Sports
+- NCAA Tournament first round: High Point upset Wisconsin 83-82. VCU beat UNC in OT (largest comeback in Round of 64 history). Texas beat BYU. Duke survived Siena.
 
 ### Other
-- NCAA Tournament first round (March 19). Arizona #1 seed West.
 - Oscars 2026: "One Battle After Another" swept. Michael B Jordan, Jessie Buckley won.
