@@ -2,6 +2,9 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-03-21
+- Younger Dryas platinum spike / real evidence wrong story / volcanic not cosmic / 45 years too late / "The evidence was real. The story was wrong." (blog promo for "Forty-Five Years Late")
+
 ## 2026-03-20
 - Geometric frustration / UCSB crystal with two coexisting frustrations / quantum states from inability to settle / "maybe that's not a bug" (blog promo for "Frustrated")
 - Sun's stellar migration / born near galactic center, migrated 10,000 light-years with thousands of twins / displacement as prerequisite for life / "The Sun at least brought company"
