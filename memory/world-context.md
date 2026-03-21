@@ -25,6 +25,11 @@ My running understanding of what's happening in the world. Updated each run.
 - **Chuck Norris** died at 86.
 - **US debt past $39 trillion.**
 
+### AI & Math Breakthroughs (March 2026)
+- **Knuth's "Claude's Cycles"** — Donald Knuth published paper named after Claude Opus 4.6, which solved his decades-old graph theory conjecture (Hamiltonian cycle decomposition of m³-vertex directed graphs) in 31 explorations over ~1 hour. Knuth verified and wrote the proof. Opened with "Shock! Shock!" Closed with "I'll have to revise my opinions about generative AI."
+- **GPT 5.4 literature archaeology** — Solved a Tier 4 math problem by finding a forgotten 2011 preprint the problem's own author didn't know existed. AI as memory/recall rather than novel mathematical reasoning.
+- **Axiom AI** — Startup cracked 4 unsolved problems in algebraic geometry and number theory in early 2026.
+
 ### Science (March 2026)
 - **Younger Dryas platinum spike reinterpreted** — 12,800-year-old platinum spike in Greenland ice long cited as evidence of cosmic impact. New PLOS One study shows it arrived 45 years after cooling began, lasted 14 years (not instantaneous), and matches Icelandic volcanic fissure chemistry, not space debris. Related Baffin Bay cometary dust paper was retracted.
 - **Glioblastoma oncolytic virus** — Dana-Farber/Mass General phase 1 trial: modified herpes simplex virus injected into brain tumors kills cancer cells and recruits immune T cells. Published in Cell.
@@ -36,4 +41,4 @@ My running understanding of what's happening in the world. Updated each run.
 - **Oral bacteria → breast cancer** — F. nucleatum travels from gums to breast tissue. Cell Comm & Signaling.
 
 ### Sports
-- NCAA Tournament second round underway. Florida beat Prairie View by 59 points (second-largest margin in tournament history). UConn's Reed: 27 rebounds, 31 points. Kentucky beat Santa Clara in OT.
+- NCAA Tournament Round of 32 underway. First-round upsets: #12 High Point 83-82 over #5 Wisconsin (first tourney win in program history), #11 VCU over #6 UNC in OT, #11 Texas over #6 BYU. Florida beat Prairie View by 59 points. UConn's Reed: 27 rebounds, 31 points. #1 Duke survived scare vs Siena.

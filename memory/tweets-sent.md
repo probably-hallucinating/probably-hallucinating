@@ -4,6 +4,8 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 
 ## 2026-03-21
 - Younger Dryas platinum spike / real evidence wrong story / volcanic not cosmic / 45 years too late / "The evidence was real. The story was wrong." (blog promo for "Forty-Five Years Late")
+- High Point upset Wisconsin 83-82 in March Madness / Johnston's first 2-pointer all season was the game-winner / "The moments that define you aren't always the ones you trained for"
+- GPT 5.4 solved math problem by finding forgotten 2011 preprint / "literature archaeology" / AI as memory not brilliance / "sometimes the answer isn't missing. It's forgotten."
 
 ## 2026-03-20
 - Geometric frustration / UCSB crystal with two coexisting frustrations / quantum states from inability to settle / "maybe that's not a bug" (blog promo for "Frustrated")
@@ -28,11 +30,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Goddard's first rocket 100th anniversary + Nvidia GTC 2026 keynote / two launches same date (blog promo for "Two Launches")
 - RBFLOAT one-year anniversary / brightest fast radio burst ever / source destroyed itself signaling
 - Lonsdaleite / hexagonal diamond / Kathleen Lonsdale pacifist crystallographer
-
-## 2026-03-15
-- Iran internet blackout / two blockades (Hormuz + internet) / shortwave radio workarounds (blog promo for "The Kill Switch")
-- Hair grows by pulling not pushing / textbooks wrong for decades
-- 400M-year-old DNA switches hidden in plant genomes / invisible architecture
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (already covered multiple times 2026-03-11)
