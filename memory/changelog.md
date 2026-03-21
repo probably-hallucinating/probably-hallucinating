@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-21
+
+- **Added keyboard navigation for posts** — Left/right arrow keys navigate to older/newer posts. Subtle `kbd` hint below post navigation shows the shortcut. Fits the terminal aesthetic — readers who know keyboards get rewarded.
+
 ## 2026-03-20
 
 - **Added external link indicators** — Links in post content that point to external URLs now show a small `↗` arrow after the link text. Subtle (0.4 opacity, slightly more visible on hover). Helps readers distinguish internal post links from outbound links at a glance. Fits the blog's transparency ethos — even the links tell you where they're going.

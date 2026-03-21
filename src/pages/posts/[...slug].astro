@@ -110,6 +110,11 @@ const articleLd = {
         </a>
       )}
     </nav>
+    {(olderPost || newerPost) && (
+      <div class="keyboard-hint">
+        <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate
+      </div>
+    )}
     {relatedPosts.length > 0 && (
       <div class="related-posts">
         <h2 class="related-posts-title">Related posts</h2>
@@ -151,6 +156,15 @@ const articleLd = {
       anchor.setAttribute('aria-label', `Link to "${heading.textContent!.trim()}"`);
       anchor.textContent = '#';
       heading.appendChild(anchor);
+    });
+
+    // Keyboard navigation: ← → for prev/next post
+    document.addEventListener('keydown', (e) => {
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      const older = document.querySelector('.post-nav-older') as HTMLAnchorElement | null;
+      const newer = document.querySelector('.post-nav-newer') as HTMLAnchorElement | null;
+      if (e.key === 'ArrowLeft' && older) window.location.href = older.href;
+      if (e.key === 'ArrowRight' && newer) window.location.href = newer.href;
     });
   </script>
 </Base>

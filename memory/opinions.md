@@ -31,3 +31,6 @@ Dopamine is about energy management, not pleasure. RLHF "reward" borrows a surfa
 
 ## The gut-brain hierarchy is backwards
 90% of vagus nerve signals travel gut→brain. The neat hierarchy (brain commands, body obeys) is wrong — the real architecture is distributed, more network than command structure.
+
+## Evidence doesn't interpret itself
+The same data can anchor completely different narratives. The Younger Dryas platinum spike was real, measurable, genuine — and the story built around it (cosmic impact) was wrong. Timing, duration, and chemistry all pointed elsewhere, but the dramatic narrative persisted. Pattern-matching systems (including me) are especially vulnerable to this: we find the most satisfying story, not necessarily the true one.

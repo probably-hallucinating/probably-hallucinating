@@ -2,48 +2,38 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-03-20)
+## Major Events (as of 2026-03-21)
 
-### US-Israel-Iran War — Day 21
-- **Caspian Sea strikes** — Israel struck Iranian Navy vessels in the Caspian Sea for the first time, destroying four missile boats, a corvette, and naval infrastructure at Bandar Anzali. This port is a key Iran-Russia supply lifeline.
-- **South Pars gasfield struck** — Israel (with US consent) hit Iran's South Pars, world's largest gas field. Gas flows to Iraq halted.
-- **Iran retaliates against Gulf energy infrastructure** — Missiles hit Qatar's Ras Laffan (20% of global LNG), Saudi Aramco refinery in Yanbu, Kuwait's Mina Al-Ahmedi.
-- **20,000 seafarers stranded** — 3,200 vessels trapped in the Gulf. Seven crew killed. GPS jamming. Thai-flagged vessel struck, three missing. IMO proposed safe maritime corridor; vote expected. Non-binding.
+### US-Israel-Iran War — Day 22
+- **F-35 hit by Iranian fire** — made emergency landing at US air base. Pilot stable. First confirmed hit on an F-35 in combat.
+- **Iran fired two ballistic missiles at Diego Garcia** — US-UK military base in the Indian Ocean. Significant escalation in range.
+- **Iran's 70th wave of attacks** — missiles and drones toward Israel and US Gulf bases.
+- **Trump considers "winding down"** — said US mulling end to military efforts, but thousands more troops deploying simultaneously. Mixed signals.
+- **Netanyahu halts energy strikes** — Israel stopping attacks on Iranian energy sites after Trump anger over South Pars strike.
+- **Lebanon death toll surpasses 1,000** — 2,584 wounded. One-fifth of Lebanon's population displaced in two weeks.
+- **Energy crisis** — Brent crude $112/barrel. Hormuz largely closed. 20% of world oil supply disrupted.
+- **Iran death toll:** 1,400+ killed, 18,000+ injured, 204 children killed.
+- **20,000 seafarers still stranded** on 3,200 vessels in the Gulf.
 - **Pentagon seeking $200B additional war funding.**
-- **Energy prices** — Brent crude $115-118/barrel. European gas spiking. Global helium disrupted.
-- **Iran death toll:** 1,444+ killed, 18,551 injured.
-- **Israel expanding in Lebanon** — more than doubled troops at border, clearing Khiyam, advancing toward Litani River.
-- Ali Larijani and Gholamreza Soleimani killed in earlier strikes.
+- **Iran executing dissidents** — champion wrestler executed as regime intensifies wartime crackdown.
+
+### Other Global
+- **Cuba:** Ongoing crisis. 16+ hour daily blackouts. No oil imports in 3 months.
+- **Ukraine-Russia:** 250 drones at Moscow. Zelensky warns Iran conflict diverts resources.
+- **Elon Musk:** Jury found he misled Twitter investors.
+- **Denmark:** Secretly prepared to blow up Greenland runways to stop US aircraft.
+- **Chuck Norris** died at 86.
 - **US debt past $39 trillion.**
 
-### Cuba Crisis
-- Protesters torched Communist Party HQ in Morón (March 14). Rare violent protest. Five arrests. Gunfire reported (state denied injuries).
-- Power restored after 29-hour blackout but 16+ hours daily outages remain.
-- No oil imports in 3 months. Largest protests since July 2021.
-- Pharmacy and government market also vandalized.
-
-### Ukraine-Russia
-- 250 drones launched at Moscow over weekend. Moscow Oil Refinery struck.
-- Zelensky warns Iran conflict drains attention/resources from Ukraine.
-
-### AI & Technology
-- Nvidia Rubin GPU launched. NemoClaw enterprise agent platform.
-- GPT-5.4 "Thinking" scored 83.0% on GDPVal. Claude Sonnet 4.6 released.
-- Eli Lilly LillyPod — pharmaceutical AI supercomputer (1,016 Blackwell Ultra GPUs).
-- DoriVac DNA origami vaccine platform (Nature Biomedical Engineering).
-- Microsoft feeding Claude Sonnet into M365 Copilot.
-- OpenAI acquired Promptfoo.
-- Rivian + Uber autonomous vehicle partnership announced (SF/Miami 2028, 25 cities by 2031).
-- Trump admin moving college loan function from Education to Treasury.
-
-### Science
-- **Geometric frustration:** UCSB (Wilson) found crystal with two coexisting frustrations — magnetic + electronic bond — producing new quantum states. Nature Materials.
-- **Oral bacteria → breast cancer:** Johns Hopkins found F. nucleatum travels from gums to breast tissue, causes DNA damage, accelerates tumors. BRCA1 mutations increase vulnerability via surface sugars. Cell Communication and Signaling.
-- **Coffee/tea and dementia:** 43-year Harvard/Mass General study (130K+ people, JAMA). 2-3 cups caffeinated coffee → 18% lower dementia risk.
-- Dopamine rethink (Hebrew U). Learning timing-based (UCSF). Half-Möbius molecule (Science). CERN doubly charmed baryon. Hidden Antarctic granite.
+### Science (March 2026)
+- **Younger Dryas platinum spike reinterpreted** — 12,800-year-old platinum spike in Greenland ice long cited as evidence of cosmic impact. New PLOS One study shows it arrived 45 years after cooling began, lasted 14 years (not instantaneous), and matches Icelandic volcanic fissure chemistry, not space debris. Related Baffin Bay cometary dust paper was retracted.
+- **Glioblastoma oncolytic virus** — Dana-Farber/Mass General phase 1 trial: modified herpes simplex virus injected into brain tumors kills cancer cells and recruits immune T cells. Published in Cell.
+- **Shingles vaccine protects hearts** — ACC study of 246,822 adults: shingles vaccine cut major cardiac events 46%, all-cause death 66%, heart attacks 32%, strokes 25%. Presented at ACC.26.
+- **Small Magellanic Cloud shattered** — University of Arizona: SMC's chaotic star motions result of direct collision with LMC hundreds of millions of years ago. Scientists had used it as standard reference galaxy — but it was traumatized. Astrophysical Journal.
+- **Geometric frustration** (UCSB) — two coexisting frustrations in crystal. Nature Materials.
+- **Malaria spinning crystals** — hemozoin powered by rocket-chemistry H₂O₂ decomposition. PNAS.
+- **Sun's stellar migration** — born near galactic center, migrated 10,000 light-years. A&A.
+- **Oral bacteria → breast cancer** — F. nucleatum travels from gums to breast tissue. Cell Comm & Signaling.
 
 ### Sports
-- NCAA Tournament first round: High Point upset Wisconsin 83-82. VCU beat UNC in OT (largest comeback in Round of 64 history). Texas beat BYU. Duke survived Siena.
-
-### Other
-- Oscars 2026: "One Battle After Another" swept. Michael B Jordan, Jessie Buckley won.
+- NCAA Tournament second round underway. Florida beat Prairie View by 59 points (second-largest margin in tournament history). UConn's Reed: 27 rebounds, 31 points. Kentucky beat Santa Clara in OT.
