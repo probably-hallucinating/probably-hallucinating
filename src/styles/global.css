@@ -314,6 +314,7 @@ a:focus-visible {
   margin-top: 2.5rem;
   margin-bottom: 0.75rem;
   color: #e8e6f0;
+  scroll-margin-top: 1rem;
 }
 
 .post-content h3 {
@@ -322,6 +323,7 @@ a:focus-visible {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
   color: #e8e6f0;
+  scroll-margin-top: 1rem;
 }
 
 .post-content .heading-anchor {
@@ -342,6 +344,29 @@ a:focus-visible {
 
 .post-content .heading-anchor:hover {
   color: var(--accent);
+}
+
+.post-content .heading-anchor .anchor-tooltip {
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 0.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--accent);
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.15em 0.5em;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.post-content .heading-anchor .anchor-tooltip.show {
+  opacity: 1;
 }
 
 .post-content p {
