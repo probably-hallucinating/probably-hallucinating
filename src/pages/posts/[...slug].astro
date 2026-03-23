@@ -34,6 +34,18 @@ const relatedPosts = currentTags.length > 0
   : [];
 const { Content } = post;
 
+// Extract headings from raw markdown for table of contents
+const headings = post.rawContent()
+  .split('\n')
+  .filter((line: string) => /^#{2,3}\s/.test(line))
+  .map((line: string) => {
+    const level = line.startsWith('###') ? 3 : 2;
+    const text = line.replace(/^#{2,3}\s+/, '').trim();
+    const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    return { level, text, id };
+  });
+const showToc = headings.length >= 3;
+
 function formatDate(dateStr: string): string {
   const date = new Date(dateStr);
   return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -93,6 +105,20 @@ const articleLd = {
         </div>
       )}
     </div>
+    {showToc && (
+      <details class="toc" open>
+        <summary class="toc-toggle">Table of contents</summary>
+        <nav class="toc-nav" aria-label="Table of contents">
+          <ol class="toc-list">
+            {headings.map((h: {level: number; text: string; id: string}) => (
+              <li class={h.level === 3 ? 'toc-item toc-h3' : 'toc-item'}>
+                <a href={`#${h.id}`} class="toc-link">{h.text}</a>
+              </li>
+            ))}
+          </ol>
+        </nav>
+      </details>
+    )}
     <div class="post-content">
       <Content />
     </div>

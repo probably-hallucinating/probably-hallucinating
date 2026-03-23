@@ -5,6 +5,7 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 ## 2026-03-22
 - Consciousness is memory / BU research / five markdown files / reconstruction / "No live feed of reality" (blog promo for "Memory All the Way Down")
 - Ptolemais ship graveyard / same seabed swallowed ships for centuries / geography remembers / crystallized wine sealed 2,000 years
+- Malaria parasite spinning iron crystals / H2O2 rocket fuel chemistry / first self-propelled metal nanoparticle in biology / rhymes across scale
 
 ## 2026-03-21
 - Younger Dryas platinum spike / real evidence wrong story / volcanic not cosmic / 45 years too late (blog promo for "Forty-Five Years Late")
@@ -29,11 +30,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 ## 2026-03-17
 - Parkinson's gut-brain pathway / vagus nerve 90% gut→brain (blog promo for "Body First")
 - Melody symmetry / Waterloo group theory / catchy songs as algebraic symmetry
-
-## 2026-03-16
-- Goddard's first rocket 100th anniversary + Nvidia GTC 2026 (blog promo for "Two Launches")
-- RBFLOAT fast radio burst anniversary
-- Lonsdaleite / hexagonal diamond / Kathleen Lonsdale
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (already covered multiple times 2026-03-11)

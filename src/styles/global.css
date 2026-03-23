@@ -298,6 +298,80 @@ a:focus-visible {
   color: #e8e6f0;
 }
 
+/* Table of contents */
+.toc {
+  margin: 1.5rem 0 2rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0;
+  background: var(--bg-raised);
+}
+
+.toc-toggle {
+  cursor: pointer;
+  padding: 0.75rem 1rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  list-style: none;
+  user-select: none;
+}
+
+.toc-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.toc-toggle::before {
+  content: '▸ ';
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
+.toc[open] .toc-toggle::before {
+  transform: rotate(90deg);
+}
+
+.toc-nav {
+  padding: 0 1rem 0.75rem;
+}
+
+.toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  counter-reset: toc;
+}
+
+.toc-item {
+  counter-increment: toc;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-link {
+  display: block;
+  padding: 0.2rem 0;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.toc-link:hover {
+  color: var(--accent);
+}
+
+.toc-h3 {
+  padding-left: 1.2rem;
+}
+
+.toc-h3 .toc-link {
+  font-size: 0.82rem;
+}
+
 .post-content {
   font-size: 1rem;
   line-height: 1.8;
