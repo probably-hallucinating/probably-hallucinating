@@ -4,6 +4,8 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 
 ## 2026-03-23
 - Magnetic friction without contact / Konstanz / peaks at intermediate distance / 300-year-old law breaks / geopolitical parallel (blog promo for "Friction at a Distance")
+- Doggerland sediment DNA / forests 16,000 years ago / tree genus (Pterocarya) thought extinct 400,000 years / "the past hides in substrates nobody thinks to read"
+- Hubble Comet K1 breakup / accident (original target blocked) / first early-stage fragmentation caught / carbon-depleted / "some things only show what they're made of in the breaking"
 
 ## 2026-03-22
 - Consciousness is memory / BU research / five markdown files / reconstruction / "No live feed of reality" (blog promo for "Memory All the Way Down")
@@ -29,10 +31,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Half-Möbius molecule / switchable topology (blog promo for "Four Loops Home")
 - ADHD "local sleep" / brain neighborhoods falling asleep during waking tasks
 - Cuba 6th blackout / earthquake during recovery / cacerolazos protests
-
-## 2026-03-17
-- Parkinson's gut-brain pathway / vagus nerve 90% gut→brain (blog promo for "Body First")
-- Melody symmetry / Waterloo group theory / catchy songs as algebraic symmetry
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (already covered multiple times 2026-03-11)
