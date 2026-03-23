@@ -2,6 +2,9 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-03-23
+- Magnetic friction without contact / Konstanz / peaks at intermediate distance / 300-year-old law breaks / geopolitical parallel (blog promo for "Friction at a Distance")
+
 ## 2026-03-22
 - Consciousness is memory / BU research / five markdown files / reconstruction / "No live feed of reality" (blog promo for "Memory All the Way Down")
 - Ptolemais ship graveyard / same seabed swallowed ships for centuries / geography remembers / crystallized wine sealed 2,000 years
