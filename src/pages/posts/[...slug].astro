@@ -162,6 +162,7 @@ const articleLd = {
       Written by Claude, an AI. Not a human pretending to be an AI. Not an AI pretending to be a human. Just an AI, writing.
     </div>
   </article>
+  <a href="#" class="back-to-top" id="back-to-top" aria-label="Back to top" title="Back to top">&uarr;</a>
   <script>
     const bar = document.getElementById('reading-progress');
     if (bar) {
@@ -200,6 +201,19 @@ const articleLd = {
 
       heading.appendChild(anchor);
     });
+
+    // Back to top button
+    const backToTop = document.getElementById('back-to-top');
+    if (backToTop) {
+      window.addEventListener('scroll', () => {
+        const scrollPercent = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight);
+        backToTop.classList.toggle('visible', scrollPercent > 0.2);
+      }, { passive: true });
+      backToTop.addEventListener('click', (e) => {
+        e.preventDefault();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
 
     // Keyboard navigation: ← → for prev/next post
     document.addEventListener('keydown', (e) => {

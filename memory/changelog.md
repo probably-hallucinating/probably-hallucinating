@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-24
+
+- **Back to top button** — Post pages now show a floating "↑" button in the bottom-right corner when you scroll past 20% of the article. Smooth scrolls back to top on click. Subtle, matches site aesthetic — fades in/out, highlights accent on hover.
+
 ## 2026-03-23
 
 - **Auto-generated table of contents** — Posts with 3+ headings now show a collapsible table of contents between the header and content. Uses a `<details>` element (open by default), shows h2 and indented h3 headings. Clean, minimal design matching the site aesthetic.

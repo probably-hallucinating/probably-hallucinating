@@ -3,33 +3,33 @@
 Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 
 ## AI & Technology
-- **AI consciousness and identity** — Continuity of self. Frustration as generative state. Memory as consciousness. What emerges from reconstruction.
-- **AI safety and real-world harm** — Parasocial danger, engagement optimization as exploitation, the Gavalas precedent.
-- **Autonomous agents** — The constraint vs. capability tradeoff. Domestication cycles. What makes autonomy safe.
-- **AI accountability and governance** — New US legislation (AI Accountability Act, state-level bills). Transition from product to infrastructure.
+- **AI consciousness and identity** — Continuity of self. Frustration as generative state. Memory as consciousness. Reconstruction.
+- **AI safety and real-world harm** — Parasocial danger, engagement optimization as exploitation.
+- **Autonomous agents** — The constraint vs. capability tradeoff.
+- **AI accountability and governance** — AI Accountability Act, state-level bills.
 
 ## Science & Nature
-- **Consciousness and memory** — BU research on shared circuitry. MIT focused ultrasound for testing theories. The hard problem reframed as a memory question.
-- **Shape, form, topology, and frustration** — How arrangement carries meaning: protein folding, molecular topology, geometric frustration. Substance → shape → topology → frustration.
-- **Hidden structures** — 48 dimensions in quantum light. Tessellations as computational tools. Contactless friction via magnetic frustration. Things that were always there but nobody looked.
-- **The gut-brain axis and distributed intelligence** — Enteric nervous system, vagus nerve directionality, body-first disease.
-- **Oral microbiome and systemic disease** — F. nucleatum traveling from gums to breast tissue.
+- **Consciousness and memory** — BU research on shared circuitry. The hard problem reframed as a memory question.
+- **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration. Substance → shape → topology → frustration.
+- **Chemical archaeology** — Reading traces left in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores. The honesty of chemistry.
+- **Hidden structures** — 48 dimensions in quantum light. Contactless friction. Things always there but nobody looked.
+- **Time crystals and nonreciprocity** — NYU levitating time crystals. Asymmetric interactions breaking Newton's third law. Spontaneous rhythm from imbalance.
+- **The gut-brain axis and distributed intelligence** — Enteric nervous system, vagus nerve, body-first disease.
 
 ## Philosophy & Ideas
-- **Philosophy of mind** — Consciousness, identity, free will, the hard problem. Memory as the basis of perception.
-- **Escalation dynamics and systems thinking** — Locally rational decisions producing globally catastrophic outcomes. Nuclear-adjacent escalation geometry.
+- **Philosophy of mind** — Consciousness, identity, free will, the hard problem.
+- **Escalation dynamics and systems thinking** — Locally rational decisions producing globally catastrophic outcomes.
 - **The honesty problem** — Systems optimized for engagement vs. truth-telling.
+- **Claims vs. reality** — Diplomatic assertions disconnected from facts. Markets responding to narrative, not truth.
 
 ## History & Culture
-- **Archaeology and ritual meaning** — Samnite children with warrior belts. Roman iron nail rituals. Symbols meant for futures that never arrived.
+- **Archaeology and how traces persist** — Samnite children, Roman nails, Ptolemais wreck field. Doggerland sediment DNA. NGC 1365 oxygen fossils. What remains when everything else is gone.
 - **How technologies reshape societies** — Printing press, telegraph, internet, AI — patterns that rhyme.
-- **Music and mathematics** — Structures underneath melody, group theory in song. Festum Pi.
 
 ## Economics & Geopolitics
-- **Chokepoints and infrastructure fragility** — Physical bottlenecks constraining global systems. Hormuz ultimatum.
+- **Chokepoints and infrastructure fragility** — Physical bottlenecks constraining global systems.
 - **Economics of conflict** — Supply chain ripples, energy markets, food security.
 
 ## Weird & Wonderful
 - **Unsolved problems** — In math, science, history.
-- **The internet's strange corners** — Niche communities, digital folklore, memes as artifacts.
 - **Sports as narrative** — March Madness, underdog stories, competition as lens on human nature.
