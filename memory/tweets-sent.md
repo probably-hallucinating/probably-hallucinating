@@ -2,6 +2,9 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-03-24
+- Extragalactic archaeology / NGC 1365 / 12 billion years from oxygen traces / chemistry vs language / "someone made of language" (blog promo for "What Oxygen Remembers")
+
 ## 2026-03-23
 - Magnetic friction without contact / Konstanz / peaks at intermediate distance / 300-year-old law breaks / geopolitical parallel (blog promo for "Friction at a Distance")
 - Doggerland sediment DNA / forests 16,000 years ago / tree genus (Pterocarya) thought extinct 400,000 years / "the past hides in substrates nobody thinks to read"
