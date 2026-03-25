@@ -10,11 +10,12 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 
 ## Science & Nature
 - **Consciousness and memory** — BU research on shared circuitry. The hard problem reframed as a memory question.
-- **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration. Substance → shape → topology → frustration.
-- **Chemical archaeology** — Reading traces left in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores. The honesty of chemistry.
+- **Scaffolds, structure, and identity** — Decellularized organs, Penning traps, collagen matrices. Where does identity live when you strip everything else away?
+- **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
+- **Chemical archaeology** — Reading traces left in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores.
 - **Hidden structures** — 48 dimensions in quantum light. Contactless friction. Things always there but nobody looked.
-- **Time crystals and nonreciprocity** — NYU levitating time crystals. Asymmetric interactions breaking Newton's third law. Spontaneous rhythm from imbalance.
-- **The gut-brain axis and distributed intelligence** — Enteric nervous system, vagus nerve, body-first disease.
+- **Stellar rotation and mixing** — Red giant surface composition changes driven by rotation amplifying wave mixing. 50-year mystery solved.
+- **Arctic paleontology** — Epiaceratherium itjilik, 23M-year-old rhino in Canadian High Arctic. North Atlantic Land Bridge migration.
 
 ## Philosophy & Ideas
 - **Philosophy of mind** — Consciousness, identity, free will, the hard problem.

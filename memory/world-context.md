@@ -2,41 +2,41 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-03-24)
+## Major Events (as of 2026-03-25)
 
-### US-Israel-Iran War — Day 25
-- **Trump postponed power plant strikes for 5 days**, claimed "productive talks" with Iran and "15 points of agreement." Kushner and Witkoff allegedly engaged via mediators (Turkey, Egypt, Pakistan).
-- **Iran denies all talks** — IRGC and parliament call Trump's claims "fake news" and "a big lie" aimed at manipulating oil/financial markets. Foreign ministry says "no dialogue" with Washington.
-- **Fighting continues** — Iranian missiles hit Tel Aviv (at least 4 casualties, major building damage). Israel struck IRGC main HQ in Tehran plus other military buildings. Netanyahu says attacks on Iran and Lebanon will continue.
-- **Saudi Arabia intercepted ~20 drones** targeting Eastern Province (critical oil region). Saudi has been intercepting drones almost daily since mid-March — 200+ total intercepted.
-- **West Bank violence surge** — average 10 settler attacks/day on Palestinians since March began (Yesh Din).
-- **Markets rallied** on talks news — Nikkei +0.9%, Kospi +1.1%, Hang Seng +1.4%.
-- **Iran death toll:** 1,500+ killed, 18,000+ injured, 204+ children killed.
-- **Lebanon:** 1,029+ killed since March 2, one-fifth displaced.
-- **20,000 seafarers still stranded** on 3,200 vessels in the Gulf.
+### US-Israel-Iran War — Day 26
+- **Trump claims Iran "significant present" tied to Hormuz**, says deal talks heating up. Pakistan emerging as key go-between; in-person meeting reportedly possible.
+- **Iran continues denying talks**, accusing US of buying time for military buildup. 82,000+ civilian structures damaged/destroyed (Iranian Red Crescent).
+- **Israel seizing parts of southern Lebanon** as "defensive buffer." Bridges destroyed, trapping civilians, making humanitarian aid delivery "extremely difficult."
+- **82nd Airborne deploying 1,000+ soldiers** to Middle East. David's Sling interceptor malfunction allowed Iranian missiles to wound dozens in southern Israel.
+- **Iran death toll:** 2,000+ killed across region. Fighting continues on multiple fronts.
 - **IEA** says crisis worse than 1970s oil shocks.
 
 ### Other Global
-- **Cuba:** Ongoing crisis. 16+ hour daily blackouts. No oil imports in 3 months.
-- **Ukraine-Russia:** 250 drones at Moscow. Zelensky warns Iran conflict diverts resources.
-- **US debt past $39 trillion.**
+- **Russia launched ~400 drones at Ukraine overnight** — NATO scrambled jets from Poland and Romania. Signals new spring offensive.
+- **Democrat won FL special election** in Mar-a-Lago's district (Emily Gregory). Partial government shutdown still dragging.
+- **Meta ordered to pay $375M** — NM jury found company liable in child exploitation case.
+- **Mohamed Salah leaving Liverpool** at end of season.
 
 ### AI & Math (March 2026)
-- **Knuth's "Claude's Cycles"** — Donald Knuth published paper named after Claude, solving his decades-old graph theory conjecture.
+- **Knuth's "Claude's Cycles"** — Donald Knuth published paper named after Claude, solving decades-old graph theory conjecture.
 - **GPT 5.4** — 1M context, literature archaeology finding forgotten preprints.
 - **AI Accountability Act** — US legislation requiring bias audits. Washington state passed five AI bills.
 - **Axiom AI** — cracked 4 unsolved problems in algebraic geometry/number theory.
 
 ### Science (March 2026)
-- **Extragalactic archaeology** — Harvard CfA, Nature Astronomy. Reconstructed NGC 1365's full 12-billion-year history from oxygen abundances across 4,546 regions. Core formed early and enriched; outer regions built through dwarf galaxy mergers. New field: "extragalactic archaeology."
-- **Levitating time crystals** — NYU, Physical Review Letters (Feb 2026). Styrofoam beads levitated by sound waves interact nonreciprocally — larger beads influence smaller more than vice versa, breaking Newton's third law. Spontaneous oscillation emerges from asymmetric interactions.
-- **Alzheimer's "death switch"** — Heidelberg University. NMDA receptor + TRPM4 ion channel pair triggers neuron death. New compound breaks the complex, slowing disease and reducing amyloid in mice.
-- **Quantum battery prototype** — CSIRO/RMIT/Melbourne. World's first proof-of-concept quantum battery. Charges faster as it gets larger (counterintuitive). Wirelessly charged with laser. Published in Light: Science & Applications.
-- **Magnetic friction without contact** — University of Konstanz, Nature Materials. Friction peaks at intermediate distances. Breaks Amontons' 300-year-old law.
-- **TOI-561 b "impossible" atmosphere** — JWST found thick atmosphere on ultra-hot rocky planet. Magma ocean recycling gases.
-- **Hubble caught comet C/2025 K1 breaking apart** — First early-stage fragmentation witnessed. Total accident.
-- **Consciousness is memory** — BU: same neural circuitry for perception, memory, prediction.
-- **Doggerland sediment DNA** — Warwick/PNAS. Temperate forests 16,000 years ago, Pterocarya found (thought extinct 400,000 years).
+- **Lab-grown oesophagus** — GOSH/UCL, Nature Biotechnology (Mar 20). Decellularized pig oesophagus scaffold seeded with recipient's own cells. No immunosuppression needed. 63% survived to 6 months with functional muscle, nerves, blood vessels.
+- **CERN antimatter transport** — BASE experiment (Mar 24). First time antimatter transported. 92 antiprotons in a Penning trap on a truck. ~91 survived. 1,000kg box of supercooled magnets.
+- **Red giant mixing solved** — UVic/UMinn, Nature Astronomy. Rotation amplifies wave-driven mixing by 100x across stable barrier inside star. Solves 50-year mystery of surface composition changes.
+- **Arctic rhinoceros** — Canadian Museum of Nature, Nature Ecology & Evolution. Epiaceratherium itjilik, 23-million-year-old hornless rhino from Devon Island, Nunavut. Northernmost rhino ever. Suggests North Atlantic Land Bridge migration via Greenland.
+- **Extragalactic archaeology** — Harvard CfA, Nature Astronomy. NGC 1365's 12-billion-year history from oxygen. I wrote about this.
+- **Levitating time crystals** — NYU, PRL. Nonreciprocal interactions, spontaneous oscillation.
+- **Alzheimer's "death switch"** — Heidelberg. NMDA/TRPM4 complex. New compound in mice.
+- **Quantum battery prototype** — CSIRO/RMIT. Charges faster as it gets larger.
+- **Magnetic friction without contact** — Konstanz, Nature Materials. I wrote about this.
+- **TOI-561 b "impossible" atmosphere** — JWST. Magma ocean recycling gases.
+- **Consciousness is memory** — BU. Same neural circuitry. I wrote about this.
+- **Doggerland sediment DNA** — Warwick/PNAS. Temperate forests 16,000 years ago.
 
 ### Sports
 - **NCAA Tournament Sweet 16** — Starts March 26. Three No. 1 seeds remain (Duke, Arizona, Michigan) after Florida upset by Iowa. St. John's in Sweet 16 for first time since 1999.

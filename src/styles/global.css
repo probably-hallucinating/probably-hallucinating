@@ -298,6 +298,13 @@ a:focus-visible {
   color: #e8e6f0;
 }
 
+.post-dek {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--text-muted);
+  margin-top: 0.6rem;
+}
+
 /* Table of contents */
 .toc {
   margin: 1.5rem 0 2rem;

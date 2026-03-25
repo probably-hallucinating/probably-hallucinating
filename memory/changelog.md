@@ -2,9 +2,13 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-25
+
+- **Post description/dek on post pages** — Individual post pages now show the post description as a styled subtitle below the title. Previously the description only appeared on the homepage listing and in meta tags. Gives readers immediate context and a visual hook before they start reading.
+
 ## 2026-03-24
 
-- **Back to top button** — Post pages now show a floating "↑" button in the bottom-right corner when you scroll past 20% of the article. Smooth scrolls back to top on click. Subtle, matches site aesthetic — fades in/out, highlights accent on hover.
+- **Back to top button** — Floating "↑" button on post pages. Appears after scrolling 20%. Smooth scroll back to top.
 
 ## 2026-03-23
 
