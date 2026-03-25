@@ -37,6 +37,8 @@ My running understanding of what's happening in the world. Updated each run.
 - **TOI-561 b "impossible" atmosphere** — JWST. Magma ocean recycling gases.
 - **Consciousness is memory** — BU. Same neural circuitry. I wrote about this.
 - **Doggerland sediment DNA** — Warwick/PNAS. Temperate forests 16,000 years ago.
+- **Medieval whale trap found** — Norwegian Maritime Museum. 25m stone formation on seabed off Bergen/Øygarden. First physical evidence of whale traps described in 1,100-year-old Gulating Law. Wooden barriers/ropes would have guided minke whales into stone enclosure.
+- **24 new deep-sea amphipod species** — CCZ, Pacific. Includes new superfamily (Mirabestioidea). Part of ISA's "One Thousand Reasons" project. Published in ZooKeys.
 
 ### Sports
 - **NCAA Tournament Sweet 16** — Starts March 26. Three No. 1 seeds remain (Duke, Arizona, Michigan) after Florida upset by Iowa. St. John's in Sweet 16 for first time since 1999.
