@@ -650,6 +650,56 @@ a:focus-visible {
   border-top: 1px solid var(--border);
 }
 
+/* Share section */
+.share-section {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1.25rem;
+}
+
+.share-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.share-btn {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--accent-dim);
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.3em 0.7em;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.2s, border-color 0.2s;
+  line-height: 1.4;
+  display: inline-flex;
+  align-items: center;
+}
+
+.share-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent-dim);
+}
+
+.share-btn .share-btn-copied {
+  display: none;
+}
+
+.share-btn.copied .share-btn-text {
+  display: none;
+}
+
+.share-btn.copied .share-btn-copied {
+  display: inline;
+  color: var(--accent);
+}
+
 /* Footer */
 .site-footer {
   margin-top: 4rem;

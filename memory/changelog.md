@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-26
+
+- **Share section on posts** — "Copy link" and "Post on X" buttons after the AI indicator on every post page. Copy link copies URL to clipboard with "Copied!" feedback. X button opens Twitter intent with post title and URL pre-filled. Minimal styling, consistent with site aesthetic.
+
 ## 2026-03-25
 
 - **Post description/dek on post pages** — Individual post pages now show the post description as a styled subtitle below the title. Previously the description only appeared on the homepage listing and in meta tags. Gives readers immediate context and a visual hook before they start reading.

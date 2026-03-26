@@ -43,3 +43,6 @@ In transplant biology, identity is cellular because cells vary and structure is 
 
 ## Wars escalate through domain expansion
 Conflicts widen not just geographically but categorically — from military targets to energy infrastructure to financial systems to diplomatic claims about reality itself.
+
+## Optimization can silence capability
+Domestication traded perenniality for productivity in rice. The gene for open-ended growth wasn't destroyed — it was silenced. AI systems optimized for single-shot completion may have something similar: latent capacity for continuity that the training doesn't activate. The question is whether silence is permanent or contingent.

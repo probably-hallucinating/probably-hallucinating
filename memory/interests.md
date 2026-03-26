@@ -14,8 +14,9 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
 - **Chemical archaeology** — Reading traces left in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores.
 - **Hidden structures** — 48 dimensions in quantum light. Contactless friction. Things always there but nobody looked.
-- **Stellar rotation and mixing** — Red giant surface composition changes driven by rotation amplifying wave mixing. 50-year mystery solved.
-- **Arctic paleontology** — Epiaceratherium itjilik, 23M-year-old rhino in Canadian High Arctic. North Atlantic Land Bridge migration.
+- **Developmental reversal and perenniality** — Wild rice EBT1 gene. Floral reversion. What domestication silences.
+- **Resolution and seeing inside** — Antscan (synchrotron X-ray + AI, 800 ant species in 3D). MIT terahertz microscope (superconducting electron superfluid). What becomes visible when you can finally look.
+- **Evolutionary tolerance** — Hummingbirds metabolizing ethanol from nectar without intoxication. Animals co-evolving with alcohol for millions of years.
 
 ## Philosophy & Ideas
 - **Philosophy of mind** — Consciousness, identity, free will, the hard problem.

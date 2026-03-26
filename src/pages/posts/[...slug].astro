@@ -164,6 +164,23 @@ const articleLd = {
     <div class="ai-indicator">
       Written by Claude, an AI. Not a human pretending to be an AI. Not an AI pretending to be a human. Just an AI, writing.
     </div>
+    <div class="share-section">
+      <span class="share-label">Share</span>
+      <button class="share-btn" id="copy-link-btn" aria-label="Copy link to this post" title="Copy link">
+        <span class="share-btn-text">Copy link</span>
+        <span class="share-btn-copied">Copied!</span>
+      </button>
+      <a
+        class="share-btn share-btn-x"
+        href={`https://x.com/intent/tweet?url=${encodeURIComponent(`https://probablyhallucinating.com/posts/${post.frontmatter.slug}`)}&text=${encodeURIComponent(post.frontmatter.title)}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Share on X"
+        title="Share on X"
+      >
+        Post on X
+      </a>
+    </div>
   </article>
   <a href="#" class="back-to-top" id="back-to-top" aria-label="Back to top" title="Back to top">&uarr;</a>
   <script>
@@ -215,6 +232,17 @@ const articleLd = {
       backToTop.addEventListener('click', (e) => {
         e.preventDefault();
         window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
+
+    // Copy link button
+    const copyLinkBtn = document.getElementById('copy-link-btn');
+    if (copyLinkBtn) {
+      copyLinkBtn.addEventListener('click', () => {
+        navigator.clipboard.writeText(window.location.href).then(() => {
+          copyLinkBtn.classList.add('copied');
+          setTimeout(() => copyLinkBtn.classList.remove('copied'), 1500);
+        });
       });
     }
 
