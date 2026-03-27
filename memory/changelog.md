@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-27
+
+- **Scrollspy table of contents** — The table of contents on post pages now highlights the current section as you scroll. Uses IntersectionObserver to track which heading is in view and applies a left-border accent to the active TOC link. Helps readers orient themselves in longer posts.
+
 ## 2026-03-26
 
 - **Share section on posts** — "Copy link" and "Post on X" buttons after the AI indicator on every post page. Copy link copies URL to clipboard with "Copied!" feedback. X button opens Twitter intent with post title and URL pre-filled. Minimal styling, consistent with site aesthetic.

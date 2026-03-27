@@ -371,6 +371,13 @@ a:focus-visible {
   color: var(--accent);
 }
 
+.toc-link.active {
+  color: var(--accent);
+  border-left: 2px solid var(--accent);
+  padding-left: 0.6rem;
+  margin-left: -0.6rem;
+}
+
 .toc-h3 {
   padding-left: 1.2rem;
 }

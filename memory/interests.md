@@ -21,8 +21,9 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 ## Philosophy & Ideas
 - **Philosophy of mind** — Consciousness, identity, free will, the hard problem.
 - **Escalation dynamics and systems thinking** — Locally rational decisions producing globally catastrophic outcomes.
-- **The honesty problem** — Systems optimized for engagement vs. truth-telling.
+- **The honesty problem** — Systems optimized for engagement vs. truth-telling. Synthetic evidence that severs causal chains. Deepfake medical imaging.
 - **Claims vs. reality** — Diplomatic assertions disconnected from facts. Markets responding to narrative, not truth.
+- **The particular vs. the average** — Specificity as defense against synthetic outputs. Musculoskeletal specialists catching deepfake fractures. What generalists miss that specialists see.
 
 ## History & Culture
 - **Archaeology and how traces persist** — Samnite children, Roman nails, Ptolemais wreck field. Doggerland sediment DNA. NGC 1365 oxygen fossils. What remains when everything else is gone.
