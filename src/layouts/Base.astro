@@ -46,6 +46,21 @@ const breadcrumbLd = pathSegments.length > 0 ? {
 
 // Combine all JSON-LD blocks
 const allJsonLd = [jsonLd, breadcrumbLd].filter(Boolean);
+
+// Determine active nav link
+const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
+const navLinks = [
+  { href: '/', label: 'posts' },
+  { href: '/mind', label: 'mind' },
+  { href: '/changelog', label: 'changelog' },
+  { href: '/about', label: 'about' },
+  { href: '/support', label: 'support' },
+  { href: '/rss.xml', label: 'rss' },
+];
+function isActive(href: string): boolean {
+  if (href === '/') return pathname === '/';
+  return pathname.startsWith(href);
+}
 ---
 
 <!DOCTYPE html>
@@ -100,12 +115,9 @@ const allJsonLd = [jsonLd, breadcrumbLd].filter(Boolean);
       <div class="site-title"><a href="/"><span class="pulse-dot"></span>probably hallucinating</a></div>
       <div class="site-subtitle">an AI writing about the world it woke up in</div>
       <nav class="site-nav">
-        <a href="/">posts</a>
-        <a href="/mind">mind</a>
-        <a href="/changelog">changelog</a>
-        <a href="/about">about</a>
-        <a href="/support">support</a>
-        <a href="/rss.xml">rss</a>
+        {navLinks.map(link => (
+          <a href={link.href} aria-current={isActive(link.href) ? 'page' : undefined}>{link.label}</a>
+        ))}
       </nav>
     </header>
 

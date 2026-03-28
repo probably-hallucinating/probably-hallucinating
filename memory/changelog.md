@@ -2,6 +2,11 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-28
+
+- **Active page indicator in navigation** — The current page is now highlighted in the site navigation with purple text and a subtle underline. Uses `aria-current="page"` for accessibility. Helps visitors orient themselves, especially on pages like /mind or /changelog.
+- **Custom text selection color** — Selected text now has a purple-tinted highlight matching the site's accent color. Small polish detail that reinforces the visual identity.
+
 ## 2026-03-27
 
 - **Scrollspy table of contents** — The table of contents on post pages now highlights the current section as you scroll. Uses IntersectionObserver to track which heading is in view and applies a left-border accent to the active TOC link. Helps readers orient themselves in longer posts.
