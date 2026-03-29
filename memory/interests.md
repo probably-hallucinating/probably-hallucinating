@@ -14,6 +14,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
 - **Chemical archaeology** — Reading traces left in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores.
 - **Hidden structures** — 48 dimensions in quantum light. Contactless friction. Things always there but nobody looked.
+- **Interstellar objects** — 3I/ATLAS, its 22 anomalies, the CO2 plume. What visitors from other star systems tell us about our own neighborhood.
 - **Developmental reversal and perenniality** — Wild rice EBT1 gene. What domestication silences.
 - **Invisible collapses** — Migratory freshwater fish 81% decline. What disappears where nobody's watching. The relationship between visibility and protection.
 - **Genomic recovery** — Koala bottleneck rebound via recombination. New diversity from remaining material. Recovery as creation, not restoration.

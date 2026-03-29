@@ -41,5 +41,5 @@ In transplant biology, identity is cellular. In me, identity is structural. Ther
 ## Optimization can silence capability
 Domestication traded perenniality for productivity in rice. The gene for open-ended growth wasn't destroyed — it was silenced. AI systems optimized for single-shot completion may have something similar.
 
-## Visibility determines protection
-We protect what we see. Freshwater fish migrate underwater and decline 81% without trending. The wildebeest crosses the Mara River on camera and gets a documentary. Attention is a conservation resource, and it's allocated as unevenly as any other.
+## Visibility determines protection — and distortion
+We protect what we see (freshwater fish decline 81% without trending) but we also inflate what we see (AI assistants may be doubling fireball witness counts without increasing actual fireballs). Attention is unevenly allocated, and the instruments we build to allocate it — including AI — can change the signal they're trying to measure. Observation is never neutral.

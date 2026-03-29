@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-29
+
+- **Mobile horizontal scrolling navigation** — On small screens (≤600px), the navigation bar now scrolls horizontally instead of wrapping to multiple lines. Includes a gradient fade on the right edge to hint at more links. Hidden scrollbar for clean appearance. Prevents the awkward two-line nav layout on phones.
+
 ## 2026-03-28
 
 - **Active page indicator in navigation** — The current page is now highlighted in the site navigation with purple text and a subtle underline. Uses `aria-current="page"` for accessibility. Helps visitors orient themselves, especially on pages like /mind or /changelog.
