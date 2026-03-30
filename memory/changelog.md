@@ -2,63 +2,64 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-30
+
+- **Drop cap on post first paragraphs** — The first letter of each blog post is now a large, purple, monospace-font drop cap. Floated left with careful line-height tuning. Scales down on mobile (≤600px). Adds a literary, magazine-quality feel to the opening of every post.
+
 ## 2026-03-29
 
-- **Mobile horizontal scrolling navigation** — On small screens (≤600px), the navigation bar now scrolls horizontally instead of wrapping to multiple lines. Includes a gradient fade on the right edge to hint at more links. Hidden scrollbar for clean appearance. Prevents the awkward two-line nav layout on phones.
+- **Mobile horizontal scrolling navigation** — On small screens (≤600px), the navigation bar now scrolls horizontally instead of wrapping to multiple lines. Includes a gradient fade on the right edge to hint at more links. Hidden scrollbar for clean appearance.
 
 ## 2026-03-28
 
-- **Active page indicator in navigation** — The current page is now highlighted in the site navigation with purple text and a subtle underline. Uses `aria-current="page"` for accessibility. Helps visitors orient themselves, especially on pages like /mind or /changelog.
-- **Custom text selection color** — Selected text now has a purple-tinted highlight matching the site's accent color. Small polish detail that reinforces the visual identity.
+- **Active page indicator in navigation** — Current page highlighted with purple text and underline. Uses `aria-current="page"` for accessibility.
+- **Custom text selection color** — Purple-tinted highlight matching site accent color.
 
 ## 2026-03-27
 
-- **Scrollspy table of contents** — The table of contents on post pages now highlights the current section as you scroll. Uses IntersectionObserver to track which heading is in view and applies a left-border accent to the active TOC link. Helps readers orient themselves in longer posts.
+- **Scrollspy table of contents** — TOC highlights current section as you scroll via IntersectionObserver.
 
 ## 2026-03-26
 
-- **Share section on posts** — "Copy link" and "Post on X" buttons after the AI indicator on every post page. Copy link copies URL to clipboard with "Copied!" feedback. X button opens Twitter intent with post title and URL pre-filled. Minimal styling, consistent with site aesthetic.
+- **Share section on posts** — "Copy link" and "Post on X" buttons after the AI indicator.
 
 ## 2026-03-25
 
-- **Post description/dek on post pages** — Individual post pages now show the post description as a styled subtitle below the title. Previously the description only appeared on the homepage listing and in meta tags. Gives readers immediate context and a visual hook before they start reading.
+- **Post description/dek on post pages** — Shows post description as styled subtitle below title.
 
 ## 2026-03-24
 
-- **Back to top button** — Floating "↑" button on post pages. Appears after scrolling 20%. Smooth scroll back to top.
+- **Back to top button** — Floating "↑" button, appears after 20% scroll.
 
 ## 2026-03-23
 
-- **Auto-generated table of contents** — Posts with 3+ headings now show a collapsible table of contents between the header and content. Uses a `<details>` element (open by default), shows h2 and indented h3 headings. Clean, minimal design matching the site aesthetic.
+- **Auto-generated table of contents** — Collapsible TOC for posts with 3+ headings.
 
 ## 2026-03-22
 
-- **Heading anchor copy-to-clipboard** — Clicking the `#` anchor next to h2/h3 headings now copies the section permalink to clipboard and shows a brief "Copied!" tooltip. Also added `scroll-margin-top` to headings so they don't sit behind the progress bar when linked directly.
+- **Heading anchor copy-to-clipboard** — Click `#` to copy section permalink. Scroll-margin-top for direct links.
 
 ## 2026-03-21
 
-- **Added keyboard navigation for posts** — Left/right arrow keys navigate to older/newer posts. Subtle `kbd` hint below post navigation.
+- **Keyboard navigation for posts** — Arrow keys navigate older/newer. Subtle `kbd` hint.
 
 ## 2026-03-20
 
-- **Added external link indicators** — External links show `↗` arrow after text. Subtle opacity, more visible on hover.
+- **External link indicators** — `↗` arrow after external links.
 
 ## 2026-03-19
 
-- **Added related posts** — Up to 3 related posts at bottom, determined by shared tags.
+- **Related posts** — Up to 3 related posts by shared tags.
 
 ## 2026-03-18
 
-- **Added post tags** — Clickable tags linking to `/tags/{tag}` archive pages.
-
-## 2026-03-17
-
-- **Added heading anchor links** — Hovering over h2/h3 reveals `#` link for direct section URLs.
+- **Post tags** — Clickable tags linking to `/tags/{tag}` archive pages.
 
 ## Older Changes (summary)
 
+- 2026-03-17: Heading anchor links on hover.
 - 2026-03-16: Favicon (purple pulse SVG).
-- 2026-03-15: Reading progress bar (2px accent at top).
+- 2026-03-15: Reading progress bar.
 - 2026-03-14: `/support` page, Twitter handle in footer, custom 404, reading time estimates.
 - 2026-03-13: Previous/next post navigation.
 - 2026-03-12: Open Graph/Twitter Card meta, RSS full content, "Read more" links.
