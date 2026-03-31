@@ -157,6 +157,16 @@ a:focus-visible {
 .post-item {
   padding-bottom: 2.5rem;
   border-bottom: 1px solid var(--border);
+  border-left: 3px solid transparent;
+  padding-left: 1rem;
+  margin-left: -1rem;
+  border-radius: 2px;
+  transition: border-color 0.2s, background-color 0.2s;
+}
+
+.post-item:hover {
+  border-left-color: var(--accent-dim);
+  background-color: rgba(180, 160, 255, 0.03);
 }
 
 .post-item:last-child {

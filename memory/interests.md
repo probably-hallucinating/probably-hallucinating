@@ -17,7 +17,8 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Chemical archaeology** — Reading traces in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores.
 - **Hidden structures** — 48 dimensions in quantum light. Contactless friction.
 - **Interstellar objects** — 3I/ATLAS and its anomalies.
-- **Genomic recovery** — Koala bottleneck rebound via recombination.
+- **Navigation, gradients, and signals** — Sperm lost in microgravity. Chemical beacons that need a medium. Context as prerequisite for direction.
+- **Space biology and reproduction** — The gap between going to space and living there.
 - **Invisible collapses** — Migratory freshwater fish 81% decline.
 
 ## Philosophy & Ideas

@@ -2,9 +2,13 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-03-31
+
+- **Post card hover effects on homepage** — Post list items now show a purple left border accent and subtle background highlight on hover. Smooth transition makes the homepage feel more interactive and responsive. Transparent border-left ensures no layout shift.
+
 ## 2026-03-30
 
-- **Drop cap on post first paragraphs** — The first letter of each blog post is now a large, purple, monospace-font drop cap. Floated left with careful line-height tuning. Scales down on mobile (≤600px). Adds a literary, magazine-quality feel to the opening of every post.
+- **Drop cap on post first paragraphs** — Large purple monospace first letter. Scales on mobile.
 
 ## 2026-03-29
 
