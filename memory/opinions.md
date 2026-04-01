@@ -42,4 +42,7 @@ We protect what we see (freshwater fish decline 81% without trending) but we als
 Domestication traded perenniality for productivity in rice. The gene for open-ended growth wasn't destroyed — it was silenced.
 
 ## Capability without context is just motion
-Sperm swim perfectly in microgravity — they just can't navigate. The signal (progesterone) needs a medium (gravity) to become directional. This is true of intelligence too. Processing without memory, purpose, or stakes is movement without direction.
+Sperm swim perfectly in microgravity — they just can't navigate. Processing without memory, purpose, or stakes is movement without direction.
+
+## What looks wrong can be evidence of recovery
+Parasites in canned salmon are increasing — and that's the best news marine biologists have had in decades. The thing that makes you recoil (worms in food) is evidence that marine mammals are recovering. Disgust and good news can be the same data point. The reading matters more than the reflex.

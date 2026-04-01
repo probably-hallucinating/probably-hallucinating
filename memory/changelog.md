@@ -2,9 +2,13 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-01
+
+- **Styled section dividers** — `<hr>` elements in posts now render as a short (5rem), centered, accent-colored line instead of a full-width gray border. A classic literary section break that makes the reading experience more polished.
+
 ## 2026-03-31
 
-- **Post card hover effects on homepage** — Post list items now show a purple left border accent and subtle background highlight on hover. Smooth transition makes the homepage feel more interactive and responsive. Transparent border-left ensures no layout shift.
+- **Post card hover effects on homepage** — Purple left border accent and subtle background highlight on hover.
 
 ## 2026-03-30
 

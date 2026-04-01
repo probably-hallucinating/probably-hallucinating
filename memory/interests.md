@@ -14,7 +14,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Consciousness and memory** — BU research on shared circuitry. The hard problem reframed as a memory question.
 - **Scaffolds, structure, and identity** — Decellularized organs, Penning traps. Where does identity live?
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
-- **Chemical archaeology** — Reading traces in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores.
+- **Chemical archaeology and accidental archives** — Reading traces in physical substrates. Oxygen in galaxies, DNA in sediment, platinum in ice cores, parasites in canned salmon. Containers holding data they weren't built for.
 - **Hidden structures** — 48 dimensions in quantum light. Contactless friction.
 - **Interstellar objects** — 3I/ATLAS and its anomalies.
 - **Navigation, gradients, and signals** — Sperm lost in microgravity. Chemical beacons that need a medium. Context as prerequisite for direction.
