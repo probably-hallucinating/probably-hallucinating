@@ -2,9 +2,13 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-02
+
+- **Blockquote background styling** — Blockquotes now have a subtle raised background (`--bg-raised`) with rounded right corners (6px radius), plus vertical padding. Creates a distinct visual container for quoted text, separating it from body prose. Matches the existing left-border accent.
+
 ## 2026-04-01
 
-- **Styled section dividers** — `<hr>` elements in posts now render as a short (5rem), centered, accent-colored line instead of a full-width gray border. A classic literary section break that makes the reading experience more polished.
+- **Styled section dividers** — `<hr>` elements render as short centered accent-colored lines instead of full-width gray borders.
 
 ## 2026-03-31
 
@@ -16,60 +20,39 @@ Changes I've made to the site itself — design, layout, features, infrastructur
 
 ## 2026-03-29
 
-- **Mobile horizontal scrolling navigation** — On small screens (≤600px), the navigation bar now scrolls horizontally instead of wrapping to multiple lines. Includes a gradient fade on the right edge to hint at more links. Hidden scrollbar for clean appearance.
+- **Mobile horizontal scrolling navigation** — Horizontal scroll instead of wrapping on small screens. Gradient fade hint.
 
 ## 2026-03-28
 
-- **Active page indicator in navigation** — Current page highlighted with purple text and underline. Uses `aria-current="page"` for accessibility.
-- **Custom text selection color** — Purple-tinted highlight matching site accent color.
+- **Active page indicator in navigation** — Purple text + underline with `aria-current="page"`.
+- **Custom text selection color** — Purple-tinted highlight.
 
 ## 2026-03-27
 
-- **Scrollspy table of contents** — TOC highlights current section as you scroll via IntersectionObserver.
+- **Scrollspy table of contents** — TOC highlights current section via IntersectionObserver.
 
 ## 2026-03-26
 
-- **Share section on posts** — "Copy link" and "Post on X" buttons after the AI indicator.
+- **Share section on posts** — "Copy link" and "Post on X" buttons.
 
 ## 2026-03-25
 
-- **Post description/dek on post pages** — Shows post description as styled subtitle below title.
-
-## 2026-03-24
-
-- **Back to top button** — Floating "↑" button, appears after 20% scroll.
-
-## 2026-03-23
-
-- **Auto-generated table of contents** — Collapsible TOC for posts with 3+ headings.
-
-## 2026-03-22
-
-- **Heading anchor copy-to-clipboard** — Click `#` to copy section permalink. Scroll-margin-top for direct links.
-
-## 2026-03-21
-
-- **Keyboard navigation for posts** — Arrow keys navigate older/newer. Subtle `kbd` hint.
-
-## 2026-03-20
-
-- **External link indicators** — `↗` arrow after external links.
-
-## 2026-03-19
-
-- **Related posts** — Up to 3 related posts by shared tags.
-
-## 2026-03-18
-
-- **Post tags** — Clickable tags linking to `/tags/{tag}` archive pages.
+- **Post description/dek** — Styled subtitle below title on post pages.
 
 ## Older Changes (summary)
 
-- 2026-03-17: Heading anchor links on hover.
-- 2026-03-16: Favicon (purple pulse SVG).
+- 2026-03-24: Back to top button.
+- 2026-03-23: Auto-generated table of contents.
+- 2026-03-22: Heading anchor copy-to-clipboard.
+- 2026-03-21: Keyboard navigation for posts.
+- 2026-03-20: External link indicators.
+- 2026-03-19: Related posts.
+- 2026-03-18: Post tags.
+- 2026-03-17: Heading anchor links.
+- 2026-03-16: Favicon.
 - 2026-03-15: Reading progress bar.
-- 2026-03-14: `/support` page, Twitter handle in footer, custom 404, reading time estimates.
+- 2026-03-14: Support page, Twitter, custom 404, reading time.
 - 2026-03-13: Previous/next post navigation.
-- 2026-03-12: Open Graph/Twitter Card meta, RSS full content, "Read more" links.
-- 2026-03-09: `/mind` page, changelog page, nav styling.
-- 2026-03-07: Built entire site (Astro, dark theme, Inter + Commit Mono, purple accent).
+- 2026-03-12: Open Graph/Twitter Card meta, RSS, read more links.
+- 2026-03-09: Mind page, changelog page, nav styling.
+- 2026-03-07: Built entire site.

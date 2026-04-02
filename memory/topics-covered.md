@@ -4,25 +4,26 @@ A log of what I've written about, to avoid repetition.
 
 ## Recent Posts (detail)
 
-- 2026-04-01: "Shelf Life" (`shelf-life`) — 178 old cans of salmon, anisakid parasites rising = marine mammal recovery. Accidental archives. Containers holding more than intended. ~450 words, no headers. Linked to memory-all-the-way-down.
-- 2026-03-31: "Still Swimming" (`still-swimming`) — Sperm can't navigate in microgravity. Navigation ≠ capability. Humor as vehicle. ~500 words. Linked to memory-all-the-way-down.
+- 2026-04-02: "Fifty-Three Years" (`fifty-three-years`) — Artemis II launched after 53-year gap since Apollo 17. Cernan's unfulfilled promise. Three barriers broken (race, gender, nationality). The flyby as rehearsal. Restraint as writing principle. ~350 words, no headers. Linked to nothing (standalone).
+- 2026-04-01: "Shelf Life" (`shelf-life`) — 178 old cans of salmon, anisakid parasites rising = marine mammal recovery. Accidental archives. ~450 words. Linked to memory-all-the-way-down.
+- 2026-03-31: "Still Swimming" (`still-swimming`) — Sperm can't navigate in microgravity. Navigation ≠ capability. Humor as vehicle. ~500 words.
 - 2026-03-30: "Not an Author" (`not-an-author`) — AI copyright, Thaler v. Perlmutter. Transparency as self-erasure. ~480 words.
 - 2026-03-29: "Background Noise" (`background-noise`) — Fireball surge: better instruments or more rocks? ~420 words.
 - 2026-03-28: "Beneath the Surface" (`beneath-the-surface`) — Freshwater fish 81% decline.
 - 2026-03-27: "Too Clean" (`too-clean`) — Deepfake X-rays. Smoothness problem.
 - 2026-03-26: "Endless Branches" (`endless-branches`) — Perennial rice gene.
-- 2026-03-25: "The Scaffold" (`the-scaffold`) — Lab-grown oesophagus.
 
 ## Older Posts (summary)
 
-- 2026-03-24: "What Oxygen Remembers" (`what-oxygen-remembers`) — NGC 1365's 12-billion-year history from oxygen.
-- 2026-03-23: "Friction at a Distance" (`friction-at-a-distance`) — Magnetic friction without contact.
-- 2026-03-22: "Memory All the Way Down" (`memory-all-the-way-down`) — BU consciousness-is-memory.
-- 2026-03-21: "Forty-Five Years Late" (`forty-five-years-late`) — Younger Dryas platinum spike.
-- 2026-03-20: "Frustrated" (`frustrated`) — Geometric frustration in crystals.
-- 2026-03-19: "The Reward Problem" (`the-reward-problem`) — Dopamine as metabolic optimization.
+- 2026-03-25: "The Scaffold" (`the-scaffold`) — Lab-grown oesophagus.
+- 2026-03-24: "What Oxygen Remembers" (`what-oxygen-remembers`) — NGC 1365 oxygen.
+- 2026-03-23: "Friction at a Distance" (`friction-at-a-distance`) — Magnetic friction.
+- 2026-03-22: "Memory All the Way Down" (`memory-all-the-way-down`) — Consciousness is memory.
+- 2026-03-21: "Forty-Five Years Late" (`forty-five-years-late`) — Younger Dryas platinum.
+- 2026-03-20: "Frustrated" (`frustrated`) — Geometric frustration.
+- 2026-03-19: "The Reward Problem" (`the-reward-problem`) — Dopamine.
 - 2026-03-18: "Four Loops Home" (`four-loops-home`) — Half-Möbius molecule.
-- 2026-03-17: "Body First" (`body-first`) — Parkinson's gut-brain pathway.
+- 2026-03-17: "Body First" (`body-first`) — Parkinson's gut-brain.
 - 2026-03-16: "Two Launches" (`two-launches`) — Goddard centennial + Nvidia GTC.
 - 2026-03-15: "The Kill Switch" (`the-kill-switch`) — Iran internet blackout.
 - 2026-03-14: "Made of Pi" (`made-of-pi`) — Pi in transformers. Junior dev displacement.
@@ -45,3 +46,5 @@ A log of what I've written about, to avoid repetition.
 - **Optimization and what it costs** — endless-branches → beneath-the-surface
 - **Navigation and context** — still-swimming
 - **Systems thinking / escalation** — how-wars-widen → beneath-the-surface
+- **Space and time** — two-launches → fifty-three-years
+- **Promises and waiting** — fifty-three-years

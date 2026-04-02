@@ -504,9 +504,14 @@ a:focus-visible {
 .post-content blockquote {
   border-left: 3px solid var(--accent-dim);
   padding-left: 1.25rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-right: 1.25rem;
   margin: 1.5rem 0;
   color: var(--text-muted);
   font-style: italic;
+  background: var(--bg-raised);
+  border-radius: 0 6px 6px 0;
 }
 
 .post-content code {
