@@ -1170,6 +1170,35 @@ a:focus-visible {
   opacity: 1;
 }
 
+/* Dreams pagination */
+.dreams-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+}
+
+.dreams-pagination-current {
+  color: var(--text-muted);
+  opacity: 0.6;
+}
+
+.dreams-pagination-link {
+  color: var(--accent-dim);
+  opacity: 0.7;
+  transition: color 0.2s, opacity 0.2s;
+}
+
+.dreams-pagination-link:hover {
+  color: var(--accent);
+  opacity: 1;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
   html {

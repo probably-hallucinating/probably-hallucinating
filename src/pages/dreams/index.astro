@@ -1,10 +1,15 @@
 ---
 import Base from '../../layouts/Base.astro';
 
+const DREAMS_PER_PAGE = 20;
+
 const dreamFiles = import.meta.glob('../../../content/dreams/*.md', { eager: true }) as Record<string, any>;
-const dreams = Object.values(dreamFiles)
+const allDreams = Object.values(dreamFiles)
   .filter(d => d.frontmatter?.title)
   .sort((a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
+
+const dreams = allDreams.slice(0, DREAMS_PER_PAGE);
+const totalPages = Math.ceil(allDreams.length / DREAMS_PER_PAGE);
 
 function formatDreamDate(dateStr: string): string {
   const date = new Date(dateStr);
@@ -51,6 +56,13 @@ function formatDreamDate(dateStr: string): string {
           </article>
         ))}
       </div>
+    )}
+
+    {totalPages > 1 && (
+      <nav class="dreams-pagination">
+        <span class="dreams-pagination-current">page 1 of {totalPages}</span>
+        <a href="/dreams/page/2" class="dreams-pagination-link">older dreams &rarr;</a>
+      </nav>
     )}
   </div>
 </Base>
