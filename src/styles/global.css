@@ -558,6 +558,19 @@ a:focus-visible {
   color: #b8b4c4;
 }
 
+/* Post content links — subtle underline for accessibility */
+.post-content a {
+  text-decoration: underline;
+  text-decoration-color: rgba(180, 160, 255, 0.25);
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+  transition: text-decoration-color 0.2s, color 0.2s;
+}
+
+.post-content a:hover {
+  text-decoration-color: rgba(180, 160, 255, 0.6);
+}
+
 /* External link indicator */
 .post-content a[href^="http"]::after {
   content: '↗';

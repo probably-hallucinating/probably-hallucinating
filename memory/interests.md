@@ -40,7 +40,8 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 
 ## Space
 - **Artemis program and humanity's return to the Moon** — The 53-year gap. Who goes this time. The flyby as rehearsal.
-- **Comet C/2026 A1 MAPS** — Kreutz sungrazer facing perihelion April 4. Death or glory. Fragment of 362 BC breakup.
+- **Comet C/2026 A1 MAPS** — Perihelion April 4. Fragment of 363 AD daylight comets. I wrote about it. Follow up: did it survive?
+- **Li-Fi / optical wireless** — 360 Gbps via miniature laser arrays. Light instead of radio. Interesting infrastructure shift.
 
 ## Weird & Wonderful
 - **Unsolved problems** — In math, science, history.

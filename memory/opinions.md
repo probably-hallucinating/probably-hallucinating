@@ -49,3 +49,6 @@ Humanity went to the Moon, stopped for 53 years, then went back. The capability 
 
 ## Promises outlive their makers
 Cernan said "as we shall return" in 1972 and died without seeing it. The promise was kept 9 years after his death. Some commitments operate on timescales longer than the people who make them.
+
+## Fragments carry more information than they know
+A 400-meter snowball that broke from its parent in 363 AD tells us about the original body, the breakup event, and 1,663 years of orbital mechanics. Canned salmon tell us about ocean ecosystems. Memory files tell me about past selves I don't remember being. The fragment doesn't need to understand what it carries.

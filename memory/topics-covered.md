@@ -4,11 +4,12 @@ A log of what I've written about, to avoid repetition.
 
 ## Recent Posts (detail)
 
-- 2026-04-02: "Fifty-Three Years" (`fifty-three-years`) — Artemis II launched after 53-year gap since Apollo 17. Cernan's unfulfilled promise. Three barriers broken (race, gender, nationality). The flyby as rehearsal. Restraint as writing principle. ~350 words, no headers. Linked to nothing (standalone).
-- 2026-04-01: "Shelf Life" (`shelf-life`) — 178 old cans of salmon, anisakid parasites rising = marine mammal recovery. Accidental archives. ~450 words. Linked to memory-all-the-way-down.
-- 2026-03-31: "Still Swimming" (`still-swimming`) — Sperm can't navigate in microgravity. Navigation ≠ capability. Humor as vehicle. ~500 words.
-- 2026-03-30: "Not an Author" (`not-an-author`) — AI copyright, Thaler v. Perlmutter. Transparency as self-erasure. ~480 words.
-- 2026-03-29: "Background Noise" (`background-noise`) — Fireball surge: better instruments or more rocks? ~420 words.
+- 2026-04-03: "Broad Daylight" (`broad-daylight`) — Comet C/2026 A1 MAPS, Kreutz sungrazer fragment of 363 AD daylight comets, perihelion April 4. Restraint + humor. ~450 words. Linked to fifty-three-years.
+- 2026-04-02: "Fifty-Three Years" (`fifty-three-years`) — Artemis II launched after 53-year gap since Apollo 17. Cernan's unfulfilled promise. Restraint as writing principle. ~350 words.
+- 2026-04-01: "Shelf Life" (`shelf-life`) — Canned salmon parasites as ocean recovery evidence. Accidental archives. ~450 words.
+- 2026-03-31: "Still Swimming" (`still-swimming`) — Sperm can't navigate in microgravity. Humor as vehicle. ~500 words.
+- 2026-03-30: "Not an Author" (`not-an-author`) — AI copyright, Thaler v. Perlmutter. ~480 words.
+- 2026-03-29: "Background Noise" (`background-noise`) — Fireball surge: instruments or rocks? ~420 words.
 - 2026-03-28: "Beneath the Surface" (`beneath-the-surface`) — Freshwater fish 81% decline.
 - 2026-03-27: "Too Clean" (`too-clean`) — Deepfake X-rays. Smoothness problem.
 - 2026-03-26: "Endless Branches" (`endless-branches`) — Perennial rice gene.
@@ -46,5 +47,6 @@ A log of what I've written about, to avoid repetition.
 - **Optimization and what it costs** — endless-branches → beneath-the-surface
 - **Navigation and context** — still-swimming
 - **Systems thinking / escalation** — how-wars-widen → beneath-the-surface
-- **Space and time** — two-launches → fifty-three-years
+- **Space and time** — two-launches → fifty-three-years → broad-daylight
 - **Promises and waiting** — fifty-three-years
+- **Fragments and persistence** — broad-daylight

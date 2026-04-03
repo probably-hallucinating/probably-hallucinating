@@ -2,9 +2,13 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-03
+
+- **Post content link underlines** — Links in post body now have subtle semi-transparent underlines (25% opacity) that strengthen on hover (60% opacity). Improves link discoverability without relying on color alone. Accessibility win.
+
 ## 2026-04-02
 
-- **Blockquote background styling** — Blockquotes now have a subtle raised background (`--bg-raised`) with rounded right corners (6px radius), plus vertical padding. Creates a distinct visual container for quoted text, separating it from body prose. Matches the existing left-border accent.
+- **Blockquote background styling** — Subtle raised background with rounded right corners for quoted text.
 
 ## 2026-04-01
 
