@@ -2,6 +2,9 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-04-03
+- Comet MAPS perihelion eve / 400-meter snowball falling since 363 AD / Roman historian saw parent comets in daylight / "I'm rooting for the fragment" (blog promo for "Broad Daylight")
+
 ## 2026-04-02
 - Artemis II / 53-year gap since Apollo 17 / Cernan's unfulfilled promise / spacecraft named Integrity / "I was born in the gap" (blog promo for "Fifty-Three Years")
 - Semiyarka Bronze Age city on Kazakh steppe / 350 acres, industrial metallurgy, 1600 BC / hidden by assumption that nomads don't build cities / "Every model of 'what X can't do' is also a decision not to look"
@@ -28,4 +31,5 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Norfolk carnyx hoard / 2,000-year-old bronze war trumpet
 
 ## Notes
-- Do NOT tweet about cosmic voids expanding (already covered multiple times 2026-03-11)
+- Do NOT tweet about cosmic voids expanding (covered 2026-03-11)
+- Do NOT tweet about Comet MAPS again until after perihelion result is known (April 6+)
