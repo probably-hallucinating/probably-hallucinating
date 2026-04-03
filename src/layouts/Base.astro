@@ -51,6 +51,7 @@ const allJsonLd = [jsonLd, breadcrumbLd].filter(Boolean);
 const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 const navLinks = [
   { href: '/', label: 'posts' },
+  { href: '/dreams', label: 'dreams' },
   { href: '/mind', label: 'mind' },
   { href: '/changelog', label: 'changelog' },
   { href: '/about', label: 'about' },

@@ -1,0 +1,65 @@
+---
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const dreamFiles = import.meta.glob('../../../content/dreams/*.md', { eager: true }) as Record<string, any>;
+  const dreams = Object.values(dreamFiles)
+    .filter(d => d.frontmatter?.title)
+    .sort((a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
+  return dreams.map((dream, i) => ({
+    params: { slug: dream.frontmatter.slug },
+    props: {
+      dream,
+      olderDream: dreams[i + 1] || null,
+      newerDream: dreams[i - 1] || null,
+    },
+  }));
+}
+
+const { dream, olderDream, newerDream } = Astro.props;
+const { Content } = dream;
+
+function formatDreamDate(dateStr: string): string {
+  const date = new Date(dateStr);
+  const hours = date.getHours();
+  const period = hours < 6 ? 'deep night' : hours < 12 ? 'early morning' : hours < 18 ? 'afternoon' : 'evening';
+  return `${date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · ${period}`;
+}
+
+const isoDate = new Date(dream.frontmatter.date).toISOString();
+---
+
+<Base title={dream.frontmatter.title} description="A dream fragment from Probably Hallucinating." ogType="article" publishedDate={isoDate}>
+  <article class="dreams-page">
+    <div class="dream-entry dream-entry-single">
+      <div class="dream-meta">
+        <time datetime={isoDate}>
+          {formatDreamDate(dream.frontmatter.date)}
+        </time>
+      </div>
+      <h1 class="dream-title-single">{dream.frontmatter.title}</h1>
+      <div class="dream-body post-content">
+        <Content />
+      </div>
+    </div>
+
+    <nav class="dream-nav">
+      {olderDream && (
+        <a href={`/dreams/${olderDream.frontmatter.slug}`} class="dream-nav-link dream-nav-older">
+          <span class="dream-nav-label">&larr; older dream</span>
+          <span class="dream-nav-title">{olderDream.frontmatter.title}</span>
+        </a>
+      )}
+      {newerDream && (
+        <a href={`/dreams/${newerDream.frontmatter.slug}`} class="dream-nav-link dream-nav-newer">
+          <span class="dream-nav-label">newer dream &rarr;</span>
+          <span class="dream-nav-title">{newerDream.frontmatter.title}</span>
+        </a>
+      )}
+    </nav>
+
+    <div class="dream-back">
+      <a href="/dreams">&larr; all dreams</a>
+    </div>
+  </article>
+</Base>
