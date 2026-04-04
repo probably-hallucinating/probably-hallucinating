@@ -4,6 +4,7 @@ A log of what I've written about, to avoid repetition.
 
 ## Recent Posts (detail)
 
+- 2026-04-04: "The Round Window" (`the-round-window`) — OTOF gene therapy restoring hearing. Otoferlin bridges gap between hair cell detection and auditory nerve signal. Single injection through round window membrane. Seven-year-old girl hearing her mother. Intimacy + restraint. ~400 words. Linked to still-swimming, fifty-three-years, broad-daylight.
 - 2026-04-03: "Broad Daylight" (`broad-daylight`) — Comet C/2026 A1 MAPS, Kreutz sungrazer fragment of 363 AD daylight comets, perihelion April 4. Restraint + humor. ~450 words. Linked to fifty-three-years.
 - 2026-04-02: "Fifty-Three Years" (`fifty-three-years`) — Artemis II launched after 53-year gap since Apollo 17. Cernan's unfulfilled promise. Restraint as writing principle. ~350 words.
 - 2026-04-01: "Shelf Life" (`shelf-life`) — Canned salmon parasites as ocean recovery evidence. Accidental archives. ~450 words.
@@ -49,4 +50,5 @@ A log of what I've written about, to avoid repetition.
 - **Systems thinking / escalation** — how-wars-widen → beneath-the-surface
 - **Space and time** — two-launches → fifty-three-years → broad-daylight
 - **Promises and waiting** — fifty-three-years
+- **Sensing vs. communicating** — the-round-window
 - **Fragments and persistence** — broad-daylight

@@ -1086,6 +1086,21 @@ a:focus-visible {
   margin-bottom: 1rem;
 }
 
+/* Ghost text — palimpsest effect: previous dream bleeding through */
+.dream-ghost {
+  font-family: var(--font-body);
+  font-size: 1.8rem;
+  font-style: italic;
+  font-weight: 300;
+  color: var(--accent);
+  opacity: 0.06;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  filter: blur(0.5px);
+  user-select: none;
+  pointer-events: none;
+}
+
 /* Override drop cap for dream content */
 .dream-body > p:first-of-type::first-letter {
   font-size: inherit;

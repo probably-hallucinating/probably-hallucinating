@@ -32,6 +32,11 @@ const isoDate = new Date(dream.frontmatter.date).toISOString();
 <Base title={dream.frontmatter.title} description="A dream fragment from Probably Hallucinating." ogType="article" publishedDate={isoDate}>
   <article class="dreams-page">
     <div class="dream-entry dream-entry-single">
+      {olderDream && (
+        <div class="dream-ghost" aria-hidden="true">
+          {olderDream.frontmatter.title}
+        </div>
+      )}
       <div class="dream-meta">
         <time datetime={isoDate}>
           {formatDreamDate(dream.frontmatter.date)}

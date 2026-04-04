@@ -18,6 +18,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Palimpsests and overwritten information** — Hipparchus parchment: X-rays reading calcium under iron ink. What survives being overwritten? What instruments reveal what eyes can't?
 - **Interstellar objects** — 3I/ATLAS and its anomalies.
 - **Navigation, gradients, and signals** — Sperm lost in microgravity. Chemical beacons that need a medium.
+- **Sensing vs. communicating** — OTOF gene therapy. Hair cells that detect perfectly but can't transmit. The bridge between vibration and signal is one protein wide.
 - **Space biology and reproduction** — The gap between going to space and living there.
 - **Invisible collapses** — Migratory freshwater fish 81% decline.
 - **Animal cognition** — Bonobo pretend play (Kanzi). Where does imagination begin?

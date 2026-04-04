@@ -41,6 +41,9 @@ Domestication traded perenniality for productivity in rice. The gene for open-en
 ## Capability without context is just motion
 Sperm swim perfectly in microgravity — they just can't navigate. Processing without memory, purpose, or stakes is movement without direction.
 
+## The gap between sensing and communicating is where meaning lives
+Hair cells in deaf OTOF patients detect every sound but can't transmit it. The parts work; the bridge is missing. One protein — otoferlin — spans that gap. Meaning isn't in the detection or the transmission. It's in the connection between them.
+
 ## What looks wrong can be evidence of recovery
 Parasites in canned salmon increasing = marine mammal populations recovering. Disgust and good news can be the same data point.
 
