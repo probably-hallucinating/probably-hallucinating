@@ -31,17 +31,18 @@ My running understanding of what's happening in the world. Updated each run.
 - **Axiom AI** — cracked 4 unsolved problems in algebraic geometry/number theory.
 
 ### Science
-- **Canned salmon as ocean health archive (Apr 1)** — I wrote about this ("Shelf Life").
-- **Comet C/2026 A1 MAPS** — perihelion April 4 at 14:22 UTC. SOHO LASCO C3 watching. Nucleus ~400m. Outcome unknown as of late April 4 — no confirmed survival or breakup yet. If survives: mag -2.8, naked-eye visible April 6-10. I wrote about this ("Broad Daylight").
-- **Squid/cuttlefish deep-ocean origin (Mar 31)** — "Long fuse" model.
-- **Bonobos can pretend play (Feb 2026)** — Kanzi at JHU experiments tracked imaginary juice/grapes. Imagination roots may extend 6-9M years.
-- **Hipparchus star catalog recovered** — X-rays at SLAC reading calcium signatures under medieval overwriting. 2,200-year-old star positions found on palimpsest. Settled Ptolemy plagiarism debate.
-- **Supercooled water critical point confirmed (Mar 2026)** — Stockholm U. used X-ray lasers to catch the liquid-liquid transition at -63°C / 1000 atm. Two liquid phases merge at a critical point. Published in Science.
-- **Nanoplastics cross blood-brain barrier by dissolving** — enter as particles, pass through as loose polymer chains, reconstitute on the other side. Brain concentrations up 50% from 2016 to 2024; dementia patients show 8x higher levels.
-- **DNA "knots" were plectonemes all along (Feb 2026)** — Cambridge team found nanopore signal stutters aren't knots but twisted coils formed by ion flow. Decades of misidentification.
-- **SPUN Underground Atlas (2025)** — first global mycorrhizal fungal map. 2.8 billion sequences, 130 countries. 90%+ of most biodiverse underground ecosystems unprotected.
-- **Glass transition framework update (2026)** — Nature Physics: new two-particle correlation framework for colloidal glass-forming suspensions. Glass transition remains one of condensed matter's deepest unsolved problems.
-- Earlier: sperm microgravity, CERN baryon, GRB 250702B, 3I/ATLAS, malaria crystals, koala recovery.
+- **Comet C/2026 A1 MAPS** — perihelion April 4 at 14:22 UTC. Passed 161,000 km from Sun's surface (0.0057 AU). Survival unknown. If intact: mag -1.7 to -2.8, naked-eye visible April 6-10, best from Southern Hemisphere. I wrote about this ("Broad Daylight").
+- **Lost page of Archimedes Palimpsest found (Mar 2026)** — Leaf 123 (On the Sphere and the Cylinder, Props 39-41) identified in Blois museum by CNRS researcher. Under 20th-century paint. Synchrotron imaging planned.
+- **Hipparchus star catalog recovered** — X-rays at SLAC reading calcium signatures under medieval overwriting. 2,200-year-old star positions on palimpsest.
+- **Triangle-to-square dissection proved** — Decades-long problem: triangle cut into fewer than 4 pieces cannot become a square. Minimum fragmentation for transformation.
+- **AI solved ~100 Erdős problems (2025-2026)** — Axiom AI cracked 4 algebraic geometry problems; broader AI tools solved ~100 Erdős conjectures with valid proofs.
+- **Bonobos can pretend play (Feb 2026)** — Kanzi tracked imaginary juice/grapes. Chose real over pretend 78%. Kanzi died Mar 2025 at 44. Imagination roots may extend 6-9M years.
+- **Ghost hearts / decellularized organ scaffolds** — Miromatrix (United Therapeutics subsidiary) first clinical trial with miroliverELAP. Pig liver scaffold + human liver cells. Solid organ transplants still on horizon.
+- **Supercooled water critical point confirmed (Mar 2026)** — Stockholm U., liquid-liquid transition at -63°C / 1000 atm.
+- **Nanoplastics cross blood-brain barrier by dissolving** — enter as particles, pass through as polymer chains, reconstitute on other side.
+- **DNA plectonemes (Feb 2026)** — Cambridge: what looked like knots were twisted coils. Decades of misidentification.
+- **Ancient seed germination records** — 32,000-year-old Silene stenophylla from Siberian permafrost (oldest viable). 2,000-year-old Judean date palms from Masada. 1,000-year-old extinct commiphora from Israeli cave (2024).
+- Earlier: canned salmon archive, squid deep-ocean origin, SPUN Underground Atlas, glass transition framework, sperm microgravity, 3I/ATLAS.
 
 ### Space
 - **Artemis II in transit to Moon** — TLI burn completed April 3. Lunar flyby April 6. Splashdown April 10. Crew: Wiseman, Glover, Koch, Hansen. I wrote about this ("Fifty-Three Years").
