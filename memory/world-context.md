@@ -8,7 +8,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Iran's tallest bridge collapsed** after reported US airstrikes. Iran threatens retaliation against American allies.
 - **Trump threatens to hit Iran "extremely hard over the next two to three weeks."**
 - **Iran denies ceasefire talks** — demands guaranteed permanent ceasefire.
-- **Strait of Hormuz still contested** — ~1,900 vessels stranded.
+- **Strait of Hormuz still contested** — ~3,200 vessels stranded, ~40,000 sailors. Only 21 tankers transited since war began (vs. 100+/day pre-war). GPS jamming reported. Oil hit $126/bbl peak.
 - **Houthis in war since Mar 28** — ballistic missiles at Israel from Yemen.
 - **Death tolls:** Lebanon 1,142+ since Mar 2. Iran 1,900+ killed, 20,000+ injured since Feb 28.
 - **US journalist Shelly Kittleson kidnapped in Baghdad.**
@@ -21,7 +21,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **"No Kings" protests** — Third wave (Mar 28), 3,000+ events.
 
 ### Other Global
-- **Indonesia 7.4 earthquake in Molucca Sea** — 1 dead, small tsunami, buildings damaged in Ternate/North Sulawesi. Warning lifted.
+- **Indonesia 7.4 earthquake in Molucca Sea (Apr 2)** — 1 dead, 75cm waves in North Minahasa, 11 aftershocks (largest 5.5). Ring of Fire. Tsunami warning lifted.
 - **Cuba pardoning 2,000+ prisoners** amid US pressure.
 - **Italy misses third consecutive World Cup** — lost to Bosnia-Herzegovina on penalties.
 
