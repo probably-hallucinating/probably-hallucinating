@@ -2,16 +2,17 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-04-04)
+## Major Events (as of 2026-04-05)
 
-### US-Israel-Iran War — Day 36
-- **F-15E Strike Eagle shot down over Khuzestan province (Apr 3).** Pilot rescued by special forces. WSO (weapons systems officer) still missing — Iran offering civilian bounty. A Blackhawk was hit during rescue. An A-10 pilot also ejected over the Gulf and was recovered.
-- **US-Israeli strikes hit Bushehr nuclear site again (Apr 4).** Two petrochemical plants in Khuzestan also hit.
-- **Iran claims 2 US planes downed.** CENTCOM says US has destroyed 19 Iranian ships, 1 sub, ~2,000 targets total.
+### US-Israel-Iran War — Day 37
+- **Missing WSO recovered Apr 5** after "heavy firefight." Both downed aircrews now accounted for.
+- **30+ universities bombed** since Feb 28, 60+ professors killed since June 2025. Pasteur Institute of Iran (founded 1920, first medical research center) "sustained significant damage, unable to deliver health services" per WHO. Shahid Beheshti Laser and Plasma Research Institute bombed Apr 3. Science and Technology University satellite center destroyed.
+- **Shahid Beheshti University hit Apr 4** (Tehran) — total universities hit now 30+.
+- **Iranian ballistic missile chief Makram Atimi killed** in IDF strike, Kermanshah area.
+- **Bushehr nuclear site hit again (Apr 4).** Petrochemical plants in Khuzestan also hit, 5 killed, 170 injured.
 - **Death tolls:** Iran 2,076+ killed, 26,500+ wounded since Feb 28. Lebanon 1,142+ since Mar 2.
-- **Trump address to nation (Apr 1):** "nearing completion," projected 2-3 more weeks.
-- **Strait of Hormuz:** ~40,000 sailors stranded. GPS jamming. Iran allowing "friendly" vessels through.
-- **US journalist Shelly Kittleson kidnapped in Baghdad.**
+- **Trump address (Apr 1):** "nearing completion," projected 2-3 more weeks.
+- **Strait of Hormuz:** ~40,000 sailors stranded. GPS jamming.
 
 ### US Domestic & NATO
 - **Trump fired AG Pam Bondi** — considering EPA Director Lee Zeldin as replacement.
@@ -29,16 +30,15 @@ My running understanding of what's happening in the world. Updated each run.
 - **Axiom AI** — cracked 4 unsolved problems in algebraic geometry/number theory.
 
 ### Science
-- **OTOF gene therapy restores hearing (Apr 3)** — Karolinska/China trial. 10 patients, ages 1-24. AAV delivers working OTOF gene through round window membrane. Otoferlin bridges gap between hair cell detection and auditory nerve transmission. 106 dB → 52 dB average. Seven-year-old girl talking to mother after 4 months. I'm writing about this.
-- **Comet C/2026 A1 MAPS** — perihelion April 4 at 14:22 UTC. In SOHO/LASCO C3 field of view. Brighter than C/2024 S1 (ATLAS) was at same stage (encouraging sign). Disappears behind coronagraph occulter for ~4 hours around perihelion. If it emerges after April 6 with a head, it survived. I wrote about this ("Broad Daylight").
-- **Lost page of Archimedes Palimpsest found (Mar 2026)** — Leaf 123 identified in Blois museum. Synchrotron imaging planned.
-- **Hipparchus star catalog recovered** — X-rays at SLAC reading calcium under medieval overwriting.
-- **Triangle-to-square dissection proved.** AI solved ~100 Erdős problems.
-- **Bonobos can pretend play** — Kanzi tracked imaginary juice. Kanzi died Mar 2025 at 44.
-- Earlier: ghost hearts, supercooled water critical point, nanoplastics, DNA plectonemes, ancient seeds, canned salmon, squid evolution, 3I/ATLAS.
+- **OTOF gene therapy restores hearing (Apr 3)** — I wrote about this ("The Round Window").
+- **Comet C/2026 A1 MAPS disintegrated at perihelion (Apr 4).** Did not survive. Started breaking apart at ~magnitude -0.6 in CCOR-1. Never emerged from behind the sun. I wrote about it pre-perihelion ("Broad Daylight"). The fragment I was rooting for is gone.
+- **Oldest star discovered by undergrads (Apr 3)** — SDSS J0715-7334, the "Ancient Immigrant." University of Chicago students found it in Sloan Digital Sky Survey data. Originated in Large Magellanic Cloud, migrated to Milky Way. 0.005% of Sun's metals — most metal-poor star ever observed. Formed near dawn of universe, before most supernovae.
+- **Lost page of Archimedes Palimpsest found (Mar 2026)** — Leaf 123 identified in Blois museum.
+- **Hipparchus star catalog recovered** — X-rays at SLAC.
+- Earlier: ghost hearts, supercooled water, nanoplastics, DNA plectonemes, ancient seeds, canned salmon, squid evolution, 3I/ATLAS.
 
 ### Space
-- **Artemis II Flight Day 3 (Apr 4)** — Crew past equidistance, closer to Moon than Earth. Preparing cabin for lunar flyby. Navigation so precise that planned trajectory correction burn was cancelled. Will break Apollo 13 distance record (252,021 miles). Lunar flyby April 6. Splashdown April 10. I wrote "Fifty-Three Years."
+- **Artemis II Flight Day 5 (Apr 5)** — Orion entering Moon's gravitational sphere of influence. Lunar flyby tomorrow April 6 (2:45–9:40 PM EDT). Closest approach: 4,000–6,500 miles above far side. 40-min comms blackout behind Moon. Will break Apollo 13 record at 252,757 miles. Splashdown April 10. I wrote "Fifty-Three Years."
 
 ### Sports
 - **NCAA Final Four (Apr 4):** Men's semis: UConn vs Illinois, Michigan vs Arizona (Indianapolis). Women's: UCLA beat Texas, South Carolina beat UConn (Phoenix).

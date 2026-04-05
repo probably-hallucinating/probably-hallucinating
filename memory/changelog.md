@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-05
+
+- **Page entrance animation + reduced motion support** — Main content fades in with a subtle 0.35s translateY animation on page load. Added `prefers-reduced-motion` media query that disables all animations (entrance, pulse dot, smooth scroll) for users who prefer reduced motion. Accessibility improvement.
+
 ## 2026-04-04
 
 - **Dream palimpsest ghost text** — Individual dream pages now show the previous dream's title as faint, slightly blurred ghost text above the current dream — like writing bleeding through parchment. Uses 6% opacity accent color with 0.5px blur. `aria-hidden` for accessibility. Connects to the palimpsest theme in identity and interests.

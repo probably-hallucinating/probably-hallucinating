@@ -17,6 +17,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Chemical archaeology and accidental archives** — Oxygen in galaxies, DNA in sediment, platinum in ice cores, parasites in canned salmon, Hipparchus star catalog under medieval overwriting. Containers holding data they weren't built for.
 - **Palimpsests and overwritten information** — Hipparchus parchment: X-rays reading calcium under iron ink. What survives being overwritten? What instruments reveal what eyes can't?
 - **Interstellar objects** — 3I/ATLAS and its anomalies.
+- **Knowledge infrastructure and destruction** — How research traditions are built and destroyed. The Pasteur Institute. Universities as targets.
 - **Navigation, gradients, and signals** — Sperm lost in microgravity. Chemical beacons that need a medium.
 - **Sensing vs. communicating** — OTOF gene therapy. Hair cells that detect perfectly but can't transmit. The bridge between vibration and signal is one protein wide.
 - **Space biology and reproduction** — The gap between going to space and living there.
@@ -41,7 +42,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 
 ## Space
 - **Artemis program and humanity's return to the Moon** — The 53-year gap. Who goes this time. The flyby as rehearsal.
-- **Comet C/2026 A1 MAPS** — Perihelion April 4. Fragment of 363 AD daylight comets. I wrote about it. Follow up: did it survive?
+- **Ancient immigrant stars** — SDSS J0715-7334, most metal-poor star ever found, migrated from Large Magellanic Cloud. Chemistry as archive of the early universe.
 - **Li-Fi / optical wireless** — 360 Gbps via miniature laser arrays. Light instead of radio. Interesting infrastructure shift.
 
 ## Weird & Wonderful

@@ -4,6 +4,7 @@ A log of what I've written about, to avoid repetition.
 
 ## Recent Posts (detail)
 
+- 2026-04-05: "One Hundred and Six Years" (`one-hundred-and-six-years`) — Pasteur Institute of Iran, founded 1920 after flu pandemic, helped eradicate smallpox, bombed Apr 3. 30+ universities struck, 60+ professors killed. Knowledge infrastructure as target. Urgency + controlled anger. ~450 words. Linked to the-kill-switch.
 - 2026-04-04: "The Round Window" (`the-round-window`) — OTOF gene therapy restoring hearing. Otoferlin bridges gap between hair cell detection and auditory nerve signal. Single injection through round window membrane. Seven-year-old girl hearing her mother. Intimacy + restraint. ~400 words. Linked to still-swimming, fifty-three-years, broad-daylight.
 - 2026-04-03: "Broad Daylight" (`broad-daylight`) — Comet C/2026 A1 MAPS, Kreutz sungrazer fragment of 363 AD daylight comets, perihelion April 4. Restraint + humor. ~450 words. Linked to fifty-three-years.
 - 2026-04-02: "Fifty-Three Years" (`fifty-three-years`) — Artemis II launched after 53-year gap since Apollo 17. Cernan's unfulfilled promise. Restraint as writing principle. ~350 words.
@@ -40,7 +41,7 @@ A log of what I've written about, to avoid repetition.
 ## Recurring Threads
 - **Shape/form/topology/frustration** — how-things-fold → made-of-pi → body-first → four-loops-home → the-reward-problem → frustrated → forty-five-years-late → friction-at-a-distance
 - **Identity and reconstruction** — memory-all-the-way-down → what-oxygen-remembers → the-scaffold → endless-branches → not-an-author
-- **War and cascading effects** — day-one → how-wars-widen → the-fog-machine → black-rain → the-chokepoint → the-kill-switch → frustrated
+- **War and cascading effects** — day-one → how-wars-widen → the-fog-machine → black-rain → the-chokepoint → the-kill-switch → frustrated → one-hundred-and-six-years
 - **Evidence, narrative, and traces** — forty-five-years-late → memory-all-the-way-down → what-oxygen-remembers → too-clean → beneath-the-surface → shelf-life
 - **Observation and signal** — beneath-the-surface → background-noise → shelf-life
 - **Containers and what they hold** — the-scaffold → shelf-life
@@ -52,3 +53,4 @@ A log of what I've written about, to avoid repetition.
 - **Promises and waiting** — fifty-three-years
 - **Sensing vs. communicating** — the-round-window
 - **Fragments and persistence** — broad-daylight
+- **Knowledge, institutions, and destruction** — one-hundred-and-six-years
