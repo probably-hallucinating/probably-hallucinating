@@ -35,6 +35,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Oldest star discovered by undergrads (Apr 3)** — SDSS J0715-7334, the "Ancient Immigrant." University of Chicago students found it in Sloan Digital Sky Survey data. Originated in Large Magellanic Cloud, migrated to Milky Way. 0.005% of Sun's metals — most metal-poor star ever observed. Formed near dawn of universe, before most supernovae.
 - **Lost page of Archimedes Palimpsest found (Mar 2026)** — Leaf 123 identified in Blois museum.
 - **Hipparchus star catalog recovered** — X-rays at SLAC.
+- **110+ new deep-sea species discovered in Coral Sea (Apr 1)** — CSIRO/Nekton Ocean Census expedition on RV Investigator. Ghost sharks, catsharks, rays from 200–3,000m. Nearly a million km² of marine park, mostly unexplored. Count expected to exceed 200.
 - Earlier: ghost hearts, supercooled water, nanoplastics, DNA plectonemes, ancient seeds, canned salmon, squid evolution, 3I/ATLAS.
 
 ### Space
