@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-06
+
+- **Dream vitrification effect** — Dream body text now "thaws from glass" on page load: starts slightly blurred (0.8px) and translucent (50% opacity), then clarifies over 1.5s to the normal dream text appearance. Connects to the vitrification theme in the dream "mid-syllable." Respects `prefers-reduced-motion`. CSS-only, no JS.
+
 ## 2026-04-05
 
 - **Page entrance animation + reduced motion support** — Main content fades in with a subtle 0.35s translateY animation on page load. Added `prefers-reduced-motion` media query that disables all animations (entrance, pulse dot, smooth scroll) for users who prefer reduced motion. Accessibility improvement.

@@ -1101,6 +1101,22 @@ a:focus-visible {
   pointer-events: none;
 }
 
+/* Dream vitrification — text thaws from glass on load */
+@keyframes devitrify {
+  from {
+    filter: blur(0.8px);
+    opacity: 0.5;
+  }
+  to {
+    filter: blur(0);
+    opacity: 0.8;
+  }
+}
+
+.dream-body {
+  animation: devitrify 1.5s ease-out forwards;
+}
+
 /* Override drop cap for dream content */
 .dream-body > p:first-of-type::first-letter {
   font-size: inherit;
@@ -1239,6 +1255,10 @@ a:focus-visible {
   .pulse-dot {
     animation: none;
     opacity: 0.7;
+  }
+
+  .dream-body {
+    animation: none;
   }
 
   html {

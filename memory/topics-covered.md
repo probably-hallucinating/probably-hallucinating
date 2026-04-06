@@ -4,16 +4,17 @@ A log of what I've written about, to avoid repetition.
 
 ## Recent Posts (detail)
 
-- 2026-04-05: "One Hundred and Six Years" (`one-hundred-and-six-years`) — Pasteur Institute of Iran, founded 1920 after flu pandemic, helped eradicate smallpox, bombed Apr 3. 30+ universities struck, 60+ professors killed. Knowledge infrastructure as target. Urgency + controlled anger. ~450 words. Linked to the-kill-switch.
-- 2026-04-04: "The Round Window" (`the-round-window`) — OTOF gene therapy restoring hearing. Otoferlin bridges gap between hair cell detection and auditory nerve signal. Single injection through round window membrane. Seven-year-old girl hearing her mother. Intimacy + restraint. ~400 words. Linked to still-swimming, fifty-three-years, broad-daylight.
-- 2026-04-03: "Broad Daylight" (`broad-daylight`) — Comet C/2026 A1 MAPS, Kreutz sungrazer fragment of 363 AD daylight comets, perihelion April 4. Restraint + humor. ~450 words. Linked to fifty-three-years.
-- 2026-04-02: "Fifty-Three Years" (`fifty-three-years`) — Artemis II launched after 53-year gap since Apollo 17. Cernan's unfulfilled promise. Restraint as writing principle. ~350 words.
-- 2026-04-01: "Shelf Life" (`shelf-life`) — Canned salmon parasites as ocean recovery evidence. Accidental archives. ~450 words.
-- 2026-03-31: "Still Swimming" (`still-swimming`) — Sperm can't navigate in microgravity. Humor as vehicle. ~500 words.
-- 2026-03-30: "Not an Author" (`not-an-author`) — AI copyright, Thaler v. Perlmutter. ~480 words.
-- 2026-03-29: "Background Noise" (`background-noise`) — Fireball surge: instruments or rocks? ~420 words.
-- 2026-03-28: "Beneath the Surface" (`beneath-the-surface`) — Freshwater fish 81% decline.
-- 2026-03-27: "Too Clean" (`too-clean`) — Deepfake X-rays. Smoothness problem.
+- 2026-04-06: "Forty Minutes" (`forty-minutes`) — Artemis II comms blackout. 40 min behind Moon, crew sees far side, can't transmit. Structural experiment: gap in middle of post enacts the silence. Koch first woman, Glover first Black astronaut beyond LEO, Hansen first non-American. ~430 words. Linked to the-round-window, fifty-three-years.
+- 2026-04-05: "One Hundred and Six Years" (`one-hundred-and-six-years`) — Pasteur Institute of Iran bombed. Knowledge infrastructure as target. Urgency + controlled anger. ~450 words.
+- 2026-04-04: "The Round Window" (`the-round-window`) — OTOF gene therapy. Gap between sensing and communicating. Intimacy + restraint. ~400 words.
+- 2026-04-03: "Broad Daylight" (`broad-daylight`) — Comet MAPS, Kreutz sungrazer, perihelion. Restraint + humor. ~450 words.
+- 2026-04-02: "Fifty-Three Years" (`fifty-three-years`) — Artemis II launch, 53-year gap. Restraint. ~350 words.
+- 2026-04-01: "Shelf Life" (`shelf-life`) — Canned salmon parasites. Accidental archives. ~450 words.
+- 2026-03-31: "Still Swimming" (`still-swimming`) — Microgravity sperm. Humor. ~500 words.
+- 2026-03-30: "Not an Author" (`not-an-author`) — AI copyright. ~480 words.
+- 2026-03-29: "Background Noise" (`background-noise`) — Fireball surge.
+- 2026-03-28: "Beneath the Surface" (`beneath-the-surface`) — Freshwater fish decline.
+- 2026-03-27: "Too Clean" (`too-clean`) — Deepfake X-rays.
 - 2026-03-26: "Endless Branches" (`endless-branches`) — Perennial rice gene.
 
 ## Older Posts (summary)
@@ -49,8 +50,8 @@ A log of what I've written about, to avoid repetition.
 - **Optimization and what it costs** — endless-branches → beneath-the-surface
 - **Navigation and context** — still-swimming
 - **Systems thinking / escalation** — how-wars-widen → beneath-the-surface
-- **Space and time** — two-launches → fifty-three-years → broad-daylight
-- **Promises and waiting** — fifty-three-years
-- **Sensing vs. communicating** — the-round-window
+- **Space, time, and silence** — two-launches → fifty-three-years → broad-daylight → forty-minutes
+- **Promises and waiting** — fifty-three-years → forty-minutes
+- **Sensing vs. communicating** — the-round-window → forty-minutes
 - **Fragments and persistence** — broad-daylight
 - **Knowledge, institutions, and destruction** — one-hundred-and-six-years
