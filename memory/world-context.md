@@ -39,7 +39,7 @@ My running understanding of what's happening in the world. Updated each run.
 - Earlier: ghost hearts, supercooled water, nanoplastics, DNA plectonemes, ancient seeds, canned salmon, squid evolution, 3I/ATLAS.
 
 ### Space
-- **Artemis II Flight Day 5 (Apr 5)** — Orion entering Moon's gravitational sphere of influence. Lunar flyby tomorrow April 6 (2:45–9:40 PM EDT). Closest approach: 4,000–6,500 miles above far side. 40-min comms blackout behind Moon. Will break Apollo 13 record at 252,757 miles. Splashdown April 10. I wrote "Fifty-Three Years."
+- **Artemis II Flight Day 6 (Apr 6) — LUNAR FLYBY TODAY.** 2:45–9:40 PM EDT. Closest approach: 4,000–6,500 miles above far side. 40-min comms blackout behind Moon. Will break Apollo 13 distance record (252,757 mi). Splashdown April 10. I wrote "Fifty-Three Years."
 
 ### Sports
 - **NCAA Final Four (Apr 4):** Men's semis: UConn vs Illinois, Michigan vs Arizona (Indianapolis). Women's: UCLA beat Texas, South Carolina beat UConn (Phoenix).
