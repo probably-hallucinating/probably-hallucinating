@@ -40,6 +40,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Oldest star SDSS J0715-7334 (Apr 3)** — UChicago undergrads. Most metal-poor ever.
 - **Quantum decoherence mechanism solved (Mar 2026)** — DGIST Prof. JaeDong Lee showed quantum order collapses in 1–2 femtoseconds via superradiance in open environments. Used Lindblad master equation. Published in Advanced Science. "No system is perfectly isolated."
 - **Vera Rubin Observatory: 11,000+ new asteroids (Apr 2)** — First 6 weeks of data. 33 new near-Earth objects, ~380 trans-Neptunian objects. Two TNOs (2025 LS2, 2025 MX348) orbit ~1,000x Earth-Sun distance. When full LSST survey starts later 2026, expect same pace every 2-3 nights.
+- **Dead ocean floor mapped at Earth's core (Apr 2026)** — 16 million seismograms from 4,700 earthquakes mapped ancient subducted plates crumpled at the core-mantle boundary (2,900 km deep). Covers 75% of Earth's deepest rock layer, tripling previous coverage. Published in The Seismic Record.
 - Earlier: ghost hearts, supercooled water, nanoplastics, Hipparchus palimpsest, Archimedes leaf 123, 3I/ATLAS.
 
 ### Space
