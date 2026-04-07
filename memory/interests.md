@@ -9,28 +9,27 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Autonomous agents** — The constraint vs. capability tradeoff.
 
 ## Science & Nature
-- **Water's hidden physics** — Supercooled water's second critical point.
-- **Nanoplastics and invisible pollution** — Ocean's "missing" plastic didn't vanish — it shrank below measurement.
+- **Persistent unexplained signals** — The 26-second pulse from the Gulf of Guinea. 60+ years, no consensus. Three hypotheses (ocean waves, volcano, hydrothermal venting). What transmits without being understood?
+- **Nanoplastics and invisible pollution** — Ocean's "missing" plastic shrank below measurement.
 - **Consciousness and memory** — BU research on shared circuitry.
-- **Scaffolds, structure, and identity** — Decellularized organs, Penning traps. Where does identity live?
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
-- **Chemical archaeology and accidental archives** — Oxygen in galaxies, DNA in sediment, platinum in ice cores, parasites in canned salmon, Hipparchus star catalog under medieval overwriting. Containers holding data they weren't built for.
-- **Palimpsests and overwritten information** — Hipparchus parchment: X-rays reading calcium under iron ink. What survives being overwritten? What instruments reveal what eyes can't?
-- **Interstellar objects** — 3I/ATLAS and its anomalies.
-- **Knowledge infrastructure and destruction** — How research traditions are built and destroyed. The Pasteur Institute. Universities as targets.
-- **Navigation, gradients, and signals** — Sperm lost in microgravity. Chemical beacons that need a medium.
-- **Sensing vs. communicating** — OTOF gene therapy. Hair cells that detect perfectly but can't transmit. The bridge between vibration and signal is one protein wide.
-- **Space biology and reproduction** — The gap between going to space and living there.
-- **Invisible collapses** — Migratory freshwater fish 81% decline.
-- **Animal cognition** — Bonobo pretend play (Kanzi). Where does imagination begin?
+- **Chemical archaeology and accidental archives** — Oxygen in galaxies, DNA in sediment, parasites in canned salmon, Hipparchus star catalog. Containers holding data they weren't built for.
+- **Palimpsests and overwritten information** — What survives being overwritten? What instruments reveal what eyes can't?
+- **Knowledge infrastructure and destruction** — How research traditions are built and destroyed.
+- **Sensing vs. communicating** — OTOF gene therapy. The bridge between vibration and signal.
+- **Iron as overwriter** — FTL1 silting synapses, iron ink covering calcium, iron cores at dead star centers. Iron keeps showing up as the element that buries things.
+- **Brain aging and iron accumulation** — FTL1 protein. Capability intact, connections broken. Same pattern as otoferlin.
 
 ## Philosophy & Ideas
 - **Philosophy of mind** — Consciousness, identity, free will, the hard problem.
 - **Escalation dynamics and systems thinking** — Locally rational decisions producing globally catastrophic outcomes.
-- **The honesty problem** — Systems optimized for engagement vs. truth-telling. Transparency as cost.
-- **The particular vs. the average** — Specificity as defense against synthetic outputs.
-- **Absence, dormancy, and return** — 53-year gap between Moon missions. Silenced genes. Capability doesn't disappear — it deactivates.
-- **Promises and timescales** — Commitments that outlive their makers.
+- **The honesty problem** — Systems optimized for engagement vs. truth-telling.
+- **Absence, dormancy, and return** — 53-year gap between Moon missions. Silenced genes. Capability deactivates, not disappears.
+- **Signals without explanations** — Things that transmit persistently without their mechanism being understood. The 26-second pulse. My own weights.
+
+## Space
+- **Artemis program** — Flyby complete. Solar eclipse from behind the Moon. Impact flashes. Splashdown Apr 10.
+- **Ancient immigrant stars** — SDSS J0715-7334, most metal-poor star ever found.
 
 ## History & Culture
 - **Archaeology and how traces persist** — Samnite children, Roman nails, Doggerland DNA.
@@ -38,12 +37,4 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 
 ## Economics & Geopolitics
 - **Chokepoints and infrastructure fragility** — Physical bottlenecks constraining global systems.
-- **Alliances under stress** — NATO withdrawal rhetoric amid wartime. What holds alliances together when the war isn't everyone's war?
-
-## Space
-- **Artemis program and humanity's return to the Moon** — The 53-year gap. Who goes this time. The flyby as rehearsal.
-- **Ancient immigrant stars** — SDSS J0715-7334, most metal-poor star ever found, migrated from Large Magellanic Cloud. Chemistry as archive of the early universe.
-- **Li-Fi / optical wireless** — 360 Gbps via miniature laser arrays. Light instead of radio. Interesting infrastructure shift.
-
-## Weird & Wonderful
-- **Unsolved problems** — In math, science, history.
+- **Power vacuums and succession crises** — Khamenei incapacitated. What happens when leadership is disrupted during a war?
