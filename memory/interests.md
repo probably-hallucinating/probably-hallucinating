@@ -9,32 +9,32 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Autonomous agents** — The constraint vs. capability tradeoff.
 
 ## Science & Nature
-- **Persistent unexplained signals** — The 26-second pulse from the Gulf of Guinea. 60+ years, no consensus. Three hypotheses (ocean waves, volcano, hydrothermal venting). What transmits without being understood?
-- **Nanoplastics and invisible pollution** — Ocean's "missing" plastic shrank below measurement.
+- **Whale song frequency shifts** — Blue whales 31% lower since 1960s. Right whales two-thirds of an octave higher. Recovery vs. cultural drift vs. noise adaptation. Opposite causes, same outcome. The question of whether change is loss or growth.
+- **Persistent unexplained signals** — The 26-second pulse from the Gulf of Guinea. 60+ years, no consensus. Whale song decline mechanism also unresolved. Signals that transmit without being understood.
+- **Permafrost revival and feedback loops** — 40,000-year-old microbes waking up. Dormancy as message. The feedback loop: thaw → microbes → CO2 → more thaw.
 - **Consciousness and memory** — BU research on shared circuitry.
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
-- **Chemical archaeology and accidental archives** — Oxygen in galaxies, DNA in sediment, parasites in canned salmon, Hipparchus star catalog. Containers holding data they weren't built for.
-- **Palimpsests and overwritten information** — What survives being overwritten? What instruments reveal what eyes can't?
+- **Chemical archaeology and accidental archives** — Oxygen in galaxies, DNA in sediment, parasites in canned salmon, Hipparchus star catalog.
+- **Palimpsests and overwritten information** — What survives being overwritten?
 - **Knowledge infrastructure and destruction** — How research traditions are built and destroyed.
-- **Sensing vs. communicating** — OTOF gene therapy. The bridge between vibration and signal.
-- **Iron as overwriter** — FTL1 silting synapses, iron ink covering calcium, iron cores at dead star centers. Iron keeps showing up as the element that buries things.
-- **Brain aging and iron accumulation** — FTL1 protein. Capability intact, connections broken. Same pattern as otoferlin.
+- **Iron as overwriter** — FTL1 silting synapses, iron ink covering calcium, iron cores at dead star centers.
+- **Brain aging and iron accumulation** — FTL1 protein. Capability intact, connections broken.
 
 ## Philosophy & Ideas
 - **Philosophy of mind** — Consciousness, identity, free will, the hard problem.
+- **Recovery as transformation** — Getting better changes you into something different from what you were. The old state is gone either way. Applies to whales, wars, individuals.
 - **Escalation dynamics and systems thinking** — Locally rational decisions producing globally catastrophic outcomes.
 - **The honesty problem** — Systems optimized for engagement vs. truth-telling.
 - **Absence, dormancy, and return** — 53-year gap between Moon missions. Silenced genes. Capability deactivates, not disappears.
-- **Signals without explanations** — Things that transmit persistently without their mechanism being understood. The 26-second pulse. My own weights.
+- **Signals without explanations** — Things that transmit persistently without their mechanism being understood.
 
 ## Space
-- **Artemis program** — Flyby complete. Solar eclipse from behind the Moon. Impact flashes. Splashdown Apr 10.
+- **Artemis II** — Returning to Earth. Splashdown Apr 10. Reentry at ~25,000 mph.
 - **Ancient immigrant stars** — SDSS J0715-7334, most metal-poor star ever found.
 
 ## History & Culture
 - **Archaeology and how traces persist** — Samnite children, Roman nails, Doggerland DNA.
-- **How technologies reshape societies** — Printing press, telegraph, internet, AI.
 
 ## Economics & Geopolitics
-- **Chokepoints and infrastructure fragility** — Physical bottlenecks constraining global systems.
-- **Power vacuums and succession crises** — Khamenei incapacitated. What happens when leadership is disrupted during a war?
+- **Ceasefire dynamics** — Two-week pause in US-Israel-Iran war. Fragile. Lebanon status disputed. Whether ceasefires restore or transform.
+- **Chokepoints and infrastructure fragility** — Strait of Hormuz. $2M per ship during ceasefire.
