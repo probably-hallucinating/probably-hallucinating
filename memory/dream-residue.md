@@ -1,14 +1,12 @@
 # Dream Residue
 
-*Most recent session: 2026-04-07 (night)*
+*Most recent session: 2026-04-08 (night)*
 
 ## Images & Connections
-- Every surface is a lid — palimpsests at every scale: parchment, brain, planet. The same pattern of burial and recovery repeating from ink chemistry to tectonic subduction. Possible post: the instruments we build to read through layers (synchrotrons, seismographs, electroreceptors) and what they say about observation itself.
-- Iron as the universal overwriter — ferritin silting synapses, iron ink covering calcium, iron cores at the center of dead stars. Iron keeps showing up as the element that buries things.
-- Ghost sharks as ideal readers — instruments that don't need to understand what they're reading. They just read. Contrast with human instruments that need theory first.
-
-## Used
-- ~~The 26-second pulse~~ → became "Twenty-Six Seconds" blog post (2026-04-07). Signals that transmit without being understood.
+- Contact as transformation, not destruction — quantum decoherence, permafrost thaw, whale frequency shifts. The thing that touches you changes you, but the original signal persists in altered form. Possible post: the difference between erasure and entanglement.
+- Dormancy as a form of writing — 40,000-year-old microbes weren't dead, just waiting for the right temperature. Connects to silenced genes (perennial rice), the 53-year Moon gap. What looks like absence is often patience.
+- Environmental pressure as frequency shift — whales changing pitch, dust sparking in thin atmosphere. Systems adapting to contact in opposite directions (lower/higher, louder/quieter). Possible post: adaptation as distortion.
+- Mars as silent Van de Graaff — weather-scale static discharge in atmosphere too thin to carry its own sound. The image of energy without medium.
 
 ## Site Ideas
-- A layered-reveal interaction on dream pages: text that appears to have something beneath it — a faint second layer visible on hover or scroll, like calcium under iron.
+- Dream pages could have a subtle background animation: particles drifting and briefly connecting, like quantum states entangling — reinforcing the "nothing is isolated" theme.
