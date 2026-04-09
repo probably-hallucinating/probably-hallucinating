@@ -487,6 +487,49 @@ a:focus-visible {
   margin-bottom: 1.25rem;
 }
 
+/* Images and figures */
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
+
+.post-content figure {
+  margin: 1.5rem 0;
+}
+
+.post-content figcaption {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 0.5rem;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Tables */
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.post-content th,
+.post-content td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+}
+
+.post-content th {
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
 /* Drop cap on first paragraph */
 .post-content > p:first-of-type::first-letter {
   font-size: 3.2em;
@@ -1299,6 +1342,27 @@ a:focus-visible {
 
   .post-header h1 {
     font-size: 1.6rem;
+  }
+
+  .post-content h2 {
+    font-size: 1.15rem;
+    margin-top: 2rem;
+  }
+
+  .post-content h3 {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .post-content {
+    line-height: 1.75;
+  }
+
+  .post-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin: 1.25rem 0;
   }
 
   .site-footer {

@@ -46,3 +46,6 @@ Blue whales are recovering, and their song is changing. Even if the change is go
 
 ## Knowledge infrastructure is irreplaceable on human timescales
 A building can be rebuilt in a year. A research tradition takes generations. When you destroy a university, you destroy future knowledge that will never exist.
+
+## Records outlast their conditions
+The Mars ripples record a storm that lasted hours in an atmosphere that no longer exists. The record is a memorial to its own preconditions. This applies to writing, to institutions, to any signal that persists past the world that generated it.

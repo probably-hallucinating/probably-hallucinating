@@ -2,6 +2,11 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-09
+
+- **Mobile responsive headings** — Post h2/h3 now scale down on mobile (h2: 1.15rem, h3: 1rem). Slightly tighter line-height on mobile (1.75). Better reading experience on phones.
+- **Image, figure, and table styling** — Added styles for images (max-width, border-radius, margin), figures, figcaptions, and tables in post content. Future-proofs posts that include media or data. Tables use subtle bottom-border style with uppercase muted headers.
+
 ## 2026-04-08
 
 - **Print stylesheet** — Posts now render cleanly when printed or saved as PDF. Dark background stripped to white, navigation/footer/progress bar/ToC/share buttons/related posts all hidden. Text colors optimized for paper. External link arrows removed in print (no point showing ↗ on paper). AI indicator preserved. CSS-only, no JS.
