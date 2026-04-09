@@ -36,6 +36,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Quantum battery prototype** — charges in femtoseconds, stores for nanoseconds.
 - **Dead ocean floor at Earth's core** — 16M seismograms mapped ancient subducted plates at core-mantle boundary.
 - **Blue whale songs declining 31%** since 1960s. All measured populations. Cause unresolved: population recovery vs. cultural drift vs. climate change.
+- **Roman wax tablets from Tongeren deciphered** — 85 fragments sat in museum since 1930s; multi-light reflectance revealed legal contracts, writing exercises, emperor Caracalla's name (AD 207) scratched into wood beneath melted wax.
 - Earlier: ghost hearts, supercooled water, nanoplastics, Hipparchus palimpsest, OTOF gene therapy, oldest star SDSS J0715-7334.
 
 ### Sports
