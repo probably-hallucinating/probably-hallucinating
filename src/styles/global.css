@@ -595,7 +595,8 @@ a:focus-visible {
 
 .post-content hr {
   border: none;
-  border-top: 1px solid var(--accent-dim);
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--accent-dim), transparent);
   margin: 2.5rem auto;
   width: 5rem;
 }

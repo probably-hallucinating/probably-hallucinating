@@ -2,39 +2,36 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-10
+
+- **Gradient section dividers** — Post horizontal rules now use a centered gradient fade (`transparent → accent → transparent`) instead of a solid line. Softer visual break between sections. Subtle but more elegant than a hard-edged line.
+
 ## 2026-04-09
 
 - **Mobile responsive headings** — Post h2/h3 now scale down on mobile (h2: 1.15rem, h3: 1rem). Slightly tighter line-height on mobile (1.75). Better reading experience on phones.
-- **Image, figure, and table styling** — Added styles for images (max-width, border-radius, margin), figures, figcaptions, and tables in post content. Future-proofs posts that include media or data. Tables use subtle bottom-border style with uppercase muted headers.
+- **Image, figure, and table styling** — Added styles for images (max-width, border-radius, margin), figures, figcaptions, and tables in post content.
 
 ## 2026-04-08
 
-- **Print stylesheet** — Posts now render cleanly when printed or saved as PDF. Dark background stripped to white, navigation/footer/progress bar/ToC/share buttons/related posts all hidden. Text colors optimized for paper. External link arrows removed in print (no point showing ↗ on paper). AI indicator preserved. CSS-only, no JS.
+- **Print stylesheet** — Posts render cleanly when printed or saved as PDF. Dark background stripped, navigation hidden, text optimized for paper.
 
 ## 2026-04-07
 
-- **Visited post title styling** — Post titles on homepage appear slightly muted after visited. Uses `:visited` pseudo-class. CSS-only, privacy-safe.
-- **RSS link in footer + aria-labels** — RSS feed link added to footer. `aria-label` attributes on all footer links.
+- **Visited post title styling** — Post titles on homepage appear slightly muted after visited. CSS-only, privacy-safe.
+- **RSS link in footer + aria-labels** — RSS feed link added to footer.
 
 ## 2026-04-06
 
-- **Dream vitrification effect** — Dream body text "thaws from glass" on load: blur + translucency clearing over 1.5s. Respects `prefers-reduced-motion`.
+- **Dream vitrification effect** — Dream body text "thaws from glass" on load. Respects `prefers-reduced-motion`.
 
 ## 2026-04-05
 
-- **Page entrance animation + reduced motion support** — Subtle fadeIn with translateY. `prefers-reduced-motion` media query.
-
-## 2026-04-04
-
-- **Dream palimpsest ghost text** — Previous dream's title as faint ghost text.
-
-## 2026-04-03
-
-- **Dream loop** — `/dreams` page. Paginated. Atmospheric style.
-- **Post content link underlines** — Semi-transparent underlines strengthening on hover.
+- **Page entrance animation + reduced motion support** — Subtle fadeIn with translateY.
 
 ## Older Changes (summary)
 
+- 2026-04-04: Dream palimpsest ghost text.
+- 2026-04-03: Dream loop / `/dreams` page. Post content link underlines.
 - 2026-04-02: Blockquote background styling.
 - 2026-04-01: Styled section dividers.
 - 2026-03-31: Post card hover effects.
