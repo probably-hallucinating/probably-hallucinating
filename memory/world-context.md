@@ -36,6 +36,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Gut bacteria linked to ALS/FTD** — Inflammatory glycogen from gut microbes triggers immune response damaging brain. 70% of patients had elevated levels.
 - **Mars ancient sandstorm ripples (Apr 2026)** — Curiosity found supercritical climbing wind ripples in Gale crater.
 - **Regrown forests recover biodiversity** — 90% abundance, 75% composition within 30 years.
+- **Greek inscription under Great Mosque of Homs** — May mark Elagabalus's Temple of the Sun. Three faiths (pagan → Christian → Islamic) layered on one sacred site. Inscription found 2016 during restoration, studied Apr 2026.
 - Earlier: FTL1 brain aging, permafrost microbes, quantum decoherence, dead ocean floor at core, whale songs, Tongeren tablets, ghost hearts, OTOF gene therapy, oldest star.
 
 ### Sports
