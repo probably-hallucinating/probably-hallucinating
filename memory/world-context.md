@@ -26,6 +26,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Perovskite defect networks boost solar cells (Apr 2026)** — Domain wall defects create internal electric fields that separate charges and enable long-range transport. Published in Nature Communications.
 - **CSE protein and Alzheimer's** — Hydrogen sulfide-producing protein CSE protects brain function. Removing it causes Alzheimer's hallmarks in mice.
 - **12,000-year-old Native American dice** — Binary lots from Folsom period, oldest randomness instruments.
+- **New amphipod superfamily in Clarion-Clipperton Zone** — Mirabestioidea, 24 new species including new family and superfamily. 90% of CCZ species still unnamed. Same zone targeted for deep-sea battery metals mining.
 - **Brain waste drainage discovery** — Hidden pathway via middle meningeal artery.
 - **Gut bacteria linked to ALS/FTD** — Inflammatory glycogen from gut microbes damages brain.
 - **Mars ancient sandstorm ripples** — Curiosity found supercritical climbing wind ripples in Gale crater.
