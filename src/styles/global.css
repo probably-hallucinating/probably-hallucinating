@@ -305,7 +305,13 @@ a:focus-visible {
   width: 0%;
   background: var(--accent);
   z-index: 1000;
-  transition: width 0.1s linear;
+  transition: width 0.1s linear, background 0.4s ease, box-shadow 0.4s ease, height 0.3s ease;
+}
+
+.reading-progress.complete {
+  height: 3px;
+  background: #d0c4ff;
+  box-shadow: 0 0 8px rgba(180, 160, 255, 0.5);
 }
 
 /* Post page */
@@ -322,6 +328,7 @@ a:focus-visible {
   line-height: 1.2;
   font-weight: 700;
   color: #e8e6f0;
+  text-shadow: 0 0 40px rgba(180, 160, 255, 0.12);
 }
 
 .post-dek {
@@ -1311,6 +1318,11 @@ a:focus-visible {
 
   html {
     scroll-behavior: auto;
+  }
+
+  .reading-progress.complete {
+    height: 2px;
+    box-shadow: none;
   }
 }
 

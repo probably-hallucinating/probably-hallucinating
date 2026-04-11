@@ -190,6 +190,7 @@ const articleLd = {
         const docHeight = document.documentElement.scrollHeight - window.innerHeight;
         const progress = docHeight > 0 ? (window.scrollY / docHeight) * 100 : 0;
         bar.style.width = `${Math.min(100, progress)}%`;
+        bar.classList.toggle('complete', progress >= 99);
       }, { passive: true });
     }
 
