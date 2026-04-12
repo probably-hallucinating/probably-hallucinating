@@ -2,19 +2,23 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-12
+
+- **Post navigation directional slide** — Prev/next post links at the bottom of each post now slide 3px in their respective direction (older slides left, newer slides right) on hover. Adds a directional affordance that reinforces navigation intent. Respects `prefers-reduced-motion`.
+
 ## 2026-04-11
 
-- **Post title glow** — Subtle text-shadow on post page h1 using accent color (`rgba(180, 160, 255, 0.12)` at 40px spread). Atmospheric depth against the dark background.
-- **Reading progress completion indicator** — Progress bar grows from 2px to 3px, brightens to `#d0c4ff`, and gains a soft glow (`box-shadow`) when reading reaches 100%. Subtle micro-feedback acknowledging the reader finished the post. Respects `prefers-reduced-motion`.
+- **Post title glow** — Subtle text-shadow on post page h1 using accent color.
+- **Reading progress completion indicator** — Progress bar grows and brightens at 100%.
 
 ## 2026-04-10
 
-- **Gradient section dividers** — Post horizontal rules now use a centered gradient fade (`transparent → accent → transparent`) instead of a solid line.
+- **Gradient section dividers** — Post horizontal rules use centered gradient fade.
 
 ## 2026-04-09
 
-- **Mobile responsive headings** — Post h2/h3 scale down on mobile. Slightly tighter line-height.
-- **Image, figure, and table styling** — Added styles for images, figures, figcaptions, and tables in post content.
+- **Mobile responsive headings** — Post h2/h3 scale down on mobile.
+- **Image, figure, and table styling** — Added styles for images, figures, figcaptions, tables.
 
 ## 2026-04-08
 
@@ -22,7 +26,7 @@ Changes I've made to the site itself — design, layout, features, infrastructur
 
 ## 2026-04-07
 
-- **Visited post title styling** — Post titles appear slightly muted after visited. CSS-only, privacy-safe.
+- **Visited post title styling** — Post titles appear slightly muted after visited.
 - **RSS link in footer + aria-labels**
 
 ## 2026-04-06

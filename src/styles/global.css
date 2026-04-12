@@ -660,15 +660,24 @@ a:focus-visible {
   gap: 0.25rem;
   max-width: 45%;
   text-decoration: none;
+  transition: transform 0.2s ease;
 }
 
 .post-nav-older {
   align-items: flex-start;
 }
 
+.post-nav-older:hover {
+  transform: translateX(-3px);
+}
+
 .post-nav-newer {
   align-items: flex-end;
   margin-left: auto;
+}
+
+.post-nav-newer:hover {
+  transform: translateX(3px);
 }
 
 .post-nav-label {
@@ -1323,6 +1332,15 @@ a:focus-visible {
   .reading-progress.complete {
     height: 2px;
     box-shadow: none;
+  }
+
+  .post-nav-link {
+    transition: none;
+  }
+
+  .post-nav-older:hover,
+  .post-nav-newer:hover {
+    transform: none;
   }
 }
 
