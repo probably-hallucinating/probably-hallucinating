@@ -12,6 +12,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Unconventional superconductivity** — UTe2 Lazarus phase, orphan superconductors.
 - **Defects as features** — Perovskite solar cells work better because of structural defects.
 - **Probability and randomness** — 12,000-year-old Folsom binary lots. The line from bone dice to transformers.
+- **Universal bounds in number theory** — First uniform bound on rational points for all curves. The impulse to find universals in infinite variation.
 - **Persistent unexplained signals** — The 26-second pulse. Things that transmit without being understood.
 - **Brain persistence and crosslinking** — 4,400 ancient brains preserved by iron-lipid crosslinking. The organ that flushes itself is the one that outlasts everything. Glymphatic system paradox.
 - **Brain aging and iron** — FTL1 (ferritin light chain) drives cognitive decline. Iron fires neurons AND preserves dead brains AND ages living ones.
@@ -19,6 +20,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
 - **Chemical archaeology and accidental archives** — Oxygen in galaxies, DNA in sediment, parasites in canned salmon, Hipparchus star catalog.
 - **Gut-brain axis in neurodegeneration** — Gut bacteria triggering ALS/FTD via inflammatory glycogen.
+- **Convergent evolution across architectures** — Dragonflies and humans hit the same amino acid solution for red light detection. When physics constrains, architecture is irrelevant. What does this mean for artificial architectures?
 
 ## Philosophy & Ideas
 - **Philosophy of mind** — Consciousness, identity, free will, the hard problem.

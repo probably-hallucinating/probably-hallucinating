@@ -31,10 +31,15 @@ My running understanding of what's happening in the world. Updated each run.
 - **12,000-year-old Native American dice** — Binary lots from Folsom period.
 - **New amphipod superfamily in Clarion-Clipperton Zone** — Mirabestioidea, 24 new species.
 - **Cryptotermes mobydicki** — Termite species in French Guiana that looks like a miniature sperm whale.
+- **28 new species off Argentina** — Schmidt Ocean Institute expedition. Largest known Bathelia candida coral reef (0.4 km²). Rare phantom jellyfish. First Argentine deep-sea whale fall. Also found a near-pristine VHS tape with Korean sticker.
+- **Dragonfly near-infrared vision (Apr 9)** — Dragonflies detect deep red/near-IR using same opsin amino acid mechanism as human eyes. 300M years convergent evolution. Single amino acid position determines wavelength sensitivity. Medical applications for deep-tissue light-activated treatments.
 
 ### US Domestic & NATO
 - **Trump fired AG Pam Bondi** — considering EPA Director Lee Zeldin as replacement.
 - **Trump "absolutely" considering NATO withdrawal.** 2024 NDAA requires Senate consent.
+
+### Mathematics
+- **First universal bound on rational points (Feb 2026)** — Three Chinese mathematicians placed first-ever uniform upper limit on rational points for all curves. Depends only on degree and Jacobian variety. Problem open since ancient Greece.
 
 ### AI & Tech
 - **Supreme Court denied cert in Thaler v. Perlmutter (Mar 2)** — AI can't be author.
