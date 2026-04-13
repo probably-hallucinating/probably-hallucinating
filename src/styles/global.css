@@ -179,6 +179,13 @@ a:focus-visible {
   gap: 0.5rem;
 }
 
+.post-number {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--border);
+  letter-spacing: 0.02em;
+}
+
 .post-date {
   font-family: var(--font-mono);
   font-size: 0.75rem;

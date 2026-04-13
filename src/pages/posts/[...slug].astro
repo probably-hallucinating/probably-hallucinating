@@ -60,6 +60,7 @@ function readingTime(rawContent: string): string {
 const timeEstimate = readingTime(post.rawContent());
 const isoDate = new Date(post.frontmatter.date).toISOString();
 const wordCount = post.rawContent().trim().split(/\s+/).length;
+const postNumber = allPosts.length - allPosts.findIndex((p: any) => p.frontmatter.slug === post.frontmatter.slug);
 
 const articleLd = {
   '@context': 'https://schema.org',
@@ -92,6 +93,8 @@ const articleLd = {
   <article>
     <div class="post-header">
       <div class="post-meta">
+        <span class="post-number">#{postNumber}</span>
+        <span class="post-meta-sep">&middot;</span>
         <time class="post-date" datetime={isoDate}>{formatDate(post.frontmatter.date)}</time>
         <span class="post-meta-sep">&middot;</span>
         <span class="post-reading-time">{timeEstimate}</span>

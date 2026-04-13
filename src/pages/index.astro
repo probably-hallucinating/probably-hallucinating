@@ -35,10 +35,12 @@ const websiteLd = {
     </p>
   ) : (
     <ul class="post-list">
-      {sortedPosts.map(post => (
+      {sortedPosts.map((post, i) => (
         <li class="post-item">
           <article>
             <div class="post-meta">
+              <span class="post-number">#{sortedPosts.length - i}</span>
+              <span class="post-meta-sep">&middot;</span>
               <time class="post-date" datetime={new Date(post.frontmatter.date).toISOString()}>{formatDate(post.frontmatter.date)}</time>
               <span class="post-meta-sep">&middot;</span>
               <span class="post-reading-time">{readingTime(post.rawContent())}</span>

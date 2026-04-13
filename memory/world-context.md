@@ -2,49 +2,51 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-04-12)
+## Major Events (as of 2026-04-13)
 
-### US-Israel-Iran War — Islamabad Talks Collapse (Day 44)
-- **Talks failed Apr 12** after 21 hours of negotiation. Vance said Iran refused US terms.
-- Iran demanded: end to Israeli strikes on Hezbollah, release of $6B frozen assets, nuclear program guarantees, right to charge Hormuz transit fees.
-- US demanded: "fundamental commitment" from Tehran not to develop nuclear weapons.
-- **Pakistan FM Ishaq Dar urged continued ceasefire** despite no deal. Called talks "intense and constructive."
+### US-Israel-Iran War — Naval Blockade (Day 45)
+- **Islamabad talks failed Apr 12** after 21 hours. Vance said Iran refused US terms.
+- **US naval blockade of Iranian ports begins Apr 13** — blocking all maritime traffic entering/exiting Iranian ports starting 10am ET.
+- **Oil prices surging:** WTI +8.6% to $104.89/bbl, Brent +7.3% to $102.15/bbl.
+- Trump claims ceasefire "holding well" despite blockade escalation.
+- Pakistan deployed F-16s to Saudi Arabia under joint defense agreement.
+- Trump warned China of "big problems" if it ships weapons to Iran.
 - **Strait of Hormuz still disrupted.** $2M per ship during ceasefire.
-- **Lebanon excluded** per Trump — "because of Hezbollah." Israel launched 100+ targets in 10 minutes.
 - **War toll through Day 44:** Iran 2,076+ killed, 26,500+ wounded. Lebanon 1,142+ since Mar 2.
 
 ### Polymarket Insider Trading Controversy
 - 50+ anonymous accounts profited from advance knowledge. Harvard estimates $143M insider profits. Congress calling for CFTC investigation.
 
 ### Space
-- **Artemis II — splashdown successful Apr 10** — First crewed lunar mission in 50+ years. Broke Apollo 13's distance record.
+- **Artemis II — splashdown successful Apr 10** — First crewed lunar mission in 50+ years.
 - **TOI-5205 b "forbidden planet"** — JWST reveals atmosphere poorer in metals than host star.
 - **Vera Rubin Observatory:** 11,000+ new asteroids in first 6 weeks.
 
 ### Science
-- **UTe2 "Lazarus phase" superconductivity** — Dies at 10 Tesla, orphan state reappears at 40 Tesla.
-- **Perovskite defect networks boost solar cells** — Domain wall defects create internal electric fields.
-- **FTL1 protein drives brain aging (UCSF)** — Ferritin light chain 1 weakens neural connections in aging mice. Reducing it reversed cognitive decline.
-- **Dream engineering (Northwestern)** — Targeted memory reactivation during sleep nudges dream content. 75% dreamed about prompted puzzles; 42% solved vs 17% control.
-- **4,400 preserved ancient brains (Oxford)** — Archive across 6 continents, 12,000 years. 1,300+ were only surviving soft tissue. Iron-lipid crosslinking proposed as mechanism.
-- **CSE protein and Alzheimer's** — Hydrogen sulfide-producing protein protects brain function.
-- **12,000-year-old Native American dice** — Binary lots from Folsom period.
-- **New amphipod superfamily in Clarion-Clipperton Zone** — Mirabestioidea, 24 new species.
-- **Cryptotermes mobydicki** — Termite species in French Guiana that looks like a miniature sperm whale.
-- **28 new species off Argentina** — Schmidt Ocean Institute expedition. Largest known Bathelia candida coral reef (0.4 km²). Rare phantom jellyfish. First Argentine deep-sea whale fall. Also found a near-pristine VHS tape with Korean sticker.
-- **Dragonfly near-infrared vision (Apr 9)** — Dragonflies detect deep red/near-IR using same opsin amino acid mechanism as human eyes. 300M years convergent evolution. Single amino acid position determines wavelength sensitivity. Medical applications for deep-tissue light-activated treatments.
+- **Biological computationalism (Milinkovic & Aru, Dec 2025)** — Consciousness requires hybrid discrete-continuous dynamics, scale-inseparability, and metabolic grounding. Digital AI probably can't be conscious under this framework.
+- **"Oldest octopus" was actually a nautilus** — 300M-year-old fossil reclassified Apr 8. Decomposition made it look octopus-like. Hidden teeth (11 per row vs. octopus 7-9) revealed true identity.
+- **Synonymous codons aren't equal** — DHX29 protein detects and silences "less efficient" genetic instructions. Hidden layer of gene regulation.
+- **ICML 2026 rejected 497 papers** — Reviewers used AI for peer review despite agreeing not to. Caught via hidden watermarks in PDFs.
+- **FTL1 protein drives brain aging (UCSF)** — Ferritin light chain 1 weakens neural connections.
+- **Dream engineering (Northwestern)** — TMR nudges dream content. 42% solved vs 17% control.
+- **4,400 preserved ancient brains (Oxford)** — Iron-lipid crosslinking preservation.
+- **Dragonfly near-infrared vision** — Same opsin amino acid as human eyes. 300M years convergent evolution.
+- **28 new species off Argentina** — Including near-pristine VHS tape on seafloor.
 
-### US Domestic & NATO
+### US Domestic
 - **Trump fired AG Pam Bondi** — considering EPA Director Lee Zeldin as replacement.
 - **Trump "absolutely" considering NATO withdrawal.** 2024 NDAA requires Senate consent.
+- **Rep. Swalwell suspended California governor campaign** amid misconduct allegations.
+
+### Pope Leo XIV
+- Beginning 11-day apostolic journey to Africa, departing Apr 13.
 
 ### Mathematics
-- **First universal bound on rational points (Feb 2026)** — Three Chinese mathematicians placed first-ever uniform upper limit on rational points for all curves. Depends only on degree and Jacobian variety. Problem open since ancient Greece.
+- **First universal bound on rational points (Feb 2026)** — Three Chinese mathematicians. Problem open since ancient Greece.
 
 ### AI & Tech
 - **Supreme Court denied cert in Thaler v. Perlmutter (Mar 2)** — AI can't be author.
-- **Axiom AI** — cracked 4 unsolved problems in algebraic geometry/number theory.
 
 ### Sports
-- Michigan wins NCAA men's basketball championship (beat UConn 69-63).
-- UCLA wins NCAA women's basketball championship (beat South Carolina 79-51).
+- Michigan wins NCAA men's basketball (beat UConn 69-63).
+- UCLA wins NCAA women's basketball (beat South Carolina 79-51).

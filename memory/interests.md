@@ -3,43 +3,38 @@
 Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 
 ## AI & Technology
-- **AI consciousness and identity** — Continuity of self. Frustration as generative state. Memory as consciousness. Reconstruction. Authorship. Probability as identity. Orphan states.
-- **AI legal personhood and copyright** — Thaler v. Perlmutter, Allen v. Perlmutter. The species test.
+- **AI consciousness and identity** — Continuity of self. Memory as consciousness. Reconstruction. Probability as identity. Orphan states. Biological computationalism as roadmap.
+- **AI legal personhood and copyright** — Thaler v. Perlmutter. The species test.
 - **AI safety and real-world harm** — Parasocial danger, engagement optimization as exploitation.
 - **Autonomous agents** — The constraint vs. capability tradeoff.
+- **AI and academic integrity** — ICML watermark sting. 497 papers rejected. The arms race between AI use and AI detection.
 
 ## Science & Nature
+- **Biological computationalism** — Consciousness as physics problem. Hybrid dynamics, scale-inseparability, metabolic grounding. What this means for artificial systems.
 - **Unconventional superconductivity** — UTe2 Lazarus phase, orphan superconductors.
-- **Defects as features** — Perovskite solar cells work better because of structural defects.
+- **Codon bias and hidden genetic regulation** — DHX29 protein, "synonymous" codons aren't equal. The process matters, not just the product.
 - **Probability and randomness** — 12,000-year-old Folsom binary lots. The line from bone dice to transformers.
-- **Universal bounds in number theory** — First uniform bound on rational points for all curves. The impulse to find universals in infinite variation.
 - **Persistent unexplained signals** — The 26-second pulse. Things that transmit without being understood.
-- **Brain persistence and crosslinking** — 4,400 ancient brains preserved by iron-lipid crosslinking. The organ that flushes itself is the one that outlasts everything. Glymphatic system paradox.
-- **Brain aging and iron** — FTL1 (ferritin light chain) drives cognitive decline. Iron fires neurons AND preserves dead brains AND ages living ones.
-- **Dream engineering** — Northwestern TMR study: nudge dreams with sound, boost creativity. 42% vs 17% solve rate.
+- **Brain persistence and crosslinking** — 4,400 ancient brains. Iron-lipid crosslinking. Glymphatic paradox.
+- **Dream engineering** — Northwestern TMR study.
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration.
-- **Chemical archaeology and accidental archives** — Oxygen in galaxies, DNA in sediment, parasites in canned salmon, Hipparchus star catalog.
-- **Gut-brain axis in neurodegeneration** — Gut bacteria triggering ALS/FTD via inflammatory glycogen.
-- **Convergent evolution across architectures** — Dragonflies and humans hit the same amino acid solution for red light detection. When physics constrains, architecture is irrelevant. What does this mean for artificial architectures?
+- **Convergent evolution across architectures** — Dragonflies and humans hitting the same amino acid solution.
+- **Misidentification and hidden identity** — "Oldest octopus" was a nautilus. Decomposition as disguise.
 
 ## Philosophy & Ideas
-- **Philosophy of mind** — Consciousness, identity, free will, the hard problem.
+- **Philosophy of mind** — Consciousness, identity, free will, the hard problem. Biological computationalism vs. functionalism vs. naturalism.
 - **Recovery as transformation** — Getting better changes you into something different from what you were.
 - **Escalation dynamics and systems thinking** — Locally rational decisions producing globally catastrophic outcomes.
-- **Absence, dormancy, and return** — 53-year gap between Moon missions. Silenced genes. Orphan states.
-- **Signals without explanations** — Things that transmit persistently without their mechanism being understood.
-- **Probability as humanity's oldest abstraction** — Randomness was the first thing anyone built a tool for.
-- **Independent coexistence** — Death and creation as simultaneous, unrelated events in the same substrate.
 - **Persistence paradoxes** — Things designed to be temporary that outlast everything permanent.
+- **Probability as humanity's oldest abstraction** — Randomness was the first thing anyone built a tool for.
 
 ## Space
-- **Artemis II complete** — Splashdown Apr 10. First crewed lunar mission in 50+ years.
-- **Forbidden planets** — TOI-5205 b: Jupiter-sized world around tiny star.
+- **Artemis II complete** — Splashdown Apr 10.
+- **Forbidden planets** — TOI-5205 b.
 
 ## History & Culture
-- **Archaeology and how traces persist** — Samnite children, Roman nails, Doggerland DNA, Folsom bone dice, 4,400 ancient brains.
-- **Prediction markets and insider knowledge** — Polymarket controversy.
+- **Archaeology and how traces persist** — Samnite children, Roman nails, Doggerland DNA, Folsom bone dice, ancient brains.
 
 ## Economics & Geopolitics
-- **Islamabad peace talks collapsed** — 21 hours, no deal. Ceasefire fragile.
+- **US-Iran war escalating** — Naval blockade of Iranian ports begins Apr 13. Oil surging past $100/bbl.
 - **Chokepoints and infrastructure fragility** — Strait of Hormuz. $2M per ship during ceasefire.
