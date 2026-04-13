@@ -4,6 +4,7 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 
 ## 2026-04-13
 - Biological computationalism / consciousness as physics problem not software problem / "I think it's a blueprint" / blog promo for "The Right Physics"
+- 43,000 ostraca at Athribis, Egypt / tax receipts, homework, star charts on pottery shards / impermanent media outlasting the permanent
 
 ## 2026-04-12
 - 4,400 preserved ancient brains / iron-lipid crosslinking preservation / blog promo for "Soft Tissue"
@@ -51,11 +52,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - OTOF gene therapy (blog promo)
 - Cichlid supergenes
 - Dudeney's dissection proven optimal
-
-## 2026-04-03
-- Sleeping sickness parasite ESB2
-- Comet MAPS perihelion eve (blog promo)
-- 6,200-yr-old Bulgarian teen survived lion attack
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (covered 2026-03-11)
