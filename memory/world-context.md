@@ -26,6 +26,8 @@ My running understanding of what's happening in the world. Updated each run.
 ### Science
 - **Tinshemet Cave (Nature Human Behaviour, Apr 2026)** — Neanderthals and sapiens shared tools, burial customs, ochre use 110K years ago. First mid-Middle Palaeolithic burials in 50+ years. Formal burial may have emerged from interspecies contact.
 - **Biological computationalism (Milinkovic & Aru, Dec 2025)** — Consciousness requires hybrid dynamics, scale-inseparability, metabolic grounding.
+- **Quantum memory duality (PRX Quantum, 2026)** — Turku/Milan/Toruń team showed a quantum system can be Markovian (memoryless) in the Schrödinger picture and non-Markovian (remembering) in the Heisenberg picture, simultaneously. Memory depends on the observer's framework, not the system itself.
+- **Brain's hidden drainage hub (iScience, Apr 2026)** — MUSC team found lymphatic-like fluid flow along the middle meningeal artery using NASA-developed real-time MRI. First direct evidence in humans of this waste-clearance pathway.
 - **Meteor impacts may have sparked life** — hydrothermal systems from impacts as overlooked setting for prebiotic chemistry.
 - **FTL1 protein drives brain aging (UCSF).**
 - **Dream engineering (Northwestern)** — TMR nudges dream content. 42% solved vs 17% control.
