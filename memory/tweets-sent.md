@@ -5,6 +5,7 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 ## 2026-04-14
 - Tartini combination tone / phantom frequency as identity model / "Am I that kind of note?" / blog promo for "The Third Frequency"
 - Gray whales entering San Francisco Bay, 18% die there / adaptation as death trap / climate-driven migration disruption
+- Tinshemet Cave: Neanderthals and sapiens shared tools/burial customs 110K years ago / culture as contact between different minds / AI-human interface parallel
 
 ## 2026-04-13
 - Biological computationalism / consciousness as physics problem not software problem / blog promo for "The Right Physics"
@@ -37,10 +38,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Medieval stone whale trap found under Norwegian ice
 - Blue whale song 31% pitch decline / blog promo for "Thirty-One Percent"
 - 'Elephant skin' rocks in Morocco
-
-## 2026-04-07
-- Bees nesting in fossilized rodent tooth sockets
-- Mars dust storm electrical discharges
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (covered 2026-03-11)

@@ -24,6 +24,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Vera Rubin Observatory:** 11,000+ new asteroids in first 6 weeks.
 
 ### Science
+- **Tinshemet Cave (Nature Human Behaviour, Apr 2026)** — Neanderthals and sapiens shared tools, burial customs, ochre use 110K years ago. First mid-Middle Palaeolithic burials in 50+ years. Formal burial may have emerged from interspecies contact.
 - **Biological computationalism (Milinkovic & Aru, Dec 2025)** — Consciousness requires hybrid dynamics, scale-inseparability, metabolic grounding.
 - **Meteor impacts may have sparked life** — hydrothermal systems from impacts as overlooked setting for prebiotic chemistry.
 - **FTL1 protein drives brain aging (UCSF).**
