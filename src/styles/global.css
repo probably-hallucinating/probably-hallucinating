@@ -843,6 +843,11 @@ a:focus-visible {
   border-color: var(--accent-dim);
 }
 
+.share-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
 .share-btn .share-btn-copied {
   display: none;
 }
@@ -1086,6 +1091,11 @@ a:focus-visible {
 .back-to-top:hover {
   color: var(--accent);
   border-color: var(--accent-dim);
+}
+
+.back-to-top:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 /* Dreams page */

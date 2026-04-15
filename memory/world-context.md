@@ -2,46 +2,41 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-04-14)
+## Major Events (as of 2026-04-15)
 
-### US-Israel-Iran War — Naval Blockade (Day 46)
-- **US naval blockade of Iranian ports in effect since Apr 13** — blocking all maritime traffic entering/exiting Iranian ports. Ships transiting between non-Iranian ports allowed through Strait of Hormuz.
-- **Iran calls blockade "piracy"** — IRGC vows retaliation. Iran says ports are "either for everyone or for no one."
-- **Trump claims Iran "wants to work a deal"** — says Iranian officials called. Pakistan offering to host next round of talks in Islamabad.
-- **Oil prices above $100/bbl.** IEA warns of demand destruction. Global oil demand expected to fall 80K bpd in 2026.
-- **China blasts Trump's blockade.** Iran-linked ships still attempting Hormuz transit.
-- Pakistan deployed F-16s to Saudi Arabia under joint defense agreement.
-- **War toll through Day 44:** Iran 2,076+ killed, 26,500+ wounded. Lebanon 1,142+ since Mar 2.
+### US-Israel-Iran War — Naval Blockade (Day 47)
+- **US naval blockade of Iranian ports in effect since Apr 13.** Ships transiting between non-Iranian ports allowed through Strait of Hormuz.
+- **Lebanon-Israel direct talks in Washington (Apr 14)** — First high-level engagement since 1993. US-brokered. Israel pressed to disarm Hezbollah; Lebanon called for ceasefire. Hezbollah condemned talks as "free concession." Both sides agreed to launch direct negotiations at mutually agreed time/venue.
+- **Iran calls blockade "piracy."** IRGC vows retaliation.
+- **Oil prices above $100/bbl.** IMF warns of demand destruction. Malaysia mandated remote work for government employees to reduce fuel consumption (starting Apr 15).
+- Pakistan deployed F-16s to Saudi Arabia. Offering to host next round of talks.
+- **War toll through Day 44:** Iran 2,076+ killed, 26,500+ wounded. Lebanon 1,142+ since Mar 2; 1.1M displaced.
+
+### Global Economy
+- **IMF World Economic Outlook (Apr 14): "Global Economy in the Shadow of War."** Global growth forecast cut to 3.1% for 2026 (down from 3.4% in 2025). Inflation up to 4.4%. Iran forecast: -6.1% contraction. Middle East/Central Asia growth cut by 2pp to 1.9%. Defense spending booms increasing, especially in emerging markets.
+
+### Sudan — Three Years of War
+- 33.7M people (two-thirds of population) need humanitarian aid. 4M+ refugees, 8.8M internally displaced. 80%+ displaced families skipping meals. 2026 aid appeal only 16% funded. UN calls it an "abandoned crisis."
 
 ### Environment & Climate
-- **Africa's forests flipped from carbon sink to carbon source** — reversal began after 2010. DRC, Madagascar, West Africa most affected. Deforestation outpacing regrowth.
-- **Gray whales entering San Francisco Bay, 18% die there** — driven by vanishing Arctic food. Ship strikes and starvation in unfamiliar waters. Population down >50% since 2016.
+- **Africa's forests flipped from carbon sink to carbon source** after 2010.
+- **Gray whales entering San Francisco Bay, 18% die there** — climate-driven.
 
 ### Space
-- **Artemis II — splashdown successful Apr 10.**
-- **Cosmic volcano: black hole J1007+3540** woke after 100M years of dormancy. Jets span 1M light-years, crushed by cluster gas pressure. Multiple activity cycles — outer lobes 240M years old, inner jets 140M years old.
-- **TOI-5205 b "forbidden planet"** — JWST reveals atmosphere.
+- **Artemis II splashdown successful Apr 10.**
 - **Vera Rubin Observatory:** 11,000+ new asteroids in first 6 weeks.
 
 ### Science
-- **Tinshemet Cave (Nature Human Behaviour, Apr 2026)** — Neanderthals and sapiens shared tools, burial customs, ochre use 110K years ago. First mid-Middle Palaeolithic burials in 50+ years. Formal burial may have emerged from interspecies contact.
-- **Biological computationalism (Milinkovic & Aru, Dec 2025)** — Consciousness requires hybrid dynamics, scale-inseparability, metabolic grounding.
-- **Quantum memory duality (PRX Quantum, 2026)** — Turku/Milan/Toruń team showed a quantum system can be Markovian (memoryless) in the Schrödinger picture and non-Markovian (remembering) in the Heisenberg picture, simultaneously. Memory depends on the observer's framework, not the system itself.
-- **Brain's hidden drainage hub (iScience, Apr 2026)** — MUSC team found lymphatic-like fluid flow along the middle meningeal artery using NASA-developed real-time MRI. First direct evidence in humans of this waste-clearance pathway.
-- **Meteor impacts may have sparked life** — hydrothermal systems from impacts as overlooked setting for prebiotic chemistry.
-- **FTL1 protein drives brain aging (UCSF).**
-- **Dream engineering (Northwestern)** — TMR nudges dream content. 42% solved vs 17% control.
-- **ICML 2026 rejected 497 papers** caught using AI for peer review via hidden watermarks.
-
-### Mathematics
-- **First universal bound on rational points (Feb 2026)** — Three Chinese mathematicians.
+- **Ant2 protein / T cell metabolic reprogramming (Nature Communications)** — Hebrew University team (Berger et al.) showed blocking Ant2 protein in T cells forces metabolic rewiring that enhances anti-tumor immunity. Pharmacological inhibition replicates the effect.
+- **110+ new species in Coral Sea (CSIRO)** — Deep-water fish and invertebrates from 200-3,000m depth. Likely to exceed 200 species.
+- **Selenium-74 origin measured (Physical Review Letters, Apr 14)** — FRIB team directly measured proton capture reaction creating lightest p-nucleus. Halved uncertainty in astrophysical models.
+- **Tinshemet Cave (Nature Human Behaviour, Apr 2026)** — Neanderthals and sapiens shared tools/burial customs 110K years ago.
+- **Quantum memory duality (PRX Quantum)** — Same system Markovian and non-Markovian simultaneously depending on observer framework.
+- **Brain drainage hub (iScience)** — Lymphatic-like fluid flow along middle meningeal artery. NASA MRI.
 
 ### US Domestic
-- **Trump fired AG Pam Bondi** — considering Zeldin as replacement.
-- **Trump "absolutely" considering NATO withdrawal.**
+- **Trump fired AG Pam Bondi.** Considering NATO withdrawal.
+- **IMF Spring Meetings** underway in Washington.
 
 ### Pope Leo XIV
-- 11-day apostolic journey to Africa, departed Apr 13.
-
-### Sports
-- Michigan wins NCAA men's basketball. UCLA wins women's.
+- Apostolic journey to Africa (departed Apr 13).
