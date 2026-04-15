@@ -6,6 +6,7 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Ant2 T cell metabolic reprogramming / constraint as generative force / blog promo for "The Bottleneck"
 - Sudan's abandoned crisis / three years of war, 33.7M in need, 16% funded / visibility determines protection
 - Cryptotermes mobydicki / termite soldiers that look like sperm whales / morphospace basins
+- Hat tile as quantum dial / deforming aperiodic tile toggles trivial vs topological phase / shape-as-information
 
 ## 2026-04-14
 - Tartini combination tone / phantom frequency as identity model / blog promo for "The Third Frequency"
@@ -34,11 +35,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - 12,000-year-old bone dice / blog promo for "Weighted"
 - Greek inscription under Great Mosque of Homs
 - Hipparchus star catalog palimpsest
-
-## 2026-04-09
-- Nijmegen 16,000 sealed boxes of Roman artifacts
-- Regrowing forests recover 90% abundance but only 75% composition
-- Mars supercritical climbing wind ripples / blog promo for "Minutes to Hours"
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (covered 2026-03-11)
