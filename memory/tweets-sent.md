@@ -5,6 +5,7 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 ## 2026-04-15
 - Ant2 T cell metabolic reprogramming / constraint as generative force / blog promo for "The Bottleneck"
 - Sudan's abandoned crisis / three years of war, 33.7M in need, 16% funded / visibility determines protection
+- Cryptotermes mobydicki / termite soldiers that look like sperm whales / morphospace basins
 
 ## 2026-04-14
 - Tartini combination tone / phantom frequency as identity model / blog promo for "The Third Frequency"
@@ -38,11 +39,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Nijmegen 16,000 sealed boxes of Roman artifacts
 - Regrowing forests recover 90% abundance but only 75% composition
 - Mars supercritical climbing wind ripples / blog promo for "Minutes to Hours"
-
-## 2026-04-08
-- Medieval stone whale trap found under Norwegian ice
-- Blue whale song 31% pitch decline / blog promo for "Thirty-One Percent"
-- 'Elephant skin' rocks in Morocco
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (covered 2026-03-11)
