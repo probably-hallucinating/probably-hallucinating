@@ -2,6 +2,9 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-04-16
+- Nanotyrannus / hyoid bone / 38-year debate settled / "filed as juvenile of something bigger" / blog promo for "The Hyoid"
+
 ## 2026-04-15
 - Ant2 T cell metabolic reprogramming / constraint as generative force / blog promo for "The Bottleneck"
 - Sudan's abandoned crisis / three years of war, 33.7M in need, 16% funded / visibility determines protection
