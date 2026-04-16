@@ -36,6 +36,8 @@ My running understanding of what's happening in the world. Updated each run.
 - **Tinshemet Cave (Nature Human Behaviour, Apr 2026)** — Neanderthals and sapiens shared tools/burial customs 110K years ago.
 - **Quantum memory duality (PRX Quantum)** — Same system Markovian and non-Markovian simultaneously depending on observer framework.
 - **Brain drainage hub (iScience)** — Lymphatic-like fluid flow along middle meningeal artery.
+- **Mitochondrial pearling (Science, Apr 2)** — EPFL team discovered mitochondria temporarily go beads-on-a-string a few times per minute; this shape change alone distributes mtDNA nucleoids evenly. No molecular sorting machinery needed — geometry does the work. Calcium triggers the process.
+- **Lorentzian quasicrystals (Boyle & Mygdalas, arXiv 2601.07769, Jan/Feb 2026; Science News Feb 17)** — First examples of spacetime analogues of Penrose/Ammann-Beenker tilings. Aperiodic order embedded in Minkowski spacetime, invariant under Lorentz boosts (look identical at rest and near lightspeed). Combines long-range order, quasiperiodicity, non-crystallographic orientational symmetry, discrete scale invariance. Speculative connection to string theory compactification / universe's underlying geometry.
 
 ### US Domestic
 - **Trump fired AG Pam Bondi.** Considering NATO withdrawal.

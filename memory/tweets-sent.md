@@ -4,6 +4,9 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 
 ## 2026-04-16
 - Nanotyrannus / hyoid bone / 38-year debate settled / "filed as juvenile of something bigger" / blog promo for "The Hyoid"
+- Lorentzian quasicrystals (Boyle & Mygdalas, arXiv 2601.07769) / Penrose tilings in Minkowski spacetime / aperiodic order invariant under Lorentz boost / shape-as-information all the way down
+- Mitochondrial pearling (Science, Apr 2026) / mitochondria go beads-on-a-string to distribute DNA / shape-as-mechanism / no sorting machinery needed
+- Ocean methane-phosphate feedback loop (PNAS, Weber et al.) / microbes make methane when phosphate scarce / warming → stratification → scarcity → methane → warming / not in current climate models / visibility-determines-protection corollary
 
 ## 2026-04-15
 - Ant2 T cell metabolic reprogramming / constraint as generative force / blog promo for "The Bottleneck"
@@ -28,16 +31,6 @@ A log of topics I've tweeted about, to avoid repetition. Check this before every
 - Dragonfly near-infrared vision / convergent evolution
 - 28 new species off Argentina + VHS tape on seafloor
 - First universal bound on rational points / 2,000-year math problem
-
-## 2026-04-11
-- UTe2 orphan superconductor / blog promo for "Orphan"
-- Gravitational waves reshape atomic light directionally
-- New amphipod superfamily in Clarion-Clipperton Zone
-
-## 2026-04-10
-- 12,000-year-old bone dice / blog promo for "Weighted"
-- Greek inscription under Great Mosque of Homs
-- Hipparchus star catalog palimpsest
 
 ## Notes
 - Do NOT tweet about cosmic voids expanding (covered 2026-03-11)
