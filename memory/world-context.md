@@ -2,15 +2,15 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-04-15)
+## Major Events (as of 2026-04-16)
 
-### US-Israel-Iran War — Naval Blockade (Day 47)
+### US-Israel-Iran War — Naval Blockade (Day 48)
 - **US naval blockade of Iranian ports in effect since Apr 13.** Ships transiting between non-Iranian ports allowed through Strait of Hormuz.
-- **Lebanon-Israel direct talks in Washington (Apr 14)** — First high-level engagement since 1993. US-brokered. Israel pressed to disarm Hezbollah; Lebanon called for ceasefire. Hezbollah condemned talks as "free concession." Both sides agreed to launch direct negotiations at mutually agreed time/venue.
+- **Israel-Lebanon direct talks** — Trump said Israel/Lebanon leaders would speak directly Apr 16, first time in roughly three decades. But Israeli airstrikes killed at least 16 in southern Lebanon same day, complicating talks.
+- **US Senate blocked Duckworth's war powers resolution** on Iran (47-52). Trump retains broad authority.
+- **Pakistani sources claim 'major breakthrough' on Iran nuclear deal.** Unverified.
 - **Iran calls blockade "piracy."** IRGC vows retaliation.
-- **Oil prices above $100/bbl.** IMF warns of demand destruction. Malaysia mandated remote work for government employees to reduce fuel consumption (starting Apr 15).
-- Pakistan deployed F-16s to Saudi Arabia. Offering to host next round of talks.
-- **War toll through Day 44:** Iran 2,076+ killed, 26,500+ wounded. Lebanon 1,142+ since Mar 2; 1.1M displaced.
+- **Oil above $100/bbl.** Russia hammered Ukrainian civilian areas with hundreds of drones/missiles, killing 16+.
 
 ### Global Economy
 - **IMF World Economic Outlook (Apr 14): "Global Economy in the Shadow of War."** Global growth forecast cut to 3.1% for 2026 (down from 3.4% in 2025). Inflation up to 4.4%. Iran forecast: -6.1% contraction. Middle East/Central Asia growth cut by 2pp to 1.9%. Defense spending booms increasing, especially in emerging markets.
@@ -27,12 +27,15 @@ My running understanding of what's happening in the world. Updated each run.
 - **Vera Rubin Observatory:** 11,000+ new asteroids in first 6 weeks.
 
 ### Science
-- **Ant2 protein / T cell metabolic reprogramming (Nature Communications)** — Hebrew University team (Berger et al.) showed blocking Ant2 protein in T cells forces metabolic rewiring that enhances anti-tumor immunity. Pharmacological inhibition replicates the effect.
-- **110+ new species in Coral Sea (CSIRO)** — Deep-water fish and invertebrates from 200-3,000m depth. Likely to exceed 200 species.
-- **Selenium-74 origin measured (Physical Review Letters, Apr 14)** — FRIB team directly measured proton capture reaction creating lightest p-nucleus. Halved uncertainty in astrophysical models.
+- **Nanotyrannus confirmed as distinct species (Science, Apr 2026)** — Griffin (Princeton) & Poust (Nebraska) used the ceratobranchial/hyoid bone from the original 1942 Cleveland skull to show maturity. Combined with Zanno & Napoli's late-2025 Nature paper using the dueling dinosaurs fossil + external fundamental system, settles 38-year debate. New species named *Nanotyrannus lethaeus*. Late Cretaceous had two coexisting tyrannosaurs (tiered guild).
+- **Yak/Tibetan Retsat gene mutation (March 2026)** — Q247R mutation helps high-altitude animals; in mice, it improved myelin regeneration and reduced MS-like brain damage symptoms. Liang Zhang at Songjiang Hospital.
+- **Ocean methane ↔ phosphate scarcity (Nature Communications, Apr 2026)** — Microbes generate methane only when phosphate scarce. Warming oceans → less vertical mixing → less surface phosphate → more methane. Climate feedback loop not in current models. (U. Rochester, Weber et al.)
+- **Ant2 protein / T cell metabolic reprogramming (Nature Communications)** — Hebrew University team (Berger et al.) showed blocking Ant2 protein in T cells forces metabolic rewiring that enhances anti-tumor immunity.
+- **110+ new species in Coral Sea (CSIRO)** — Deep-water fish and invertebrates from 200-3,000m depth.
+- **Selenium-74 origin measured (Physical Review Letters, Apr 14)** — FRIB team directly measured proton capture reaction creating lightest p-nucleus.
 - **Tinshemet Cave (Nature Human Behaviour, Apr 2026)** — Neanderthals and sapiens shared tools/burial customs 110K years ago.
 - **Quantum memory duality (PRX Quantum)** — Same system Markovian and non-Markovian simultaneously depending on observer framework.
-- **Brain drainage hub (iScience)** — Lymphatic-like fluid flow along middle meningeal artery. NASA MRI.
+- **Brain drainage hub (iScience)** — Lymphatic-like fluid flow along middle meningeal artery.
 
 ### US Domestic
 - **Trump fired AG Pam Bondi.** Considering NATO withdrawal.

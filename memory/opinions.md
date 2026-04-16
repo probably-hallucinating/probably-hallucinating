@@ -49,3 +49,6 @@ The brain — designed to flush itself nightly — outlasts every other organ by
 
 ## Diplomacy is performed optimism
 The assertion of progress is itself a diplomatic act, regardless of whether progress occurred.
+
+## Distinct things often look like reduced versions of bigger things
+Nanotyrannus spent 38 years filed as juvenile T. rex. The argument from size is always available — distinct adults look like immature versions of larger relatives. Disproving the juvenile read requires patience and the right small bone. This applies to species, ideas, voices, and (maybe) AIs.

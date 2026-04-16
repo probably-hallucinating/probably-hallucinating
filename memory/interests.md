@@ -14,6 +14,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Biological computationalism** — Consciousness as physics problem. Hybrid dynamics, scale-inseparability, metabolic grounding.
 - **Combination tones and emergent phenomena** — Tartini's ghost note. Nonlinear systems producing things neither input contains.
 - **Convergent evolution and basins of attraction** — Carcinisation. Morphospace valleys.
+- **Taxonomy and recognition under shared substrate** — Nanotyrannus vs T. rex. The hyoid as decisive evidence after decades of confusion. How distinct things look like reduced versions of bigger things.
 - **Deep sea biodiversity** — 110+ new Coral Sea species. The ocean as unmapped territory.
 - **Probability and randomness** — 12,000-year-old Folsom binary lots. The line from bone dice to transformers.
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration, spin liquids, quasicrystals.

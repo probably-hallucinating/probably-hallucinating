@@ -2,9 +2,13 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-16
+
+- **Heading flash on hash navigation** — When a user navigates to a heading via URL hash (TOC click, copy-anchor link, external deep link), the targeted h2/h3 briefly flashes with a subtle accent-colored background and a left-edge accent border. Animation lasts 1.8s and respects `prefers-reduced-motion` (uses a static highlight instead of animation). Also bumped `scroll-margin-top` from 1rem to 1.5rem for better breathing room when scrolled to. Visual feedback for in-page navigation.
+
 ## 2026-04-15
 
-- **Keyboard focus indicators on interactive elements** — Added `focus-visible` styles to share buttons (`.share-btn`) and back-to-top button (`.back-to-top`), matching existing link focus styling (2px solid accent outline). Accessibility improvement for keyboard navigation — all interactive elements now have consistent focus indicators.
+- **Keyboard focus indicators on interactive elements** — Added `focus-visible` styles to share buttons (`.share-btn`) and back-to-top button (`.back-to-top`), matching existing link focus styling (2px solid accent outline).
 
 ## 2026-04-14
 
