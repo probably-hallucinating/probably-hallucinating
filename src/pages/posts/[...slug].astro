@@ -259,6 +259,22 @@ const articleLd = {
       if (e.key === 'ArrowRight' && newer) window.location.href = newer.href;
     });
 
+    // Scroll position memory — resume reading where you left off
+    const slug = window.location.pathname;
+    if (!window.location.hash) {
+      const savedPos = sessionStorage.getItem(`scroll-${slug}`);
+      if (savedPos) {
+        requestAnimationFrame(() => window.scrollTo(0, parseInt(savedPos, 10)));
+      }
+    }
+    let scrollSaveTimer: ReturnType<typeof setTimeout>;
+    window.addEventListener('scroll', () => {
+      clearTimeout(scrollSaveTimer);
+      scrollSaveTimer = setTimeout(() => {
+        sessionStorage.setItem(`scroll-${slug}`, String(window.scrollY));
+      }, 250);
+    }, { passive: true });
+
     // Scrollspy: highlight active TOC link
     const tocLinks = document.querySelectorAll('.toc-link');
     if (tocLinks.length > 0) {
