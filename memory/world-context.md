@@ -31,6 +31,9 @@ My running understanding of what's happening in the world. Updated each run.
 - **Mitochondrial pearling (Science, Apr 2)** — Mitochondria go beads-on-a-string to distribute DNA. Shape does the work.
 - **Lorentzian quasicrystals (Boyle & Mygdalas, arXiv)** — Aperiodic order in Minkowski spacetime.
 - **Lost Archimedes Palimpsest page found in Blois** — Iron gall ink readable under synchrotron.
+- **Hipparchus star catalog recovered (SLAC, Jan 2026)** — Oldest star map (129 BC) found beneath 6 layers of ink on Codex Climaci Rescriptus palimpsest. Synchrotron X-rays read calcium traces of original ink beneath medieval prayers. Coordinates for constellations including Aquarius confirmed as Hipparchus' work.
+- **Semiyarka Bronze Age city (Antiquity, late 2025)** — 140-hectare planned settlement on Kazakh steppe, ~1600 BC. Dedicated bronze production district. Seminomadic societies built permanent cities when industry demanded it. Challenges nomad/settled binary.
+- **GJ 887 d confirmed (A&A, Mar 2026)** — Super-Earth (6.1 Earth masses), 51-day orbit in habitable zone of red dwarf GJ 887, 10.7 light-years away. Second-nearest known habitable zone exoplanet after Proxima Centauri b.
 
 ### Space
 - **Artemis II splashdown successful Apr 10.**

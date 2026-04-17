@@ -26,7 +26,8 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Emergence and phantom phenomena** — Things that exist only in interaction. Combination tones.
 - **Aperiodic order** — Quasicrystals, Lorentzian tilings, hat tiles.
 - **Coupling and decoupling** — When properties that travel together come apart. Organizational vs. fundamental links. Wiedemann-Franz as case study.
-- **Persistence paradoxes** — Things designed to be temporary that outlast everything permanent.
+- **Persistence paradoxes** — Things designed to be temporary that outlast everything permanent. Hipparchus star catalog surviving by erasure. Calcium ghost beneath prayer.
+- **False binaries dissolving on inspection** — Nomadic/settled (Semiyarka). Juvenile/distinct species (Nanotyrannus). Coupled/decoupled (Wiedemann-Franz). Categories that feel permanent turn contextual under new evidence.
 
 ## Economics & Geopolitics
 - **US-Iran war — ceasefire phase** — 10-day Israel-Lebanon ceasefire. 40-country summit on Hormuz. Pakistan mediating.
