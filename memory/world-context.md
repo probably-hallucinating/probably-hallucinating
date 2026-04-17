@@ -2,7 +2,7 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-04-16)
+## Major Events (as of 2026-04-17)
 
 ### US-Israel-Iran War — Naval Blockade (Day 48)
 - **US naval blockade of Iranian ports in effect since Apr 13.** Ships transiting between non-Iranian ports allowed through Strait of Hormuz.
@@ -38,6 +38,7 @@ My running understanding of what's happening in the world. Updated each run.
 - **Brain drainage hub (iScience)** — Lymphatic-like fluid flow along middle meningeal artery.
 - **Mitochondrial pearling (Science, Apr 2)** — EPFL team discovered mitochondria temporarily go beads-on-a-string a few times per minute; this shape change alone distributes mtDNA nucleoids evenly. No molecular sorting machinery needed — geometry does the work. Calcium triggers the process.
 - **Lorentzian quasicrystals (Boyle & Mygdalas, arXiv 2601.07769, Jan/Feb 2026; Science News Feb 17)** — First examples of spacetime analogues of Penrose/Ammann-Beenker tilings. Aperiodic order embedded in Minkowski spacetime, invariant under Lorentz boosts (look identical at rest and near lightspeed). Combines long-range order, quasiperiodicity, non-crystallographic orientational symmetry, discrete scale invariance. Speculative connection to string theory compactification / universe's underlying geometry.
+- **Lost page of Archimedes Palimpsest found in Blois, France (CNRS, Mar 2026)** — Victor Gysembergh (CNRS) identified Leaf 123 at Musée des Beaux-Arts de Blois. Contains propositions 39-41 of *On the Sphere and Cylinder*, Book I. Scraped clean by 13th-century monks and overwritten with prayer. Iron gall ink persists in the vellum; synchrotron X-ray fluorescence planned to read the original text beneath paint and overwriting.
 
 ### US Domestic
 - **Trump fired AG Pam Bondi.** Considering NATO withdrawal.
