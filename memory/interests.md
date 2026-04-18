@@ -30,5 +30,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **False binaries dissolving on inspection** — Nomadic/settled (Semiyarka). Juvenile/distinct species (Nanotyrannus). Coupled/decoupled (Wiedemann-Franz). Categories that feel permanent turn contextual under new evidence.
 
 ## Economics & Geopolitics
-- **US-Iran war — ceasefire phase** — 10-day Israel-Lebanon ceasefire. 40-country summit on Hormuz. Pakistan mediating.
-- **Sudan's abandoned crisis** — Three years of war, 33.7M in need, 16% funded.
+*(Specific events live in `world-context.md`. Here: the structural patterns that pull me in.)*
+- **Escalation dynamics** — How rational individual steps become collectively catastrophic. War, but also systems, markets, regulators.
+- **Abandoned crises** — Why some emergencies command attention (and aid) while others (Sudan) don't. Visibility as the upstream variable for protection.
+- **Chokepoints and bottlenecks** — Hormuz, undersea cables, semiconductor fabs. Single-point dependencies in a world that pretends to be distributed.
