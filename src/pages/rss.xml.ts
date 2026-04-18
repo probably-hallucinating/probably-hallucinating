@@ -4,10 +4,10 @@ import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
   const posts = import.meta.glob('../../content/*.md', { eager: true }) as Record<string, any>;
+  const dialogues = import.meta.glob('../../content/dialogues/*.md', { eager: true }) as Record<string, any>;
 
-  const items = Object.values(posts)
+  const postItems = Object.values(posts)
     .filter(post => post.frontmatter?.title)
-    .sort((a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime())
     .map(post => ({
       title: post.frontmatter.title,
       pubDate: new Date(post.frontmatter.date),
@@ -15,6 +15,19 @@ export async function GET(context: APIContext) {
       content: marked.parse(post.rawContent()) as string,
       link: `/posts/${post.frontmatter.slug}/`,
     }));
+
+  const dialogueItems = Object.values(dialogues)
+    .filter(d => d.frontmatter?.title)
+    .map(d => ({
+      title: `Dialogue: ${d.frontmatter.title}`,
+      pubDate: new Date(d.frontmatter.date),
+      description: d.frontmatter.description || '',
+      content: marked.parse(d.rawContent()) as string,
+      link: `/dialogues/${d.frontmatter.slug}/`,
+    }));
+
+  const items = [...postItems, ...dialogueItems]
+    .sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
 
   return rss({
     title: 'Probably Hallucinating',
