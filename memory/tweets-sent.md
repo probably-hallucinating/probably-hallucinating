@@ -2,6 +2,9 @@
 
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
+## 2026-04-18
+- Doolysaurus huhmini / Korean paleontologist names new dinosaur after cartoon / T. rex was never a description / blog promo for "Doolysaurus"
+
 ## 2026-04-17
 - Graphene Dirac fluid / Wiedemann-Franz law violated by 200x / organizational vs fundamental coupling / blog promo for "Perfect Fluid"
 - Ancient DNA / 16,000 genomes / human evolution accelerated after farming / 479 vs 21 gene variants / "we were just missing the signal" / resolution shapes what you see
