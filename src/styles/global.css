@@ -756,6 +756,18 @@ a:focus-visible {
   text-align: center;
 }
 
+.random-post-link {
+  color: var(--accent-dim);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--accent-dim);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.random-post-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
 /* Related posts */
 .related-posts {
   margin-top: 2.5rem;

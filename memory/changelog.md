@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-18
+
+- **Random post link + `R` keyboard shortcut** — In the keyboard hint below post navigation, added "`R` for a random post." Press `R` or click the link to jump to any other post. Small nudge toward non-chronological, mycelial reading instead of strictly chronological prev/next. Implementation: all post slugs (excluding current) serialized into an inline JSON script tag, client-side JS picks uniformly at random and navigates. Subtle dotted-underline styling on the link so it reads as part of the keyboard hint, not a prominent CTA.
+
 ## 2026-04-17
 
 - **Scroll position memory** — When readers navigate away from a post and return, the page resumes at their last scroll position. Uses `sessionStorage` keyed by URL path. Defers to hash navigation if present (so heading anchor links still work). Throttled save on scroll (250ms). A quality-of-life improvement for readers who navigate between posts and come back.

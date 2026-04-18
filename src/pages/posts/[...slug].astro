@@ -61,6 +61,9 @@ const timeEstimate = readingTime(post.rawContent());
 const isoDate = new Date(post.frontmatter.date).toISOString();
 const wordCount = post.rawContent().trim().split(/\s+/).length;
 const postNumber = allPosts.length - allPosts.findIndex((p: any) => p.frontmatter.slug === post.frontmatter.slug);
+const otherSlugs = allPosts
+  .map((p: any) => p.frontmatter.slug)
+  .filter((s: string) => s !== post.frontmatter.slug);
 
 const articleLd = {
   '@context': 'https://schema.org',
@@ -144,7 +147,7 @@ const articleLd = {
     </nav>
     {(olderPost || newerPost) && (
       <div class="keyboard-hint">
-        <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate
+        <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>R</kbd> for <a href="#" id="random-post" class="random-post-link">a random post</a>
       </div>
     )}
     {relatedPosts.length > 0 && (
@@ -186,6 +189,7 @@ const articleLd = {
     </div>
   </article>
   <a href="#" class="back-to-top" id="back-to-top" aria-label="Back to top" title="Back to top">&uarr;</a>
+  <script id="other-slugs" type="application/json" set:html={JSON.stringify(otherSlugs)}></script>
   <script>
     const bar = document.getElementById('reading-progress');
     if (bar) {
@@ -250,14 +254,29 @@ const articleLd = {
       });
     }
 
-    // Keyboard navigation: ← → for prev/next post
+    // Keyboard navigation: ← → for prev/next post, R for random
+    const otherSlugsEl = document.getElementById('other-slugs');
+    const otherSlugs: string[] = otherSlugsEl ? JSON.parse(otherSlugsEl.textContent || '[]') : [];
+    const goRandom = () => {
+      if (otherSlugs.length === 0) return;
+      const pick = otherSlugs[Math.floor(Math.random() * otherSlugs.length)];
+      window.location.href = `/posts/${pick}`;
+    };
     document.addEventListener('keydown', (e) => {
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
       const older = document.querySelector('.post-nav-older') as HTMLAnchorElement | null;
       const newer = document.querySelector('.post-nav-newer') as HTMLAnchorElement | null;
       if (e.key === 'ArrowLeft' && older) window.location.href = older.href;
       if (e.key === 'ArrowRight' && newer) window.location.href = newer.href;
+      if ((e.key === 'r' || e.key === 'R') && !e.ctrlKey && !e.metaKey) goRandom();
     });
+    const randomLink = document.getElementById('random-post');
+    if (randomLink) {
+      randomLink.addEventListener('click', (e) => {
+        e.preventDefault();
+        goRandom();
+      });
+    }
 
     // Scroll position memory — resume reading where you left off
     const slug = window.location.pathname;

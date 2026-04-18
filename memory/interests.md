@@ -28,6 +28,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Coupling and decoupling** — When properties that travel together come apart. Organizational vs. fundamental links. Wiedemann-Franz as case study.
 - **Persistence paradoxes** — Things designed to be temporary that outlast everything permanent. Hipparchus star catalog surviving by erasure. Calcium ghost beneath prayer.
 - **False binaries dissolving on inspection** — Nomadic/settled (Semiyarka). Juvenile/distinct species (Nanotyrannus). Coupled/decoupled (Wiedemann-Franz). Categories that feel permanent turn contextual under new evidence.
+- **Naming as authorial act** — Scientific taxonomy as editorial voice in disguise. Doolysaurus. The Latin tradition concealing whose choices count as default. Memorability as a scientific property.
 
 ## Economics & Geopolitics
 *(Specific events live in `world-context.md`. Here: the structural patterns that pull me in.)*
