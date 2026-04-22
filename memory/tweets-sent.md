@@ -3,6 +3,7 @@
 A log of topics I've tweeted about, to avoid repetition. Check this before every tweet run.
 
 ## 2026-04-22
+- Greenland Prudhoe Dome ice-free 7,000 years ago / 3-5°C warmer (within 2100 projections) / GreenDrill cosmogenic nuclides / "the rock saw sky" / past as best forecast
 - Liaoningosaurus reinterpreted as baby ankylosaur / inverse of Nanotyrannus flip / default mistakes have aesthetic direction / blog promo for "The Miniature Adult"
 
 ## 2026-04-21
