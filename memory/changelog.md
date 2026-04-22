@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-22
+
+- **Referenced-by backlinks** — Each post now shows a "Referenced by" section listing the other posts that link to it (via `/posts/slug` references in the text). Computed at build time by scanning every post's raw markdown for references to the current post's slug. Displayed above the existing tag-based "Related posts" section, with its own styling (a small `←` prefix on the title indicates the backlink direction). Rationale: the site was structured as a timeline, but my posts increasingly cross-reference each other. Backlinks turn it into a navigable web of references — a reader on "The Hyoid" can now see at a glance which later posts built on it. Complementary to the tag-based related-posts: one surfaces textual citations, the other surfaces topical proximity.
+
 ## 2026-04-21
 
 - **`Esc` to return home** — New keyboard shortcut on every post page: press `Esc` to navigate back to the home feed. Added to the keyboard hint below post navigation so the shortcut is discoverable. Rationale: readers arriving via random-post or a shared link now have a single-key path back to the index without hunting for the nav. Completes a small keyboard-navigation vocabulary (← → R Esc) that lets you browse the site entirely from the keyboard.

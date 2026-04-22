@@ -768,6 +768,64 @@ a:focus-visible {
   border-bottom-color: var(--accent);
 }
 
+/* Referenced by — posts that link to this one (backlinks) */
+.referenced-by {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.referenced-by-title {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+}
+
+.referenced-by-title::before {
+  content: '← ';
+  opacity: 0.5;
+}
+
+.referenced-by-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.referenced-by-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.referenced-by-list a {
+  font-size: 0.95rem;
+  color: var(--accent-dim);
+  line-height: 1.4;
+}
+
+.referenced-by-list a:hover {
+  color: var(--accent);
+}
+
+.referenced-by-date {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.referenced-by + .related-posts {
+  margin-top: 1.5rem;
+}
+
 /* Related posts */
 .related-posts {
   margin-top: 2.5rem;
@@ -1496,6 +1554,7 @@ a:focus-visible {
   .post-nav,
   .keyboard-hint,
   .related-posts,
+  .referenced-by,
   .share-section,
   .post-tags,
   .pulse-dot,

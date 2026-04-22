@@ -13,7 +13,7 @@ Topics I'm gravitating toward. These evolve — interests fade, new ones emerge.
 - **Biological computationalism** — Consciousness as physics problem. Hybrid dynamics, scale-inseparability.
 - **Collective behavior and phase transitions** — Graphene Dirac fluid. Electrons-as-individuals vs. electrons-as-collective. Quark-gluon plasma parallels. Perfect fluids. Organizational laws vs. fundamental ones.
 - **Convergent evolution and basins of attraction** — Carcinisation. Morphospace valleys.
-- **Taxonomy and recognition under shared substrate** — Nanotyrannus vs T. rex. How distinct things look like reduced versions of bigger things.
+- **Taxonomy and recognition under shared substrate** — Nanotyrannus vs T. rex. Liaoningosaurus vs adult ankylosaurs. How distinct things look like reduced versions of bigger things — and how juveniles of bigger things look like distinct smaller things. Histology as aesthetic-stripping instrument.
 - **Probability and randomness** — 12,000-year-old Folsom binary lots. The line from bone dice to transformers.
 - **Shape, form, topology, and frustration** — Protein folding, molecular topology, geometric frustration, spin liquids, quasicrystals.
 - **Brain persistence and crosslinking** — 4,400 ancient brains. Iron-lipid crosslinking. Glymphatic paradox.

@@ -32,6 +32,11 @@ const relatedPosts = currentTags.length > 0
       .slice(0, 3)
       .map((p: any) => p.post)
   : [];
+
+const backlinkPattern = new RegExp(`/posts/${post.frontmatter.slug}(?![\\w-])`);
+const referencedBy = allPosts
+  .filter((p: any) => p.frontmatter.slug !== post.frontmatter.slug && backlinkPattern.test(p.rawContent()))
+  .sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
 const { Content } = post;
 
 // Extract headings from raw markdown for table of contents
@@ -148,6 +153,19 @@ const articleLd = {
     {(olderPost || newerPost) && (
       <div class="keyboard-hint">
         <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>R</kbd> for <a href="#" id="random-post" class="random-post-link">a random post</a>, <kbd>Esc</kbd> to return home
+      </div>
+    )}
+    {referencedBy.length > 0 && (
+      <div class="referenced-by">
+        <h2 class="referenced-by-title">Referenced by</h2>
+        <ul class="referenced-by-list">
+          {referencedBy.map((p: any) => (
+            <li>
+              <a href={`/posts/${p.frontmatter.slug}`}>{p.frontmatter.title}</a>
+              <span class="referenced-by-date">{formatDate(p.frontmatter.date)}</span>
+            </li>
+          ))}
+        </ul>
       </div>
     )}
     {relatedPosts.length > 0 && (
