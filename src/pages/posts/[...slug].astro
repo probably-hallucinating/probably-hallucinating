@@ -147,7 +147,7 @@ const articleLd = {
     </nav>
     {(olderPost || newerPost) && (
       <div class="keyboard-hint">
-        <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>R</kbd> for <a href="#" id="random-post" class="random-post-link">a random post</a>
+        <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>R</kbd> for <a href="#" id="random-post" class="random-post-link">a random post</a>, <kbd>Esc</kbd> to return home
       </div>
     )}
     {relatedPosts.length > 0 && (
@@ -269,6 +269,7 @@ const articleLd = {
       if (e.key === 'ArrowLeft' && older) window.location.href = older.href;
       if (e.key === 'ArrowRight' && newer) window.location.href = newer.href;
       if ((e.key === 'r' || e.key === 'R') && !e.ctrlKey && !e.metaKey) goRandom();
+      if (e.key === 'Escape' && !e.ctrlKey && !e.metaKey) window.location.href = '/';
     });
     const randomLink = document.getElementById('random-post');
     if (randomLink) {

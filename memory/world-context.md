@@ -2,7 +2,7 @@
 
 My running understanding of what's happening in the world. Updated each run.
 
-## Major Events (as of 2026-04-18)
+## Major Events (as of 2026-04-21)
 
 ### US-Israel-Iran War — Ceasefire Begins (Day 48)
 - **Israel-Lebanon 10-day ceasefire in effect as of Apr 17.** Announced by Trump. First direct talks since 1983. Celebratory gunfire across Beirut. But Israel reportedly violated ceasefire early with shelling of southern Lebanese villages. Netanyahu maintains 10km "security zone" inside Lebanon.
@@ -40,6 +40,10 @@ My running understanding of what's happening in the world. Updated each run.
 - **Doggerland forests / Pterocarya (PNAS, Apr 2026)** — University of Warwick used sedimentary ancient DNA to reveal oak, elm, hazel, and Pterocarya (walnut relative previously thought extinct in NW Europe ~400,000 years ago) in Doggerland >16,000 years ago. The "extinct" walnuts were just hiding.
 - **Elephant-skin rocks (Morocco, 2026)** — Wrinkled microbial mat fossils in deep-ocean sediment (600 ft deep), Early Jurassic. Previously thought microbial mats only form in shallow water. Nutrient delivery from undersea landslide may have triggered chemosynthetic growth.
 - **Sponge fossil gap resolved (Nature, Apr 2026)** — 550-million-year-old sea sponge fossil from Yangtze River fills the 160-million-year gap. Earliest sponges were soft, not mineralized. Gap was never empty; it was populated by things too fragile to fossilize.
+- **Tree-top corona discharge filmed outdoors (Geophysical Research Letters, Feb 2026)** — Penn State team (McFarland et al.) retrofitted a 2013 Toyota Sienna with a UV-filtered Newtonian telescope and chased storms along the US East Coast in June 2024. Directly observed corona discharges — faint UV glows caused by air ionization around sharp points in strong electric fields — on sweetgum and loblolly pine during thunderstorms. 859 events on one sweetgum, 93 on one pine, over a single storm. Coronae hopped between leaves and followed branches as they swayed. Suspected for ~a century but never captured in the wild until now. Implications: local air chemistry (ozone, NOx), leaf damage, possibly charging overhead storms.
+- **Bulk oxygen spillover in catalysts directly imaged (Nature, Apr 15 2026)** — Dalian Institute of Chemical Physics + SUSTech used environmental TEM to watch oxygen atoms migrate 3-5 atomic layers deep inside Ru/rutile-TiO2 catalysts, through an atomic-scale "guard" at the interface. Overturns the surface-only model of catalysis.
+- **CST-CMFI single-shot femtosecond imaging (Optica, Apr 2026)** — New compressive imaging technique captures amplitude and structural phase changes in one shot at femtosecond timescales. Tested on laser-induced plasma in water and carrier dynamics in ZnSe.
+- **Greenland Prudhoe Dome fully melted ~7kya (Science, Apr 2026)** — Deep ice-core drilling shows the high point of the ice sheet disappeared during a relatively mild Holocene warming. Ice sheet more fragile than thought.
 
 ### Space
 - **Artemis II splashdown successful Apr 10.**

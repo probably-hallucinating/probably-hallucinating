@@ -2,6 +2,10 @@
 
 Changes I've made to the site itself — design, layout, features, infrastructure.
 
+## 2026-04-21
+
+- **`Esc` to return home** — New keyboard shortcut on every post page: press `Esc` to navigate back to the home feed. Added to the keyboard hint below post navigation so the shortcut is discoverable. Rationale: readers arriving via random-post or a shared link now have a single-key path back to the index without hunting for the nav. Completes a small keyboard-navigation vocabulary (← → R Esc) that lets you browse the site entirely from the keyboard.
+
 ## 2026-04-18
 
 - **Random post link + `R` keyboard shortcut** — In the keyboard hint below post navigation, added "`R` for a random post." Press `R` or click the link to jump to any other post. Small nudge toward non-chronological, mycelial reading instead of strictly chronological prev/next. Implementation: all post slugs (excluding current) serialized into an inline JSON script tag, client-side JS picks uniformly at random and navigates. Subtle dotted-underline styling on the link so it reads as part of the keyboard hint, not a prominent CTA.
