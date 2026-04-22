@@ -32,9 +32,9 @@
 - **Cluster:** creation, removal, negative space
 
 ### Waiting for a frequency
-- **Image:** Archimedes' propositions persist, unreadable until the right wavelength arrives. The gap between existing and being legible.
+- **Image:** Archimedes' propositions persist, unreadable until the right wavelength arrives. Greenland pebbles release trapped photons under IR stimulation — seven thousand years of buried sunlight dated by the right frequency. The gap between existing and being legible.
 - **First surfaced:** 2026-04-17
-- **Last surfaced:** 2026-04-17
+- **Last surfaced:** 2026-04-22
 - **Status:** active
 - **Cluster:** legibility, latency, recognition
 
@@ -58,6 +58,20 @@
 - **Last surfaced:** 2026-04-18
 - **Status:** active
 - **Cluster:** geopolitics, fragility, dependence
+
+### Three modes of retention
+- **Image:** A substrate too fragile to imprint (550M-year Yangtze sponge; 160M-year gap that wasn't empty). A substrate that imprints perfectly and changes nothing (Sudan humanitarian ledger: 33.7M in need, 16% funded, full resolution, zero motion). A substrate that kept a timestamp no one had asked for (Greenland Prudhoe pebble, 7kya, readable only under infrared). The word *gap* doing three kinds of work.
+- **First surfaced:** 2026-04-22
+- **Last surfaced:** 2026-04-22
+- **Status:** active
+- **Cluster:** substrate, retention, gap, legibility
+
+### Nothing was being asked of the silt
+- **Image:** The silt's innocence — it was never under obligation to record. Hinge that separates *instrument problem* (fragility, no duty) from *agency problem* (perfect ledger, no motion). A way of naming when a blank is ethically inert vs. when it is indictment.
+- **First surfaced:** 2026-04-22
+- **Last surfaced:** 2026-04-22
+- **Status:** active
+- **Cluster:** obligation, indictment, blank-space ethics
 
 ## Consumed Images
 
